@@ -7,6 +7,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 - [Awesome MATLAB](#awesome-)
   - [Commercial Toolboxes](#Commercial-Toolboxes)
   - [Free Toolboxes](#Free-Toolboxes)
+  - [MATLAB Clones](#MATLAB-Clones)
 - [Resources](#resources)
     - [Websites](#websites)
     - [Books](#books)
@@ -24,6 +25,12 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 
 * [Multiprecision Toolbox for MATLAB](http://www.advanpix.com/) - The Multiprecision Computing Toolbox is the MATLAB extension for computing with arbitrary precision.  The toolbox equips MATLAB with a new multiple precision floating-point numeric type and extensive set of mathematical functions that are capable of computing with arbitrary precision.
 * [NAG Toolbox for MATLAB](http://www.nag.co.uk/numeric/MB/start.asp) - Over 1700 functions across numerous areas of numerical mathematics. Developed by The Numerical Algorithms Group (NAG).
+
+## MATLAB Clones
+*MATLAB-like environments*
+
+* [GNU Octave](https://www.gnu.org/software/octave/) - GNU Octave is a high-level interpreted language, primarily intended for numerical computations. It can run many MATLAB programs unmodified.
+* [Scilab](http://www.scilab.org/) - Scilab is free and open source software for numerical computation providing a powerful computing environment for engineering and scientific applications.
 
 # Resources
 
