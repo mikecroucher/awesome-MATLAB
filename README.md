@@ -11,6 +11,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
   - [MATLAB Clones](#matlab-Clones)
 - [Resources](#resources)
     - [Websites](#websites)
+    - [Blogs](#blogs)
     - [Books](#books)
     - [Reference Cards](#reference-cards)
     - [MOOCs](#moocs)
@@ -46,6 +47,10 @@ Where to discover new MATLAB resources.
 
 * [MATLAB File Exchange](http://uk.mathworks.com/matlabcentral/fileexchange/) - File Exchange lets you find and share custom applications, classes, code examples, drivers, functions, Simulink models, scripts, and videos
 * [MATLAB on Stack Overflow](http://stackoverflow.com/questions/tagged/matlab) - Stack Overflow is a community of 4.7 million programmers, just like you, helping each other
+
+## Blogs
+
+* [Cleve’s Corner: Cleve Moler on Mathematics and Computing](http://blogs.mathworks.com/cleve/) - Cleve Moler is the author of the first MATLAB, one of the founders of MathWorks, and is currently Chief Mathematician at the company.
 
 ## Books
 
