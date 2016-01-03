@@ -26,6 +26,12 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [Multiprecision Toolbox for MATLAB](http://www.advanpix.com/) - The Multiprecision Computing Toolbox is the MATLAB extension for computing with arbitrary precision.  The toolbox equips MATLAB with a new multiple precision floating-point numeric type and extensive set of mathematical functions that are capable of computing with arbitrary precision.
 * [NAG Toolbox for MATLAB](http://www.nag.co.uk/numeric/MB/start.asp) - Over 1700 functions across numerous areas of numerical mathematics. Developed by The Numerical Algorithms Group (NAG).
 
+## Database Management
+*Toolboxes for managing data*
+
+* [go-redis](https://github.com/markuman/go-redis/) - Redis Mex client for Matlab
+* [mex-sqlite3](https://github.com/rmartinjak/mex-sqlite3) - Sqlite3 Mex client for Matlab
+
 ## Free Toolboxes
 *High quality free toolboxes*
 
