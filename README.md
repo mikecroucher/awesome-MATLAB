@@ -39,6 +39,7 @@ Where to discover new MATLAB resources.
 ## Websites
 
 * [MATLAB File Exchange](http://uk.mathworks.com/matlabcentral/fileexchange/) - File Exchange lets you find and share custom applications, classes, code examples, drivers, functions, Simulink models, scripts, and videos
+* [MATLAB on Stack Overflow](http://stackoverflow.com/questions/tagged/matlab) - Stack Overflow is a community of 4.7 million programmers, just like you, helping each other
 
 ## Books
 
