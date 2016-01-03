@@ -7,6 +7,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 - [Awesome MATLAB](#awesome-)
   - [Commercial Toolboxes](#commercial-toolboxes)
   - [Free Toolboxes](#free-toolboxes)
+  - [Hardware](#hardware)
   - [Interfacing with other languages](#interfacing-with-other-languages)
   - [Learning MATLAB](#learning-matlab)
   - [MATLAB Clones](#matlab-clones)
@@ -31,6 +32,10 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [Chebfun](http://www.chebfun.org/) - Chebfun is an open-source package for computing with functions to about 15-digit accuracy.
 * [IFISS](http://www.maths.manchester.ac.uk/~djs/ifiss/) - IFISS is a graphical package for the interactive numerical study of incompressible flow problems which can be run under Matlab or Octave.
 * [Wavelab](http://statweb.stanford.edu/~wavelab/Wavelab_850/index_wavelab850.html) - WaveLab is a collection of Matlab functions that have been used by the authors and collaborators to implement a variety of algorithms related to wavelet analysis.
+
+## Hardware
+
+* [Raspberry Pi Support from MATLAB](http://uk.mathworks.com/hardware-support/raspberry-pi-matlab.html) - Acquire sensor and image data from your connected Raspberry Pi.
 
 ## Interfacing with other languages
 
