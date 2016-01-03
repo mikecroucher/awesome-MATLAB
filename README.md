@@ -8,6 +8,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
   - [Commercial Toolboxes](#commercial-toolboxes)
   - [Free Toolboxes](free-toolboxes)
   - [Interfacing with other languages](#interfacing-with-other-languages)
+  - [Learning MATLAB](#learning-matlab)
   - [MATLAB Clones](#matlab-Clones)
 - [Resources](#resources)
     - [Websites](#websites)
@@ -33,6 +34,10 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 
 * [Fortran mex routines](http://uk.mathworks.com/help/matlab/write-fortran-mex-files.html) - Fortran mex routines allow you to call Fortran code from within MATLAB.
 * [MATLAB Engine for Python](http://uk.mathworks.com/help/matlab/matlab_external/get-started-with-matlab-engine-for-python.html) - The MATLAB Engine for Python provides a Python package named matlab that enables you to call MATLAB functions from Python.
+
+## Learning MATLAB
+
+* [Software Carpentry lessons in MATLAB](http://swcarpentry.github.io/matlab-novice-inflammation/) - Teaching basic lab skills for research computing.
 
 ## MATLAB Clones
 *MATLAB-like environments*
