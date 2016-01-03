@@ -31,7 +31,8 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 
 ## Interfacing with other languages
 
-* [Get Started with MATLAB Engine for Python](http://uk.mathworks.com/help/matlab/matlab_external/get-started-with-matlab-engine-for-python.html) - The MATLAB Engine for Python provides a Python package named matlab that enables you to call MATLAB functions from Python.
+* [Fortran mex routines](http://uk.mathworks.com/help/matlab/write-fortran-mex-files.html) - Fortran mex routines allow you to call Fortran code from within MATLAB.
+* [MATLAB Engine for Python](http://uk.mathworks.com/help/matlab/matlab_external/get-started-with-matlab-engine-for-python.html) - The MATLAB Engine for Python provides a Python package named matlab that enables you to call MATLAB functions from Python.
 
 ## MATLAB Clones
 *MATLAB-like environments*
@@ -51,6 +52,7 @@ Where to discover new MATLAB resources.
 ## Blogs
 
 * [Cleve’s Corner: Cleve Moler on Mathematics and Computing](http://blogs.mathworks.com/cleve/) - Cleve Moler is the author of the first MATLAB, one of the founders of MathWorks, and is currently Chief Mathematician at the company.
+* [Loren on the art of MATLAB](http://blogs.mathworks.com/loren/) -
 
 ## Books
 
