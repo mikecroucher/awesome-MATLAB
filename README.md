@@ -6,10 +6,10 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 
 - [Awesome MATLAB](#awesome-)
   - [Commercial Toolboxes](#commercial-toolboxes)
-  - [Free Toolboxes](free-toolboxes)
+  - [Free Toolboxes](#free-toolboxes)
   - [Interfacing with other languages](#interfacing-with-other-languages)
   - [Learning MATLAB](#learning-matlab)
-  - [MATLAB Clones](#matlab-Clones)
+  - [MATLAB Clones](#matlab-clones)
 - [Resources](#resources)
     - [Websites](#websites)
     - [Blogs](#blogs)
