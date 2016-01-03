@@ -6,6 +6,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 
 - [Awesome MATLAB](#awesome-)
   - [Commercial Toolboxes](#commercial-toolboxes)
+  - [Database Management](#database-management)
   - [Free Toolboxes](#free-toolboxes)
   - [Games](#games)
   - [Hardware](#hardware)
@@ -43,7 +44,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 
 *Fully playable games developed in MATLAB.*
 
-* [2048](http://uk.mathworks.com/matlabcentral/fileexchange/46124-2048-matlab-edition) - 2048 is a game originally created by Gabriele Cirulli. This is a MATLAB implementation of the game. 
+* [2048](http://uk.mathworks.com/matlabcentral/fileexchange/46124-2048-matlab-edition) - 2048 is a game originally created by Gabriele Cirulli. This is a MATLAB implementation of the game.
 * [Flappy bird](http://uk.mathworks.com/matlabcentral/fileexchange/45795-flappy-bird-for-matlab) - As one of the most popular games on app stores before being taken down, Flappy Bird does not need any further introduction. Now, it has come back alive, on MATLAB.
 
 ## Hardware
