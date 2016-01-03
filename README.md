@@ -6,6 +6,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 
 - [Awesome MATLAB](#awesome-)
   - [Commercial Toolboxes](#Commercial-Toolboxes)
+  - [Free Toolboxes](#Free-Toolboxes)
 - [Resources](#resources)
     - [Websites](#websites)
     - [Books](#books)
@@ -13,6 +14,10 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
     - [MOOCs](#moocs)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
+
+## Free Toolboxes
+*High quality free toolboxes*
+* [Chebfun](http://www.chebfun.org/) - Chebfun is an open-source package for computing with functions to about 15-digit accuracy.
 
 ## Commercial Toolboxes
 *High quality commercial toolboxes*
