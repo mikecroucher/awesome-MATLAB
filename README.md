@@ -5,10 +5,10 @@
 A curated list of awesome MATLAB toolboxes, applications, software and resources. Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 
 - [Awesome MATLAB](#awesome-)
-  - [Commercial Toolboxes](#Commercial-Toolboxes)
-  - [Free Toolboxes](#Free-Toolboxes)
-  - [Interfacing with other languages][#Interfacing-with-other-languages]
-  - [MATLAB Clones](#MATLAB-Clones)
+  - [Commercial Toolboxes](#commercial-toolboxes)
+  - [Free Toolboxes](free-toolboxes)
+  - [Interfacing with other languages](#interfacing-with-other-languages)
+  - [MATLAB Clones](#matlab-Clones)
 - [Resources](#resources)
     - [Websites](#websites)
     - [Books](#books)
