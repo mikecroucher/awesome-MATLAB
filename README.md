@@ -7,6 +7,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 - [Awesome MATLAB](#awesome-)
   - [Commercial Toolboxes](#Commercial-Toolboxes)
   - [Free Toolboxes](#Free-Toolboxes)
+  - [Interfacing with other languages][#Interfacing-with-other-languages]
   - [MATLAB Clones](#MATLAB-Clones)
 - [Resources](#resources)
     - [Websites](#websites)
@@ -16,15 +17,20 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
-## Free Toolboxes
-*High quality free toolboxes*
-* [Chebfun](http://www.chebfun.org/) - Chebfun is an open-source package for computing with functions to about 15-digit accuracy.
-
 ## Commercial Toolboxes
 *High quality commercial toolboxes*
 
 * [Multiprecision Toolbox for MATLAB](http://www.advanpix.com/) - The Multiprecision Computing Toolbox is the MATLAB extension for computing with arbitrary precision.  The toolbox equips MATLAB with a new multiple precision floating-point numeric type and extensive set of mathematical functions that are capable of computing with arbitrary precision.
 * [NAG Toolbox for MATLAB](http://www.nag.co.uk/numeric/MB/start.asp) - Over 1700 functions across numerous areas of numerical mathematics. Developed by The Numerical Algorithms Group (NAG).
+
+## Free Toolboxes
+*High quality free toolboxes*
+
+* [Chebfun](http://www.chebfun.org/) - Chebfun is an open-source package for computing with functions to about 15-digit accuracy.
+
+## Interfacing with other languages
+
+* [Get Started with MATLAB Engine for Python](http://uk.mathworks.com/help/matlab/matlab_external/get-started-with-matlab-engine-for-python.html) - The MATLAB Engine for Python provides a Python package named matlab that enables you to call MATLAB functions from Python.
 
 ## MATLAB Clones
 *MATLAB-like environments*
