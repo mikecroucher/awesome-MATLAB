@@ -33,6 +33,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 
 ## Interfacing with other languages
 
+* [C/C++ mex routines](http://uk.mathworks.com/help/matlab/write-cc-mex-files.html) - C/C++ MEX file lets you call C/C++ functions from within MATLAB.
 * [Fortran mex routines](http://uk.mathworks.com/help/matlab/write-fortran-mex-files.html) - Fortran mex routines allow you to call Fortran code from within MATLAB.
 * [MATLAB Engine for Python](http://uk.mathworks.com/help/matlab/matlab_external/get-started-with-matlab-engine-for-python.html) - The MATLAB Engine for Python provides a Python package named matlab that enables you to call MATLAB functions from Python.
 
