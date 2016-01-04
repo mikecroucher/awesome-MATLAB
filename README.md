@@ -52,7 +52,9 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 
 * [export_fig](https://github.com/altmany/export_fig) - produces better vector/bitmap graphics than standalone MATLAB®.
 * [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) - exports MATLAB® figures to TikZ code for seamless inclusion in LaTeX documents.
+* [plot2svg](http://www.mathworks.com/matlabcentral/fileexchange/7401-scalable-vector-graphics--svg--export-of-figures) - exports MATLAB® figures to Scalable Vector Graphics format. This is particularly useful in older MATLAB® versions that don't support `print -dsvg`.
 * [Plotly MATLAB Library](https://plot.ly/matlab/) - exports MATLAB® figures to the online plotting service [plot.ly](https://plot.ly).
+
 
 ## Games
 
