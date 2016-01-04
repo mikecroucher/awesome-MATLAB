@@ -126,6 +126,7 @@ Where to discover new MATLAB resources.
 ## MOOCs
 *Massive open online courses.*
 
+* [Introduction to Programming with MATLAB](https://www.coursera.org/course/matlab) - Vanderbilt University MOOC that teaches basic programming concepts using MATLAB. You get a free time-limited license to use MATLAB with this course.
 * [Linear Algebra: Foundations to Frontiers](http://www.ulaff.net/index.html) - Hands-on introduction to Linear Algebra using MATLAB.
 
 ## Tips and Tricks
