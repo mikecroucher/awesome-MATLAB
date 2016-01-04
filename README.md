@@ -130,6 +130,7 @@ Where to discover new MATLAB resources.
 
 ## Tips and Tricks
 
+* [Guidelines for writing clean and fast code in MATLAB](http://www.mathworks.com/matlabcentral/fileexchange/22943-guidelines-for-writing-clean-and-fast-code-in-matlab) - A guide with best practices in MATLAB® programming to which anybody can [contribute](https://github.com/nschloe/matlab-guidelines).
 * [OCTAVE and MATLAB Snippets](https://gist.github.com/gramian/6027733)
 
 # Contributing
