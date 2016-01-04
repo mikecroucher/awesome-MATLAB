@@ -6,6 +6,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 
 - [Awesome MATLAB](#awesome-)
   - [3rd Party Commercial Toolboxes](#3rd-party-commercial-toolboxes)
+  - [Cool](#cool)
   - [Database Management](#database-management)
   - [Games](#games)
   - [Hardware](#hardware)
@@ -29,6 +30,11 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 
 * [Multiprecision Toolbox for MATLAB](http://www.advanpix.com/) - The Multiprecision Computing Toolbox is the MATLAB extension for computing with arbitrary precision.  The toolbox equips MATLAB with a new multiple precision floating-point numeric type and extensive set of mathematical functions that are capable of computing with arbitrary precision.
 * [NAG Toolbox for MATLAB](http://www.nag.co.uk/numeric/MB/start.asp) - Over 1700 functions across numerous areas of numerical mathematics. Developed by The Numerical Algorithms Group (NAG).
+
+## Cool
+*Fun projects that make you say 'Cool!'*
+
+ - [Engima](http://blogs.mathworks.com/pick/2015/10/30/enigma/) - MATLAB version of the Enigma machine
 
 ## Database Management
 *Toolboxes for managing data*
