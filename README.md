@@ -39,6 +39,9 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [Chebfun](http://www.chebfun.org/) - Chebfun is an open-source package for computing with functions to about 15-digit accuracy.
 * [IFISS](http://www.maths.manchester.ac.uk/~djs/ifiss/) - IFISS is a graphical package for the interactive numerical study of incompressible flow problems which can be run under Matlab or Octave.
 * [Wavelab](http://statweb.stanford.edu/~wavelab/Wavelab_850/index_wavelab850.html) - WaveLab is a collection of Matlab functions that have been used by the authors and collaborators to implement a variety of algorithms related to wavelet analysis.
+* [VLFeat](http://www.vlfeat.org/) - The VLFeat open source library implements popular computer vision algorithms specializing in image understanding and local features extraction and matching.It is written in C for efficiency and compatibility, with interfaces in MATLAB for ease of use, and detailed documentation throughout. 
+* [MatConvNet](http://www.vlfeat.org/matconvnet/) - MatConvNet is a MATLAB toolbox implementing Convolutional Neural Networks (CNNs) for computer vision applications. It is simple, efficient, and can run and learn state-of-the-art CNNs. Many pre-trained CNNs for image classification, segmentation, face recognition, and text detection are available.
+* [Piotr's Image and Video Toolbox](https://github.com/pdollar/toolbox) - This toolbox is meant to facilitate the manipulation of images and video in Matlab. Its purpose is to complement, not replace, Matlab's Image Processing Toolbox, and in fact it requires that the Matlab Image Toolbox be installed.
 
 ## Games
 
@@ -80,7 +83,7 @@ Where to discover new MATLAB resources.
 
 ## Blogs
 
-* [Cleve’s Corner: Cleve Moler on Mathematics and Computing](http://blogs.mathworks.com/cleve/) - Cleve Moler is the author of the first MATLAB, one of the founders of MathWorks, and is currently Chief Mathematician at the company.
+* [Cleve's Corner: Cleve Moler on Mathematics and Computing](http://blogs.mathworks.com/cleve/) - Cleve Moler is the author of the first MATLAB, one of the founders of MathWorks, and is currently Chief Mathematician at the company.
 * [Developer Zone](http://blogs.mathworks.com/developer/) - Developing, testing, and integrating production grade software using MATLAB.
 * [Guy and Seth on Simulink](http://blogs.mathworks.com/seth/) - Guy Rouleau and Seth Popinchalk are Application Engineers for MathWorks.
 * [Loren on the art of MATLAB](http://blogs.mathworks.com/loren/) - Loren Shure works on design of the MATLAB language at MathWorks.
