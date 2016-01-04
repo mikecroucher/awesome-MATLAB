@@ -67,6 +67,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 ## Learning MATLAB
 
 * [Software Carpentry lessons in MATLAB](http://swcarpentry.github.io/matlab-novice-inflammation/) - Teaching basic lab skills for research computing.
+* [YAGTOM: Yet Another Guide TO Matlab](http://ubcmatlabguide.github.io) - This MATLAB® tutorial starts from the basics and builds up to advanced concepts such as object-oriented programming.
 
 ## Making Figures
 
