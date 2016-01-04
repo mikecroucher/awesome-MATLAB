@@ -51,6 +51,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 *Third-party tools to produce publication quality figures.*
 
 * [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) - exports MATLAB® figures to TikZ code for seamless inclusion in LaTeX documents.
+* [Plotly MATLAB Library](https://plot.ly/matlab/) - exports MATLAB® figures to the online plotting service [plot.ly](https://plot.ly).
 
 ## Games
 
