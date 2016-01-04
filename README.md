@@ -9,6 +9,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
   - [Database Management](#database-management)
   - [Games](#games)
   - [Hardware](#hardware)
+  - [Image Processing and Computer Vision](#image-processing-and-computer-vision)
   - [Interfacing with other languages](#interfacing-with-other-languages)
   - [Learning MATLAB](#learning-matlab)
   - [Making Figures](#making-figures)
@@ -47,6 +48,12 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [MATLAB Mobile](http://uk.mathworks.com/products/matlab-mobile/) - MATLAB on Android and iOS mobile phones and tablets.
 * [Raspberry Pi Support from MATLAB](http://uk.mathworks.com/hardware-support/raspberry-pi-matlab.html) - Acquire sensor and image data from your connected Raspberry Pi.
 
+## Image Processing and Computer Vision
+
+* [MatConvNet](http://www.vlfeat.org/matconvnet/) - MatConvNet is a MATLAB toolbox implementing Convolutional Neural Networks (CNNs) for computer vision applications. It is simple, efficient, and can run and learn state-of-the-art CNNs. Many pre-trained CNNs for image classification, segmentation, face recognition, and text detection are available.
+* [Piotr's Image and Video Toolbox](https://github.com/pdollar/toolbox) - This toolbox is meant to facilitate the manipulation of images and video in Matlab. Its purpose is to complement, not replace, Matlab's Image Processing Toolbox, and in fact it requires that the Matlab Image Toolbox be installed.
+* [VLFeat](http://www.vlfeat.org/) - The VLFeat open source library implements popular computer vision algorithms specializing in image understanding and local features extraction and matching.It is written in C for efficiency and compatibility, with interfaces in MATLAB for ease of use, and detailed documentation throughout.
+
 ## Interfacing with other languages
 
 * [C/C++ mex routines](http://uk.mathworks.com/help/matlab/write-cc-mex-files.html) - C/C++ MEX file lets you call C/C++ functions from within MATLAB.
@@ -81,9 +88,6 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [IFISS](http://www.maths.manchester.ac.uk/~djs/ifiss/) - IFISS is a graphical package for the interactive numerical study of incompressible flow problems which can be run under Matlab or Octave.
 * [Wavelab](http://statweb.stanford.edu/~wavelab/Wavelab_850/index_wavelab850.html) - WaveLab is a collection of Matlab functions that have been used by the authors and collaborators to implement a variety of algorithms related to wavelet analysis.
 * [emgr](http://gramian.de) - Empirical gramian framework for model reduction and system identification.
-* [VLFeat](http://www.vlfeat.org/) - The VLFeat open source library implements popular computer vision algorithms specializing in image understanding and local features extraction and matching.It is written in C for efficiency and compatibility, with interfaces in MATLAB for ease of use, and detailed documentation throughout.
-* [MatConvNet](http://www.vlfeat.org/matconvnet/) - MatConvNet is a MATLAB toolbox implementing Convolutional Neural Networks (CNNs) for computer vision applications. It is simple, efficient, and can run and learn state-of-the-art CNNs. Many pre-trained CNNs for image classification, segmentation, face recognition, and text detection are available.
-* [Piotr's Image and Video Toolbox](https://github.com/pdollar/toolbox) - This toolbox is meant to facilitate the manipulation of images and video in Matlab. Its purpose is to complement, not replace, Matlab's Image Processing Toolbox, and in fact it requires that the Matlab Image Toolbox be installed.
 
 # Resources
 
