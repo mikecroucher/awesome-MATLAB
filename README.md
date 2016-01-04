@@ -5,7 +5,7 @@
 A curated list of awesome MATLAB toolboxes, applications, software and resources. Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 
 - [Awesome MATLAB](#awesome-)
-  - [Commercial Toolboxes](#commercial-toolboxes)
+  - [3rd Party Commercial Toolboxes](#3rd-party-commercial-toolboxes)
   - [Database Management](#database-management)
   - [Games](#games)
   - [Hardware](#hardware)
