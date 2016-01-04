@@ -92,7 +92,7 @@ Where to discover new MATLAB resources.
 ## Books
 
 * [Accelerating MATLAB Performance: 1001 tips to speed up MATLAB programs](https://www.crcpress.com/Accelerating-MATLAB-Performance-1001-tips-to-speed-up-MATLAB-programs/Altman/9781482211290) - A superb guide to making MATLAB code faster.
-* [The Elements of MATLAB Style](www.cambridge.org/us/academic/subjects/computer-science/scientific-computing-scientific-software/elements-matlab-style) - Coding guidelines for the MATLAB language.
+* [The Elements of MATLAB Style](http://www.cambridge.org/us/academic/subjects/computer-science/scientific-computing-scientific-software/elements-matlab-style) - Coding guidelines for the MATLAB language.
 
 ## Reference Cards
 
