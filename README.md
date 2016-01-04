@@ -8,7 +8,6 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
   - [Commercial Toolboxes](#commercial-toolboxes)
   - [Database Management](#database-management)
   - [Free Toolboxes](#free-toolboxes)
-  - [Making Figures](#making-figures)
   - [Games](#games)
   - [Hardware](#hardware)
   - [Interfacing with other languages](#interfacing-with-other-languages)
