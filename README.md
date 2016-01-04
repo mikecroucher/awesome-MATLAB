@@ -101,6 +101,10 @@ Where to discover new MATLAB resources.
 
 * [Linear Algebra: Foundations to Frontiers](http://www.ulaff.net/index.html) - Hands-on introduction to Linear Algebra using MATLAB.
 
+## Tips and Tricks
+
+* [OCTAVE and MATLAB Snippets](https://gist.github.com/gramian/6027733)
+
 # Contributing
 Your contributions are always welcome!
 
