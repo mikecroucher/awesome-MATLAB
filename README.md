@@ -50,7 +50,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 
 *Third-party tools to produce publication quality figures.*
 
-
+* [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) - exports MATLAB® figures to TikZ code for seamless inclusion in LaTeX documents.
 
 ## Games
 
