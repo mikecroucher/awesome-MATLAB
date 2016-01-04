@@ -33,8 +33,9 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 ## Database Management
 *Toolboxes for managing data*
 
-* [go-redis](https://github.com/markuman/go-redis/) - Redis Mex client for Matlab
-* [mex-sqlite3](https://github.com/rmartinjak/mex-sqlite3) - Sqlite3 Mex client for Matlab
+* [Database toolbox](http://uk.mathworks.com/products/database/) - Official database toolbox from Mathworks
+* [go-redis](https://github.com/markuman/go-redis/) - Free Redis Mex client for Matlab
+* [mex-sqlite3](https://github.com/rmartinjak/mex-sqlite3) - Free Sqlite3 Mex client for Matlab
 
 ## Games
 
