@@ -49,6 +49,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 
 ## Hardware
 
+* [MATLAB Mobile](http://uk.mathworks.com/products/matlab-mobile/) - MATLAB on Android and iOS mobile phones and tablets.
 * [Raspberry Pi Support from MATLAB](http://uk.mathworks.com/hardware-support/raspberry-pi-matlab.html) - Acquire sensor and image data from your connected Raspberry Pi.
 
 ## Interfacing with other languages
