@@ -73,6 +73,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 ## Learning MATLAB
 
 * [Software Carpentry lessons in MATLAB](http://swcarpentry.github.io/matlab-novice-inflammation/) - Teaching basic lab skills for research computing.
+* [YAGTOM: Yet Another Guide TO Matlab](http://ubcmatlabguide.github.io) - This MATLAB® tutorial starts from the basics and builds up to advanced concepts such as object-oriented programming.
 
 ## Making Figures
 
@@ -89,6 +90,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [GNU Octave](https://www.gnu.org/software/octave/) - GNU Octave is a high-level interpreted language, primarily intended for numerical computations. It can run many MATLAB programs unmodified.
 * [Scilab](http://www.scilab.org/) - Scilab is free and open source software for numerical computation providing a powerful computing environment for engineering and scientific applications.
 * [FreeMat](http://freemat.sourceforge.net/) - FreeMat is an open source MATLAB interpreter for a subset of the MATLAB language.
+* [MathScript](http://www.ni.com/labview/mathscript/) - MathScript is an interpreter for MATLAB® code for the [LabView](http://www.ni.com/labview/) programming language.
 
 ## Miscellaneous Free Toolboxes
 *High quality free toolboxes in subject areas that don't yet have their own section*
@@ -106,6 +108,8 @@ Where to discover new MATLAB resources.
 
 * [MATLAB File Exchange](http://uk.mathworks.com/matlabcentral/fileexchange/) - File Exchange lets you find and share custom applications, classes, code examples, drivers, functions, Simulink models, scripts, and videos
 * [MATLAB on Stack Overflow](http://stackoverflow.com/questions/tagged/matlab) - Stack Overflow is a community of 4.7 million programmers, just like you, helping each other
+* [Cody](http://uk.mathworks.com/matlabcentral/cody/) - A website with programming challenges that consist of writing MATLAB® code. A fun way to improve your skills.
+* [ThingSpeak](https://thingspeak.com) - An internet of things (IoT) platform that allows to collect, analyze and act upon various data sources. You can enter your own MATLAB® code to process and plot your data.
 
 ## Blogs
 
@@ -114,11 +118,13 @@ Where to discover new MATLAB resources.
 * [Guy and Seth on Simulink](http://blogs.mathworks.com/seth/) - Guy Rouleau and Seth Popinchalk are Application Engineers for MathWorks.
 * [Loren on the art of MATLAB](http://blogs.mathworks.com/loren/) - Loren Shure works on design of the MATLAB language at MathWorks.
 * [Steve on Image Processing](http://blogs.mathworks.com/steve/) - Steve Eddins has developed MATLAB and image processing capabilities for MathWorks since 1993.
+* [Undocumented MATLAB](http://undocumentedmatlab.com) - Yair Altman blogs about the hidden underbelly of MATLAB®. This is the place to be for discovering new and awesome features.
 * [WalkingRandomly](http://www.walkingrandomly.com/?cat=11) - The MATLAB tag of WalkingRandomly
 
 ## Books
 
 * [Accelerating MATLAB Performance: 1001 tips to speed up MATLAB programs](https://www.crcpress.com/Accelerating-MATLAB-Performance-1001-tips-to-speed-up-MATLAB-programs/Altman/9781482211290) - A superb guide to making MATLAB code faster.
+* [Undocumented Secrets of MATLAB-Java Programming](https://www.crcpress.com/Undocumented-Secrets-of-MATLAB-Java-Programming/Altman/9781439869031#isbn) - A great guide on MATLAB® and its Java interface (e.g. for GUIs or interaction with JVM software).
 * [The Elements of MATLAB Style](http://www.cambridge.org/us/academic/subjects/computer-science/scientific-computing-scientific-software/elements-matlab-style) - Coding guidelines for the MATLAB language.
 
 ## Reference Cards
@@ -128,10 +134,12 @@ Where to discover new MATLAB resources.
 ## MOOCs
 *Massive open online courses.*
 
+* [Introduction to Programming with MATLAB](https://www.coursera.org/course/matlab) - Vanderbilt University MOOC that teaches basic programming concepts using MATLAB. You get a free time-limited license to use MATLAB with this course.
 * [Linear Algebra: Foundations to Frontiers](http://www.ulaff.net/index.html) - Hands-on introduction to Linear Algebra using MATLAB.
 
 ## Tips and Tricks
 
+* [Guidelines for writing clean and fast code in MATLAB](http://www.mathworks.com/matlabcentral/fileexchange/22943-guidelines-for-writing-clean-and-fast-code-in-matlab) - A guide with best practices in MATLAB® programming to which anybody can [contribute](https://github.com/nschloe/matlab-guidelines).
 * [OCTAVE and MATLAB Snippets](https://gist.github.com/gramian/6027733)
 
 # Contributing
