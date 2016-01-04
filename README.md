@@ -39,6 +39,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [Chebfun](http://www.chebfun.org/) - Chebfun is an open-source package for computing with functions to about 15-digit accuracy.
 * [IFISS](http://www.maths.manchester.ac.uk/~djs/ifiss/) - IFISS is a graphical package for the interactive numerical study of incompressible flow problems which can be run under Matlab or Octave.
 * [Wavelab](http://statweb.stanford.edu/~wavelab/Wavelab_850/index_wavelab850.html) - WaveLab is a collection of Matlab functions that have been used by the authors and collaborators to implement a variety of algorithms related to wavelet analysis.
+* [emgr](http://gramian.de) - Empirical gramian framework for model reduction and system identification.
 
 ## Games
 
@@ -63,11 +64,12 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 
 * [Software Carpentry lessons in MATLAB](http://swcarpentry.github.io/matlab-novice-inflammation/) - Teaching basic lab skills for research computing.
 
-## MATLAB Clones
+## MATLAB Interpreters
 *MATLAB-like environments*
 
 * [GNU Octave](https://www.gnu.org/software/octave/) - GNU Octave is a high-level interpreted language, primarily intended for numerical computations. It can run many MATLAB programs unmodified.
 * [Scilab](http://www.scilab.org/) - Scilab is free and open source software for numerical computation providing a powerful computing environment for engineering and scientific applications.
+* [FreeMat](http://freemat.sourceforge.net/) - FreeMat is an open source MATLAB interpreter for a subset of the MATLAB language. 
 
 # Resources
 
@@ -90,6 +92,7 @@ Where to discover new MATLAB resources.
 ## Books
 
 * [Accelerating MATLAB Performance: 1001 tips to speed up MATLAB programs](https://www.crcpress.com/Accelerating-MATLAB-Performance-1001-tips-to-speed-up-MATLAB-programs/Altman/9781482211290) - A superb guide to making MATLAB code faster.
+* [The Elements of MATLAB Style](http://www.cambridge.org/us/academic/subjects/computer-science/scientific-computing-scientific-software/elements-matlab-style) - Coding guidelines for the MATLAB language.
 
 ## Reference Cards
 
@@ -99,6 +102,10 @@ Where to discover new MATLAB resources.
 *Massive open online courses.*
 
 * [Linear Algebra: Foundations to Frontiers](http://www.ulaff.net/index.html) - Hands-on introduction to Linear Algebra using MATLAB.
+
+## Tips and Tricks
+
+* [OCTAVE and MATLAB Snippets](https://gist.github.com/gramian/6027733)
 
 # Contributing
 Your contributions are always welcome!
