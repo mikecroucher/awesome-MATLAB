@@ -12,7 +12,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
   - [Hardware](#hardware)
   - [Interfacing with other languages](#interfacing-with-other-languages)
   - [Learning MATLAB](#learning-matlab)
-  - [MATLAB Clones](#matlab-clones)
+  - [MATLAB-like environments](#matlab-like-environments)
 - [Resources](#resources)
     - [Websites](#websites)
     - [Blogs](#blogs)
@@ -67,8 +67,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 
 * [Software Carpentry lessons in MATLAB](http://swcarpentry.github.io/matlab-novice-inflammation/) - Teaching basic lab skills for research computing.
 
-## MATLAB Interpreters
-*MATLAB-like environments*
+## MATLAB-like environments
 
 * [GNU Octave](https://www.gnu.org/software/octave/) - GNU Octave is a high-level interpreted language, primarily intended for numerical computations. It can run many MATLAB programs unmodified.
 * [Scilab](http://www.scilab.org/) - Scilab is free and open source software for numerical computation providing a powerful computing environment for engineering and scientific applications.
