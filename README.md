@@ -19,6 +19,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
     - [Books](#books)
     - [Reference Cards](#reference-cards)
     - [MOOCs](#moocs)
+    - [Tips and Tricks](#tips-and-tricks)
 - [Contributing](#contributing)
 
 ## 3rd Party Commercial Toolboxes
