@@ -149,6 +149,7 @@ Where to discover new MATLAB resources.
 * [OCTAVE and MATLAB Snippets](https://gist.github.com/gramian/6027733)
 * [Advanced Numerical Linear Algebra](http://www.caam.rice.edu/~caam551/MatlabCode/matlabcode.html) - Matlab Code
 * [Lanczos Algorithm for SVD](http://bickson.blogspot.de/2011/10/lanczos-algorithm-for-svd-singule-value.html) - Matlab Code
+* [Jie Chen's Software](https://jie-chen-ibm.appspot.com/software.html) - Collection of companion codes (mostly Matlab)
 
 # Contributing
 Your contributions are always welcome!
