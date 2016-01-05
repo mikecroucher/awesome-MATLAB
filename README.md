@@ -148,6 +148,7 @@ Where to discover new MATLAB resources.
 * [MATLAB Style Guide 3](http://www.cs.cornell.edu/courses/cs99/2002fa/matlabstyle.html)
 * [OCTAVE and MATLAB Snippets](https://gist.github.com/gramian/6027733)
 * [Advanced Numerical Linear Algebra](http://www.caam.rice.edu/~caam551/MatlabCode/matlabcode.html) - Matlab Code
+* [Lanczos Algorithm for SVD](http://bickson.blogspot.de/2011/10/lanczos-algorithm-for-svd-singule-value.html) - Matlab Code
 
 # Contributing
 Your contributions are always welcome!
