@@ -104,6 +104,9 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 
 Where to discover new MATLAB resources.
 
+* [Matlab Reddit](https://www.reddit.com/r/matlab/)
+* [Octave Reddit](https://www.reddit.com/r/octave/)
+
 ## Websites
 
 * [MATLAB File Exchange](http://uk.mathworks.com/matlabcentral/fileexchange/) - File Exchange lets you find and share custom applications, classes, code examples, drivers, functions, Simulink models, scripts, and videos
