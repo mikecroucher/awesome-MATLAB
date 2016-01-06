@@ -105,6 +105,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [emgr](http://gramian.de) - Empirical gramian framework for model reduction and system identification.
 * [Matlab Toolbox for Dimensionality Reduction](https://lvdmaaten.github.io/drtoolbox/)
 * [MPITB](http://www.ugr.es/~jfernand/mpitb_eng.html) - MPI Toolbox for Matlab ([MPI Toolbox for Octave](http://www.ugr.es/~jfernand/mpitb.html)) 
+* [Lightspeed](http://research.microsoft.com/en-us/um/people/minka/software/lightspeed/) - Microsoft Lightspeed Utilities Toolbox
 
 # Resources
 
