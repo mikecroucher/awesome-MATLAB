@@ -144,6 +144,7 @@ Where to discover new MATLAB resources.
 * [MATLAB on Facebook](https://www.facebook.com/MATLAB) - Official Facebook page for MATLAB
 * [MATLAB on Stack Overflow](http://stackoverflow.com/questions/tagged/matlab) - Stack Overflow is a community of 4.7 million programmers, just like you, helping each other
 * [MATLAB on Twitter](https://twitter.com/MATLAB) - Official MATLAB twitter account
+* [Matlab Tricks Club](https://www.facebook.com/MatlabTricksClub/)
 
 ## MOOCs
 *Massive open online courses.*
