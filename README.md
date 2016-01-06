@@ -139,6 +139,7 @@ Where to discover new MATLAB resources.
 ## Reference Cards
 
 * [MATLAB Quick Reference](http://www.robots.ox.ac.uk/~dwm/Courses/1P5_2011/MatlabQuickRef1v1.pdf) - Eric Peasley, Department of Engineering Science, University of Oxford
+* [MATLAB Quick Reference App](https://play.google.com/store/apps/details?id=leo.anag.mathlab.help.DesktopToolsAndDevelopmentEnvironment)
 
 ## Social Media
 
