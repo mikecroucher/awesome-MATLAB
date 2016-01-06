@@ -119,6 +119,7 @@ Where to discover new MATLAB resources.
 * [Cody](http://uk.mathworks.com/matlabcentral/cody/) - A website with programming challenges that consist of writing MATLAB® code. A fun way to improve your skills.
 * [ThingSpeak](https://thingspeak.com) - An internet of things (IoT) platform that allows to collect, analyze and act upon various data sources. You can enter your own MATLAB® code to process and plot your data.
 * [Octave-Online](http://octave-online.net/) - An online Octave interpreter.
+* [Matlab FAQ](http://matlab.wikia.com/wiki/FAQ)
 
 ## Blogs
 
