@@ -21,6 +21,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
     - [Blogs](#blogs)
     - [Books](#books)
     - [Reference Cards](#reference-cards)
+    - [Social Media](#social-media)
     - [MOOCs](#moocs)
     - [Tips and Tricks](#tips-and-tricks)
 - [Contributing](#contributing)
@@ -106,13 +107,9 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 
 Where to discover new MATLAB resources.
 
-* [Matlab Reddit](https://www.reddit.com/r/matlab/)
-* [Octave Reddit](https://www.reddit.com/r/octave/)
-
 ## Websites
 
 * [MATLAB File Exchange](http://uk.mathworks.com/matlabcentral/fileexchange/) - File Exchange lets you find and share custom applications, classes, code examples, drivers, functions, Simulink models, scripts, and videos
-* [MATLAB on Stack Overflow](http://stackoverflow.com/questions/tagged/matlab) - Stack Overflow is a community of 4.7 million programmers, just like you, helping each other
 * [Cody](http://uk.mathworks.com/matlabcentral/cody/) - A website with programming challenges that consist of writing MATLAB® code. A fun way to improve your skills.
 * [ThingSpeak](https://thingspeak.com) - An internet of things (IoT) platform that allows to collect, analyze and act upon various data sources. You can enter your own MATLAB® code to process and plot your data.
 
@@ -135,6 +132,14 @@ Where to discover new MATLAB resources.
 ## Reference Cards
 
 * [MATLAB Quick Reference](http://www.robots.ox.ac.uk/~dwm/Courses/1P5_2011/MatlabQuickRef1v1.pdf) - Eric Peasley, Department of Engineering Science, University of Oxford
+
+## Social Media
+
+* [Matlab Reddit](https://www.reddit.com/r/matlab/)
+* [Octave Reddit](https://www.reddit.com/r/octave/)
+* [MATLAB on Facebook](https://www.facebook.com/MATLAB) - Official Facebook page for MATLAB
+* [MATLAB on Stack Overflow](http://stackoverflow.com/questions/tagged/matlab) - Stack Overflow is a community of 4.7 million programmers, just like you, helping each other
+* [MATLAB on Twitter](https://twitter.com/MATLAB) - Official MATLAB twitter account
 
 ## MOOCs
 *Massive open online courses.*
