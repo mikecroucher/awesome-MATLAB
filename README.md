@@ -131,9 +131,9 @@ Where to discover new MATLAB resources.
 * [Undocumented MATLAB](http://undocumentedmatlab.com) - Yair Altman blogs about the hidden underbelly of MATLAB®. This is the place to be for discovering new and awesome features.
 * [WalkingRandomly](http://www.walkingrandomly.com/?cat=11) - The MATLAB tag of WalkingRandomly.
 * [xcorr: comp neuro](http://xcorr.net/?s=matlab) - MATLAB relevant post of XCORR.
-* [Matlab Tips](http://www.matlabtips.com/)
-* [Matlab Tricks](http://www.matlabtricks.com/)
-* [Matlab Geeks](http://matlabgeeks.com/)
+* [Matlab Tips](http://www.matlabtips.com/) - Learning Matlab for new and advanced users.
+* [Matlab Tricks](http://www.matlabtricks.com/) - Growing Collection of Matlab tips.
+* [Matlab Geeks](http://matlabgeeks.com/) - Matlab Blog, Tutorials and Expertise.
 
 ## Books
 
