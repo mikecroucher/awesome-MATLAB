@@ -41,8 +41,8 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 *Toolboxes for managing data*
 
 * [Database toolbox](http://uk.mathworks.com/products/database/) - Official database toolbox from Mathworks
-* [go-redis](https://github.com/markuman/go-redis/) - Free Redis Mex client for Matlab
-* [mex-sqlite3](https://github.com/rmartinjak/mex-sqlite3) - Free Sqlite3 Mex client for Matlab
+* [go-redis](https://github.com/markuman/go-redis/) - Free Redis Mex client for MATLAB
+* [mex-sqlite3](https://github.com/rmartinjak/mex-sqlite3) - Free Sqlite3 Mex client for MATLAB
 
 ## Games
 
@@ -61,7 +61,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [Computer Vision System Toolbox](http://uk.mathworks.com/products/computer-vision/) - The official computer vision toolbox from Mathworks.
 * [Image Processing Toolbox](http://uk.mathworks.com/products/image/) - The official Image Processing Toolbox from Mathworks
 * [MatConvNet](http://www.vlfeat.org/matconvnet/) - MatConvNet is a free MATLAB toolbox implementing Convolutional Neural Networks (CNNs) for computer vision applications. It is simple, efficient, and can run and learn state-of-the-art CNNs. Many pre-trained CNNs for image classification, segmentation, face recognition, and text detection are available.
-* [Piotr's Image and Video Toolbox](https://github.com/pdollar/toolbox) - This free toolbox is meant to facilitate the manipulation of images and video in Matlab. Its purpose is to complement, not replace, Matlab's Image Processing Toolbox, and in fact it requires that the Matlab Image Toolbox be installed.
+* [Piotr's Image and Video Toolbox](https://github.com/pdollar/toolbox) - This free toolbox is meant to facilitate the manipulation of images and video in MATLAB. Its purpose is to complement, not replace, MATLAB's Image Processing Toolbox, and in fact it requires that the MATLAB Image Toolbox be installed.
 * [VLFeat](http://www.vlfeat.org/) - The VLFeat free and open source library implements popular computer vision algorithms specializing in image understanding and local features extraction and matching.It is written in C for efficiency and compatibility, with interfaces in MATLAB for ease of use, and detailed documentation throughout.
 
 ## Interfacing with other languages
@@ -74,7 +74,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 ## Learning MATLAB
 
 * [Software Carpentry lessons in MATLAB](http://swcarpentry.github.io/matlab-novice-inflammation/) - Teaching basic lab skills for research computing.
-* [YAGTOM: Yet Another Guide TO Matlab](http://ubcmatlabguide.github.io) - This MATLAB® tutorial starts from the basics and builds up to advanced concepts such as object-oriented programming.
+* [YAGTOM: Yet Another Guide TO MATLAB](http://ubcmatlabguide.github.io) - This MATLAB® tutorial starts from the basics and builds up to advanced concepts such as object-oriented programming.
 * [MATLAB Academy - MATLAB Onramp](https://matlabacademy.mathworks.com/) - Brief MATLAB introduction including language syntax and common workflows. Complimentary access with MATLAB license.
 
 ## Making Figures
@@ -98,10 +98,10 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 *High quality free toolboxes in subject areas that don't yet have their own section*
 
 * [Chebfun](http://www.chebfun.org/) - Chebfun is an open-source package for computing with functions to about 15-digit accuracy.
-* [IFISS](http://www.maths.manchester.ac.uk/~djs/ifiss/) - IFISS is a graphical package for the interactive numerical study of incompressible flow problems which can be run under Matlab or Octave.
-* [Wavelab](http://statweb.stanford.edu/~wavelab/Wavelab_850/index_wavelab850.html) - WaveLab is a collection of Matlab functions that have been used by the authors and collaborators to implement a variety of algorithms related to wavelet analysis.
+* [IFISS](http://www.maths.manchester.ac.uk/~djs/ifiss/) - IFISS is a graphical package for the interactive numerical study of incompressible flow problems which can be run under MATLAB or Octave.
+* [Wavelab](http://statweb.stanford.edu/~wavelab/Wavelab_850/index_wavelab850.html) - WaveLab is a collection of MATLAB functions that have been used by the authors and collaborators to implement a variety of algorithms related to wavelet analysis.
 * [emgr](http://gramian.de) - Empirical gramian framework for model reduction and system identification.
-* [Matlab Toolbox for Dimensionality Reduction](https://lvdmaaten.github.io/drtoolbox/)
+* [MATLAB Toolbox for Dimensionality Reduction](https://lvdmaaten.github.io/drtoolbox/)
 
 # Resources
 
@@ -135,7 +135,7 @@ Where to discover new MATLAB resources.
 
 ## Social Media
 
-* [Matlab Reddit](https://www.reddit.com/r/matlab/)
+* [MATLAB Reddit](https://www.reddit.com/r/matlab/)
 * [Octave Reddit](https://www.reddit.com/r/octave/)
 * [MATLAB on Facebook](https://www.facebook.com/MATLAB) - Official Facebook page for MATLAB
 * [MATLAB on Stack Overflow](http://stackoverflow.com/questions/tagged/matlab) - Stack Overflow is a community of 4.7 million programmers, just like you, helping each other
@@ -154,9 +154,9 @@ Where to discover new MATLAB resources.
 * [MATLAB Style Guide 2](http://4dpiecharts.com/matlab-code-style-guide/)
 * [MATLAB Style Guide 3](http://www.cs.cornell.edu/courses/cs99/2002fa/matlabstyle.html)
 * [OCTAVE and MATLAB Snippets](https://gist.github.com/gramian/6027733)
-* [Advanced Numerical Linear Algebra](http://www.caam.rice.edu/~caam551/MatlabCode/matlabcode.html) - Matlab Code
-* [Lanczos Algorithm for SVD](http://bickson.blogspot.de/2011/10/lanczos-algorithm-for-svd-singule-value.html) - Matlab Code
-* [Jie Chen's Software](https://jie-chen-ibm.appspot.com/software.html) - Collection of companion codes (mostly Matlab)
+* [Advanced Numerical Linear Algebra](http://www.caam.rice.edu/~caam551/MatlabCode/matlabcode.html) - MATLAB Code
+* [Lanczos Algorithm for SVD](http://bickson.blogspot.de/2011/10/lanczos-algorithm-for-svd-singule-value.html) - MATLAB Code
+* [Jie Chen's Software](https://jie-chen-ibm.appspot.com/software.html) - Collection of companion codes (mostly MATLAB)
 
 # Contributing
 Your contributions are always welcome!
