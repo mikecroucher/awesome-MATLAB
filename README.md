@@ -61,12 +61,12 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [Computer Vision System Toolbox](http://uk.mathworks.com/products/computer-vision/) - The official computer vision toolbox from The MathWorks.
 * [Image Processing Toolbox](http://uk.mathworks.com/products/image/) - The official Image Processing Toolbox from The MathWorks
 * [MatConvNet](http://www.vlfeat.org/matconvnet/) - MatConvNet is a free MATLAB toolbox implementing Convolutional Neural Networks (CNNs) for computer vision applications. It is simple, efficient, and can run and learn state-of-the-art CNNs. It provides pre-trained CNNs for image classification, segmentation, face recognition, and text detection.
-* [Piotr's Image and Video Toolbox](https://github.com/pdollar/toolbox) - This free toolbox is meant to facilitate the manipulation of images and video in MATLAB. Its purpose is to complement, not replace, MATLAB's Image Processing Toolbox, and in fact it requires that the MATLAB Image Toolbox be installed.
+* [Piotr's Image and Video Toolbox](https://github.com/pdollar/toolbox) - This free toolbox facilitates the manipulation of images and video in MATLAB. Its purpose is to complement, not replace, MATLAB's Image Processing Toolbox.
 * [VLFeat](http://www.vlfeat.org/) - The VLFeat free and open source library implements popular computer vision algorithms specializing in image understanding and local features extraction and matching. It is written in C for efficiency and compatibility, with interfaces in MATLAB for ease of use, and detailed documentation throughout.
 
 ## Interfacing with other languages
 
-* [C/C++ mex routines](http://uk.mathworks.com/help/matlab/write-cc-mex-files.html) - C/C++ MEX file lets you call C/C++ functions from within MATLAB.
+* [C/C++ mex routines](http://uk.mathworks.com/help/matlab/write-cc-mex-files.html) - C/C++ MEX files allow to call C/C++ functions from within MATLAB.
 * [Fortran mex routines](http://uk.mathworks.com/help/matlab/write-fortran-mex-files.html) - Fortran MEX routines allow you to call Fortran code from within MATLAB.
 * [MATLAB Engine for Python](http://uk.mathworks.com/help/matlab/matlab_external/get-started-with-matlab-engine-for-python.html) - The MATLAB Engine for Python provides a Python package named `matlab` that enables you to call MATLAB functions from within Python.
 * [Python](http://uk.mathworks.com/help/matlab/call-python-libraries.html) - How to call Python functions from within MATLAB.
@@ -99,7 +99,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 
 * [Chebfun](http://www.chebfun.org/) - Chebfun is an open-source package for computing with functions to about 15-digit accuracy.
 * [IFISS](http://www.maths.manchester.ac.uk/~djs/ifiss/) - IFISS is a graphical package for the interactive numerical study of incompressible flow problems which can be run under MATLAB or Octave.
-* [Wavelab](http://statweb.stanford.edu/~wavelab/Wavelab_850/index_wavelab850.html) - WaveLab is a collection of MATLAB functions that have been used by the authors and collaborators to implement a variety of algorithms related to wavelet analysis.
+* [Wavelab](http://statweb.stanford.edu/~wavelab/Wavelab_850/index_wavelab850.html) - WaveLab is a collection of MATLAB functions related to wavelet analysis.
 * [emgr](http://gramian.de) - Empirical gramian framework for model reduction and system identification.
 * [MATLAB Toolbox for Dimensionality Reduction](https://lvdmaaten.github.io/drtoolbox/)
 
@@ -109,7 +109,7 @@ Where to discover new MATLAB resources.
 
 ## Websites
 
-* [MATLAB File Exchange](http://uk.mathworks.com/matlabcentral/fileexchange/) - File Exchange lets you find and share custom applications, classes, code examples, drivers, functions, Simulink models, scripts, and videos
+* [MATLAB File Exchange](http://uk.mathworks.com/matlabcentral/fileexchange/) - File Exchange lets you find and share custom applications, classes, code examples, drivers, functions, Simulink models, scripts, and videos.
 * [Cody](http://uk.mathworks.com/matlabcentral/cody/) - A website with programming challenges that consist of writing MATLAB® code. A fun way to improve your skills.
 * [ThingSpeak](https://thingspeak.com) - An internet of things (IoT) platform that allows to collect, analyze and act upon various data sources. You can enter your own MATLAB® code to process and plot your data.
 
@@ -121,7 +121,7 @@ Where to discover new MATLAB resources.
 * [Loren on the art of MATLAB](http://blogs.mathworks.com/loren/) - Loren Shure works on design of the MATLAB language at The MathWorks.
 * [Steve on Image Processing](http://blogs.mathworks.com/steve/) - Steve Eddins has developed MATLAB and image processing capabilities for The MathWorks since 1993.
 * [Undocumented MATLAB](http://undocumentedmatlab.com) - Yair Altman blogs about the hidden underbelly of MATLAB®. This is the place to be for discovering new and awesome features.
-* [WalkingRandomly](http://www.walkingrandomly.com/?cat=11) - The MATLAB tag of WalkingRandomly
+* [WalkingRandomly](http://www.walkingrandomly.com/?cat=11) - The MATLAB tag of WalkingRandomly.
 
 ## Books
 
@@ -131,15 +131,15 @@ Where to discover new MATLAB resources.
 
 ## Reference Cards
 
-* [MATLAB Quick Reference](http://www.robots.ox.ac.uk/~dwm/Courses/1P5_2011/MatlabQuickRef1v1.pdf) - Eric Peasley, Department of Engineering Science, University of Oxford
+* [MATLAB Quick Reference](http://www.robots.ox.ac.uk/~dwm/Courses/1P5_2011/MatlabQuickRef1v1.pdf) - by Eric Peasley, Department of Engineering Science, University of Oxford.
 
 ## Social Media
 
 * [MATLAB Reddit](https://www.reddit.com/r/matlab/)
 * [Octave Reddit](https://www.reddit.com/r/octave/)
-* [MATLAB on Facebook](https://www.facebook.com/MATLAB) - Official Facebook page for MATLAB
-* [MATLAB on Stack Overflow](http://stackoverflow.com/questions/tagged/matlab) - Stack Overflow is a community of 4.7 million programmers, just like you, helping each other
-* [MATLAB on Twitter](https://twitter.com/MATLAB) - Official MATLAB twitter account
+* [MATLAB on Facebook](https://www.facebook.com/MATLAB) - Official Facebook page for MATLAB.
+* [MATLAB on Stack Overflow](http://stackoverflow.com/questions/tagged/matlab) - Stack Overflow is a community of 4.7 million programmers, just like you, helping each other.
+* [MATLAB on Twitter](https://twitter.com/MATLAB) - Official MATLAB twitter account.
 
 ## MOOCs
 *Massive open online courses.*
@@ -153,10 +153,10 @@ Where to discover new MATLAB resources.
 * [MATLAB Style Guide 1](http://note.sonots.com/Matlab/MatlabCodingStyle.html)
 * [MATLAB Style Guide 2](http://4dpiecharts.com/matlab-code-style-guide/)
 * [MATLAB Style Guide 3](http://www.cs.cornell.edu/courses/cs99/2002fa/matlabstyle.html)
-* [OCTAVE and MATLAB Snippets](https://gist.github.com/gramian/6027733)
+* [Octave and MATLAB Snippets](https://gist.github.com/gramian/6027733)
 * [Advanced Numerical Linear Algebra](http://www.caam.rice.edu/~caam551/MatlabCode/matlabcode.html) - MATLAB Code
 * [Lanczos Algorithm for SVD](http://bickson.blogspot.de/2011/10/lanczos-algorithm-for-svd-singule-value.html) - MATLAB Code
-* [Jie Chen's Software](https://jie-chen-ibm.appspot.com/software.html) - Collection of companion codes (mostly MATLAB)
+* [Jie Chen's Software](https://jie-chen-ibm.appspot.com/software.html) - Collection of companion codes (mostly MATLAB).
 
 # Contributing
 Your contributions are always welcome!
