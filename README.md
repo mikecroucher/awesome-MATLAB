@@ -103,6 +103,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [Wavelab](http://statweb.stanford.edu/~wavelab/Wavelab_850/index_wavelab850.html) - WaveLab is a collection of Matlab functions that have been used by the authors and collaborators to implement a variety of algorithms related to wavelet analysis.
 * [emgr](http://gramian.de) - Empirical gramian framework for model reduction and system identification.
 * [Matlab Toolbox for Dimensionality Reduction](https://lvdmaaten.github.io/drtoolbox/)
+* [MPITB](http://www.ugr.es/~jfernand/mpitb_eng.html) - MPI Toolbox for Matlab ([MPI Toolbox for Octave](http://www.ugr.es/~jfernand/mpitb.html)) 
 
 # Resources
 
