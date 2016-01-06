@@ -75,7 +75,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 ## Learning MATLAB
 
 * [Software Carpentry lessons in MATLAB](http://swcarpentry.github.io/matlab-novice-inflammation/) - Teaching basic lab skills for research computing.
-* [YAGTOM: Yet Another Guide TO Matlab](http://ubcmatlabguide.github.io) - This MATLAB® tutorial starts from the basics and builds up to advanced concepts such as object-oriented programming.
+* [YAGTOM: Yet Another Guide TO Matlab](http://ubcmatlabguide.github.io) - This MATLAB® tutorial starts from the basics and builds up to advanced concepts such as object-oriented programming (Note the [Speedup Tricks](https://ubcmatlabguide.github.io/html/speedup.html)).
 * [MATLAB Academy - MATLAB Onramp](https://matlabacademy.mathworks.com/) - Brief MATLAB introduction including language syntax and common workflows. Complimentary access with MATLAB license.
 
 ## Making Figures
@@ -167,7 +167,6 @@ Where to discover new MATLAB resources.
 * [Writing Fast MATLAB Code](http://www.csc.kth.se/utbildning/kth/kurser/DN2255/ndiff13/matopt.pdf)
 * [MATLAB Array Manipulation Tips and Tricks](http://cseweb.ucsd.edu/~datorres/docs/MatlabTip.pdf)
 * [MATLAB Vectorization Tricks](http://www-h.eng.cam.ac.uk/help/tpl/programs/Matlab/tricks.html)
-* [Yet another guide to Matlab](https://ubcmatlabguide.github.io/) - Note the [Speedup Tricks](https://ubcmatlabguide.github.io/html/speedup.html)
 * [Matlab / Octave Efficiency Notes](http://homepages.inf.ed.ac.uk/imurray2/compnotes/matlab_octave_efficiency.html)
 * [Matlab tips and Tricks](http://www.ee.columbia.edu/~marios/matlab/matlab_tricks.html)
 * [MATLAB Style Guide 1](http://note.sonots.com/Matlab/MatlabCodingStyle.html)
