@@ -54,6 +54,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 ## Hardware
 
 * [MATLAB Mobile](http://uk.mathworks.com/products/matlab-mobile/) - MATLAB on Android and iOS mobile phones and tablets.
+* [Octave](https://play.google.com/store/apps/details?id=com.octave) - Octave on Android.
 * [Raspberry Pi Support from MATLAB](http://uk.mathworks.com/hardware-support/raspberry-pi-matlab.html) - Acquire sensor and image data from your connected Raspberry Pi.
 
 ## Image Processing and Computer Vision
