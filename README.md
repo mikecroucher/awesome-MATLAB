@@ -99,10 +99,14 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [IFISS](http://www.maths.manchester.ac.uk/~djs/ifiss/) - IFISS is a graphical package for the interactive numerical study of incompressible flow problems which can be run under Matlab or Octave.
 * [Wavelab](http://statweb.stanford.edu/~wavelab/Wavelab_850/index_wavelab850.html) - WaveLab is a collection of Matlab functions that have been used by the authors and collaborators to implement a variety of algorithms related to wavelet analysis.
 * [emgr](http://gramian.de) - Empirical gramian framework for model reduction and system identification.
+* [Matlab Toolbox for Dimensionality Reduction](https://lvdmaaten.github.io/drtoolbox/)
 
 # Resources
 
 Where to discover new MATLAB resources.
+
+* [Matlab Reddit](https://www.reddit.com/r/matlab/)
+* [Octave Reddit](https://www.reddit.com/r/octave/)
 
 ## Websites
 
@@ -140,7 +144,13 @@ Where to discover new MATLAB resources.
 ## Tips and Tricks
 
 * [Guidelines for writing clean and fast code in MATLAB](http://www.mathworks.com/matlabcentral/fileexchange/22943-guidelines-for-writing-clean-and-fast-code-in-matlab) - A guide with best practices in MATLAB® programming to which anybody can [contribute](https://github.com/nschloe/matlab-guidelines).
+* [MATLAB Style Guide 1](http://note.sonots.com/Matlab/MatlabCodingStyle.html)
+* [MATLAB Style Guide 2](http://4dpiecharts.com/matlab-code-style-guide/)
+* [MATLAB Style Guide 3](http://www.cs.cornell.edu/courses/cs99/2002fa/matlabstyle.html)
 * [OCTAVE and MATLAB Snippets](https://gist.github.com/gramian/6027733)
+* [Advanced Numerical Linear Algebra](http://www.caam.rice.edu/~caam551/MatlabCode/matlabcode.html) - Matlab Code
+* [Lanczos Algorithm for SVD](http://bickson.blogspot.de/2011/10/lanczos-algorithm-for-svd-singule-value.html) - Matlab Code
+* [Jie Chen's Software](https://jie-chen-ibm.appspot.com/software.html) - Collection of companion codes (mostly Matlab)
 
 # Contributing
 Your contributions are always welcome!
