@@ -54,6 +54,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 ## Hardware
 
 * [MATLAB Mobile](http://uk.mathworks.com/products/matlab-mobile/) - MATLAB on Android and iOS mobile phones and tablets.
+* [Octave](https://play.google.com/store/apps/details?id=com.octave) - Octave on Android.
 * [Raspberry Pi Support from MATLAB](http://uk.mathworks.com/hardware-support/raspberry-pi-matlab.html) - Acquire sensor and image data from your connected Raspberry Pi.
 
 ## Image Processing and Computer Vision
@@ -74,7 +75,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 ## Learning MATLAB
 
 * [Software Carpentry lessons in MATLAB](http://swcarpentry.github.io/matlab-novice-inflammation/) - Teaching basic lab skills for research computing.
-* [YAGTOM: Yet Another Guide TO MATLAB](http://ubcmatlabguide.github.io) - This MATLAB® tutorial starts from the basics and builds up to advanced concepts such as object-oriented programming.
+* [YAGTOM: Yet Another Guide TO MATLAB](http://ubcmatlabguide.github.io) - This MATLAB® tutorial starts from the basics and builds up to advanced concepts such as object-oriented programming (Note the [Speedup Tricks](https://ubcmatlabguide.github.io/html/speedup.html)).
 * [MATLAB Academy - MATLAB Onramp](https://matlabacademy.mathworks.com/) - Brief MATLAB introduction including language syntax and common workflows. Complimentary access with MATLAB license.
 
 ## Making Figures
@@ -86,6 +87,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [plot2svg](http://www.mathworks.com/matlabcentral/fileexchange/7401-scalable-vector-graphics--svg--export-of-figures) - exports MATLAB® figures to Scalable Vector Graphics format. This is particularly useful in older MATLAB® versions that don't support `print -dsvg`.
 * [Plotly MATLAB Library](https://plot.ly/matlab/) - exports MATLAB® figures to the online plotting service [plot.ly](https://plot.ly).
 * [saveFigure](https://github.com/djoshea/matlab-save-figure) - exports MATLAB® figures to PDF, SVG, EPS and PNG with improved support for transparancy.
+* [hq-matlab-figs](http://dgleich.github.io/hq-matlab-figs/) - Creating high-quality graphics in MATLAB for papers and presentations.
 
 ## MATLAB-like environments
 
@@ -101,7 +103,11 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [IFISS](http://www.maths.manchester.ac.uk/~djs/ifiss/) - IFISS is a graphical package for the interactive numerical study of incompressible flow problems which can be run under MATLAB or Octave.
 * [Wavelab](http://statweb.stanford.edu/~wavelab/Wavelab_850/index_wavelab850.html) - WaveLab is a collection of MATLAB functions related to wavelet analysis.
 * [emgr](http://gramian.de) - Empirical gramian framework for model reduction and system identification.
-* [MATLAB Toolbox for Dimensionality Reduction](https://lvdmaaten.github.io/drtoolbox/)
+* [drtoolbox](https://lvdmaaten.github.io/drtoolbox/) - Matlab Toolbox for Dimensionality Reduction
+* [MPITB](http://www.ugr.es/~jfernand/mpitb_eng.html) - MPI Toolbox for Matlab ([MPI Toolbox for Octave](http://www.ugr.es/~jfernand/mpitb.html)) 
+* [Lightspeed](http://research.microsoft.com/en-us/um/people/minka/software/lightspeed/) - Microsoft Lightspeed Utilities Toolbox
+* [bct](http://www.brain-connectivity-toolbox.net/) - Brain Connectivity Toolbox
+* [OpenCL Toolbox](https://github.com/imaginairy-user/opencl-toolbox/) - OpenCL support for MATLAB
 
 # Resources
 
@@ -112,6 +118,8 @@ Where to discover new MATLAB resources.
 * [MATLAB File Exchange](http://uk.mathworks.com/matlabcentral/fileexchange/) - File Exchange lets you find and share custom applications, classes, code examples, drivers, functions, Simulink models, scripts, and videos.
 * [Cody](http://uk.mathworks.com/matlabcentral/cody/) - A website with programming challenges that consist of writing MATLAB® code. A fun way to improve your skills.
 * [ThingSpeak](https://thingspeak.com) - An internet of things (IoT) platform that allows to collect, analyze and act upon various data sources. You can enter your own MATLAB® code to process and plot your data.
+* [Octave-Online](http://octave-online.net/) - An online Octave interpreter.
+* [Matlab FAQ](http://matlab.wikia.com/wiki/FAQ)
 
 ## Blogs
 
@@ -122,6 +130,10 @@ Where to discover new MATLAB resources.
 * [Steve on Image Processing](http://blogs.mathworks.com/steve/) - Steve Eddins has developed MATLAB and image processing capabilities for The MathWorks since 1993.
 * [Undocumented MATLAB](http://undocumentedmatlab.com) - Yair Altman blogs about the hidden underbelly of MATLAB®. This is the place to be for discovering new and awesome features.
 * [WalkingRandomly](http://www.walkingrandomly.com/?cat=11) - The MATLAB tag of WalkingRandomly.
+* [xcorr: comp neuro](http://xcorr.net/?s=matlab) - MATLAB relevant post of XCORR.
+* [Matlab Tips](http://www.matlabtips.com/) - Learning Matlab for new and advanced users.
+* [Matlab Tricks](http://www.matlabtricks.com/) - Growing Collection of Matlab tips.
+* [Matlab Geeks](http://matlabgeeks.com/) - Matlab Blog, Tutorials and Expertise.
 
 ## Books
 
@@ -131,15 +143,17 @@ Where to discover new MATLAB resources.
 
 ## Reference Cards
 
-* [MATLAB Quick Reference](http://www.robots.ox.ac.uk/~dwm/Courses/1P5_2011/MatlabQuickRef1v1.pdf) - by Eric Peasley, Department of Engineering Science, University of Oxford.
+* [MATLAB Quick Reference](http://www.robots.ox.ac.uk/~dwm/Courses/1P5_2011/MatlabQuickRef1v1.pdf) - by Eric Peasley, Department of Engineering Science, University of Oxford
+* [MATLAB Quick Reference App](https://play.google.com/store/apps/details?id=leo.anag.mathlab.help.DesktopToolsAndDevelopmentEnvironment)
 
 ## Social Media
 
 * [MATLAB Reddit](https://www.reddit.com/r/matlab/)
 * [Octave Reddit](https://www.reddit.com/r/octave/)
-* [MATLAB on Facebook](https://www.facebook.com/MATLAB) - Official Facebook page for MATLAB.
-* [MATLAB on Stack Overflow](http://stackoverflow.com/questions/tagged/matlab) - Stack Overflow is a community of 4.7 million programmers, just like you, helping each other.
-* [MATLAB on Twitter](https://twitter.com/MATLAB) - Official MATLAB twitter account.
+* [MATLAB on Facebook](https://www.facebook.com/MATLAB) - Official Facebook page for MATLAB
+* [MATLAB on Stack Overflow](http://stackoverflow.com/questions/tagged/matlab) - Stack Overflow is a community of 4.7 million programmers, just like you, helping each other
+* [MATLAB on Twitter](https://twitter.com/MATLAB) - Official MATLAB twitter account
+* [Matlab Tricks Club](https://www.facebook.com/MatlabTricksClub/) - A Community Page about MATLAB
 
 ## MOOCs
 *Massive open online courses.*
@@ -150,6 +164,11 @@ Where to discover new MATLAB resources.
 ## Tips and Tricks
 
 * [Guidelines for writing clean and fast code in MATLAB](http://www.mathworks.com/matlabcentral/fileexchange/22943-guidelines-for-writing-clean-and-fast-code-in-matlab) - A guide with best practices in MATLAB® programming to which anybody can [contribute](https://github.com/nschloe/matlab-guidelines).
+* [Writing Fast MATLAB Code](http://www.csc.kth.se/utbildning/kth/kurser/DN2255/ndiff13/matopt.pdf)
+* [MATLAB Array Manipulation Tips and Tricks](http://cseweb.ucsd.edu/~datorres/docs/MatlabTip.pdf)
+* [MATLAB Vectorization Tricks](http://www-h.eng.cam.ac.uk/help/tpl/programs/Matlab/tricks.html)
+* [Matlab / Octave Efficiency Notes](http://homepages.inf.ed.ac.uk/imurray2/compnotes/matlab_octave_efficiency.html)
+* [Matlab tips and Tricks](http://www.ee.columbia.edu/~marios/matlab/matlab_tricks.html)
 * [MATLAB Style Guide 1](http://note.sonots.com/Matlab/MatlabCodingStyle.html)
 * [MATLAB Style Guide 2](http://4dpiecharts.com/matlab-code-style-guide/)
 * [Octave and MATLAB Snippets](https://gist.github.com/gramian/6027733)
