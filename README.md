@@ -27,9 +27,9 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 - [Contributing](#contributing)
 
 ## 3rd Party Commercial Toolboxes
-*High quality commercial toolboxes from organisations other than Mathworks*
+*High quality commercial toolboxes from organisations other than The MathWorks*
 
-* [Multiprecision Toolbox for MATLAB](http://www.advanpix.com/) - The Multiprecision Computing Toolbox is the MATLAB extension for computing with arbitrary precision.  The toolbox equips MATLAB with a new multiple precision floating-point numeric type and extensive set of mathematical functions that are capable of computing with arbitrary precision.
+* [Multiprecision Toolbox for MATLAB](http://www.advanpix.com/) - This toolbox equips MATLAB with a new multiple precision floating-point numeric type and an extensive set of mathematical functions that are capable of computations with arbitrary precision.
 * [NAG Toolbox for MATLAB](http://www.nag.co.uk/numeric/MB/start.asp) - Over 1700 functions across numerous areas of numerical mathematics. Developed by The Numerical Algorithms Group (NAG).
 
 ## Cool
@@ -40,9 +40,9 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 ## Database Management
 *Toolboxes for managing data*
 
-* [Database toolbox](http://uk.mathworks.com/products/database/) - Official database toolbox from Mathworks
-* [go-redis](https://github.com/markuman/go-redis/) - Free Redis Mex client for Matlab
-* [mex-sqlite3](https://github.com/rmartinjak/mex-sqlite3) - Free Sqlite3 Mex client for Matlab
+* [Database toolbox](http://uk.mathworks.com/products/database/) - Official database toolbox from The MathWorks
+* [go-redis](https://github.com/markuman/go-redis/) - Free Redis Mex client for MATLAB
+* [mex-sqlite3](https://github.com/rmartinjak/mex-sqlite3) - Free Sqlite3 Mex client for MATLAB
 
 ## Games
 
@@ -59,23 +59,23 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 
 ## Image Processing and Computer Vision
 
-* [Computer Vision System Toolbox](http://uk.mathworks.com/products/computer-vision/) - The official computer vision toolbox from Mathworks.
-* [Image Processing Toolbox](http://uk.mathworks.com/products/image/) - The official Image Processing Toolbox from Mathworks
-* [MatConvNet](http://www.vlfeat.org/matconvnet/) - MatConvNet is a free MATLAB toolbox implementing Convolutional Neural Networks (CNNs) for computer vision applications. It is simple, efficient, and can run and learn state-of-the-art CNNs. Many pre-trained CNNs for image classification, segmentation, face recognition, and text detection are available.
-* [Piotr's Image and Video Toolbox](https://github.com/pdollar/toolbox) - This free toolbox is meant to facilitate the manipulation of images and video in Matlab. Its purpose is to complement, not replace, Matlab's Image Processing Toolbox, and in fact it requires that the Matlab Image Toolbox be installed.
-* [VLFeat](http://www.vlfeat.org/) - The VLFeat free and open source library implements popular computer vision algorithms specializing in image understanding and local features extraction and matching.It is written in C for efficiency and compatibility, with interfaces in MATLAB for ease of use, and detailed documentation throughout.
+* [Computer Vision System Toolbox](http://uk.mathworks.com/products/computer-vision/) - The official computer vision toolbox from The MathWorks.
+* [Image Processing Toolbox](http://uk.mathworks.com/products/image/) - The official Image Processing Toolbox from The MathWorks
+* [MatConvNet](http://www.vlfeat.org/matconvnet/) - MatConvNet is a free MATLAB toolbox implementing Convolutional Neural Networks (CNNs) for computer vision applications. It is simple, efficient, and can run and learn state-of-the-art CNNs. It provides pre-trained CNNs for image classification, segmentation, face recognition, and text detection.
+* [Piotr's Image and Video Toolbox](https://github.com/pdollar/toolbox) - This free toolbox facilitates the manipulation of images and video in MATLAB. Its purpose is to complement, not replace, MATLAB's Image Processing Toolbox.
+* [VLFeat](http://www.vlfeat.org/) - The VLFeat free and open source library implements popular computer vision algorithms specializing in image understanding and local features extraction and matching. It is written in C for efficiency and compatibility, with interfaces in MATLAB for ease of use, and detailed documentation throughout.
 
 ## Interfacing with other languages
 
-* [C/C++ mex routines](http://uk.mathworks.com/help/matlab/write-cc-mex-files.html) - C/C++ MEX file lets you call C/C++ functions from within MATLAB.
-* [Fortran mex routines](http://uk.mathworks.com/help/matlab/write-fortran-mex-files.html) - Fortran mex routines allow you to call Fortran code from within MATLAB.
-* [MATLAB Engine for Python](http://uk.mathworks.com/help/matlab/matlab_external/get-started-with-matlab-engine-for-python.html) - The MATLAB Engine for Python provides a Python package named matlab that enables you to call MATLAB functions from Python.
+* [C/C++ mex routines](http://uk.mathworks.com/help/matlab/write-cc-mex-files.html) - C/C++ MEX files allow to call C/C++ functions from within MATLAB.
+* [Fortran mex routines](http://uk.mathworks.com/help/matlab/write-fortran-mex-files.html) - Fortran MEX routines allow you to call Fortran code from within MATLAB.
+* [MATLAB Engine for Python](http://uk.mathworks.com/help/matlab/matlab_external/get-started-with-matlab-engine-for-python.html) - The MATLAB Engine for Python provides a Python package named `matlab` that enables you to call MATLAB functions from within Python.
 * [Python](http://uk.mathworks.com/help/matlab/call-python-libraries.html) - How to call Python functions from within MATLAB.
 
 ## Learning MATLAB
 
 * [Software Carpentry lessons in MATLAB](http://swcarpentry.github.io/matlab-novice-inflammation/) - Teaching basic lab skills for research computing.
-* [YAGTOM: Yet Another Guide TO Matlab](http://ubcmatlabguide.github.io) - This MATLAB® tutorial starts from the basics and builds up to advanced concepts such as object-oriented programming (Note the [Speedup Tricks](https://ubcmatlabguide.github.io/html/speedup.html)).
+* [YAGTOM: Yet Another Guide TO MATLAB](http://ubcmatlabguide.github.io) - This MATLAB® tutorial starts from the basics and builds up to advanced concepts such as object-oriented programming (Note the [Speedup Tricks](https://ubcmatlabguide.github.io/html/speedup.html)).
 * [MATLAB Academy - MATLAB Onramp](https://matlabacademy.mathworks.com/) - Brief MATLAB introduction including language syntax and common workflows. Complimentary access with MATLAB license.
 
 ## Making Figures
@@ -100,14 +100,14 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 *High quality free toolboxes in subject areas that don't yet have their own section*
 
 * [Chebfun](http://www.chebfun.org/) - Chebfun is an open-source package for computing with functions to about 15-digit accuracy.
-* [IFISS](http://www.maths.manchester.ac.uk/~djs/ifiss/) - IFISS is a graphical package for the interactive numerical study of incompressible flow problems which can be run under Matlab or Octave.
-* [Wavelab](http://statweb.stanford.edu/~wavelab/Wavelab_850/index_wavelab850.html) - WaveLab is a collection of Matlab functions that have been used by the authors and collaborators to implement a variety of algorithms related to wavelet analysis.
+* [IFISS](http://www.maths.manchester.ac.uk/~djs/ifiss/) - IFISS is a graphical package for the interactive numerical study of incompressible flow problems which can be run under MATLAB or Octave.
+* [Wavelab](http://statweb.stanford.edu/~wavelab/Wavelab_850/index_wavelab850.html) - WaveLab is a collection of MATLAB functions related to wavelet analysis.
 * [emgr](http://gramian.de) - Empirical gramian framework for model reduction and system identification.
-* [Matlab Toolbox for Dimensionality Reduction](https://lvdmaaten.github.io/drtoolbox/)
+* [drtoolbox](https://lvdmaaten.github.io/drtoolbox/) - Matlab Toolbox for Dimensionality Reduction
 * [MPITB](http://www.ugr.es/~jfernand/mpitb_eng.html) - MPI Toolbox for Matlab ([MPI Toolbox for Octave](http://www.ugr.es/~jfernand/mpitb.html)) 
 * [Lightspeed](http://research.microsoft.com/en-us/um/people/minka/software/lightspeed/) - Microsoft Lightspeed Utilities Toolbox
-* [Brain connectivity Toolbox](https://sites.google.com/site/bctnet/)
-* [OpenCL Toolbox](https://code.google.com/p/opencl-toolbox/)
+* [bct](http://www.brain-connectivity-toolbox.net/) - Brain Connectivity Toolbox
+* [OpenCL Toolbox](https://github.com/imaginairy-user/opencl-toolbox/) - OpenCL support for MATLAB
 
 # Resources
 
@@ -115,7 +115,7 @@ Where to discover new MATLAB resources.
 
 ## Websites
 
-* [MATLAB File Exchange](http://uk.mathworks.com/matlabcentral/fileexchange/) - File Exchange lets you find and share custom applications, classes, code examples, drivers, functions, Simulink models, scripts, and videos
+* [MATLAB File Exchange](http://uk.mathworks.com/matlabcentral/fileexchange/) - File Exchange lets you find and share custom applications, classes, code examples, drivers, functions, Simulink models, scripts, and videos.
 * [Cody](http://uk.mathworks.com/matlabcentral/cody/) - A website with programming challenges that consist of writing MATLAB® code. A fun way to improve your skills.
 * [ThingSpeak](https://thingspeak.com) - An internet of things (IoT) platform that allows to collect, analyze and act upon various data sources. You can enter your own MATLAB® code to process and plot your data.
 * [Octave-Online](http://octave-online.net/) - An online Octave interpreter.
@@ -123,11 +123,11 @@ Where to discover new MATLAB resources.
 
 ## Blogs
 
-* [Cleve's Corner: Cleve Moler on Mathematics and Computing](http://blogs.mathworks.com/cleve/) - Cleve Moler is the author of the first MATLAB, one of the founders of MathWorks, and is currently Chief Mathematician at the company.
+* [Cleve's Corner: Cleve Moler on Mathematics and Computing](http://blogs.mathworks.com/cleve/) - Cleve Moler is the author of the first MATLAB, one of the founders of The MathWorks, and is currently Chief Mathematician at the company.
 * [Developer Zone](http://blogs.mathworks.com/developer/) - Developing, testing, and integrating production grade software using MATLAB.
-* [Guy and Seth on Simulink](http://blogs.mathworks.com/seth/) - Guy Rouleau and Seth Popinchalk are Application Engineers for MathWorks.
-* [Loren on the art of MATLAB](http://blogs.mathworks.com/loren/) - Loren Shure works on design of the MATLAB language at MathWorks.
-* [Steve on Image Processing](http://blogs.mathworks.com/steve/) - Steve Eddins has developed MATLAB and image processing capabilities for MathWorks since 1993.
+* [Guy and Seth on Simulink](http://blogs.mathworks.com/seth/) - Guy Rouleau and Seth Popinchalk are Application Engineers for The MathWorks.
+* [Loren on the art of MATLAB](http://blogs.mathworks.com/loren/) - Loren Shure works on design of the MATLAB language at The MathWorks.
+* [Steve on Image Processing](http://blogs.mathworks.com/steve/) - Steve Eddins has developed MATLAB and image processing capabilities for The MathWorks since 1993.
 * [Undocumented MATLAB](http://undocumentedmatlab.com) - Yair Altman blogs about the hidden underbelly of MATLAB®. This is the place to be for discovering new and awesome features.
 * [WalkingRandomly](http://www.walkingrandomly.com/?cat=11) - The MATLAB tag of WalkingRandomly.
 * [xcorr: comp neuro](http://xcorr.net/?s=matlab) - MATLAB relevant post of XCORR.
@@ -143,17 +143,17 @@ Where to discover new MATLAB resources.
 
 ## Reference Cards
 
-* [MATLAB Quick Reference](http://www.robots.ox.ac.uk/~dwm/Courses/1P5_2011/MatlabQuickRef1v1.pdf) - Eric Peasley, Department of Engineering Science, University of Oxford
+* [MATLAB Quick Reference](http://www.robots.ox.ac.uk/~dwm/Courses/1P5_2011/MatlabQuickRef1v1.pdf) - by Eric Peasley, Department of Engineering Science, University of Oxford
 * [MATLAB Quick Reference App](https://play.google.com/store/apps/details?id=leo.anag.mathlab.help.DesktopToolsAndDevelopmentEnvironment)
 
 ## Social Media
 
-* [Matlab Reddit](https://www.reddit.com/r/matlab/)
+* [MATLAB Reddit](https://www.reddit.com/r/matlab/)
 * [Octave Reddit](https://www.reddit.com/r/octave/)
 * [MATLAB on Facebook](https://www.facebook.com/MATLAB) - Official Facebook page for MATLAB
 * [MATLAB on Stack Overflow](http://stackoverflow.com/questions/tagged/matlab) - Stack Overflow is a community of 4.7 million programmers, just like you, helping each other
 * [MATLAB on Twitter](https://twitter.com/MATLAB) - Official MATLAB twitter account
-* [Matlab Tricks Club](https://www.facebook.com/MatlabTricksClub/)
+* [Matlab Tricks Club](https://www.facebook.com/MatlabTricksClub/) - A Community Page about MATLAB
 
 ## MOOCs
 *Massive open online courses.*
@@ -171,11 +171,10 @@ Where to discover new MATLAB resources.
 * [Matlab tips and Tricks](http://www.ee.columbia.edu/~marios/matlab/matlab_tricks.html)
 * [MATLAB Style Guide 1](http://note.sonots.com/Matlab/MatlabCodingStyle.html)
 * [MATLAB Style Guide 2](http://4dpiecharts.com/matlab-code-style-guide/)
-* [MATLAB Style Guide 3](http://www.cs.cornell.edu/courses/cs99/2002fa/matlabstyle.html)
-* [OCTAVE and MATLAB Snippets](https://gist.github.com/gramian/6027733)
-* [Advanced Numerical Linear Algebra](http://www.caam.rice.edu/~caam551/MatlabCode/matlabcode.html) - Matlab Code
-* [Lanczos Algorithm for SVD](http://bickson.blogspot.de/2011/10/lanczos-algorithm-for-svd-singule-value.html) - Matlab Code
-* [Jie Chen's Software](https://jie-chen-ibm.appspot.com/software.html) - Collection of companion codes (mostly Matlab)
+* [Octave and MATLAB Snippets](https://gist.github.com/gramian/6027733)
+* [Advanced Numerical Linear Algebra](http://www.caam.rice.edu/~caam551/MatlabCode/matlabcode.html) - MATLAB Code
+* [Lanczos Algorithm for SVD](http://bickson.blogspot.de/2011/10/lanczos-algorithm-for-svd-singule-value.html) - MATLAB Code
+* [Jie Chen's Software](https://jie-chen-ibm.appspot.com/software.html) - Collection of companion codes (mostly MATLAB).
 
 # Contributing
 Your contributions are always welcome!
