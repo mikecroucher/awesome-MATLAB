@@ -86,6 +86,8 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [Software Carpentry lessons in MATLAB](http://swcarpentry.github.io/matlab-novice-inflammation/) - Teaching basic lab skills for research computing.
 * [YAGTOM: Yet Another Guide TO MATLAB](http://ubcmatlabguide.github.io) - This MATLAB® tutorial starts from the basics and builds up to advanced concepts such as object-oriented programming (Note the [Speedup Tricks](https://ubcmatlabguide.github.io/html/speedup.html)).
 * [MATLAB Academy - MATLAB Onramp](https://matlabacademy.mathworks.com/) - Brief MATLAB introduction including language syntax and common workflows. Complimentary access with MATLAB license.
+* [CTMS](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home) - Control Tutorials for MATLAB and Simulink
+* [Rosetta Code](http://rosettacode.org/wiki/Category:MATLAB) - MATLAB category
 
 ## Making Figures
 
