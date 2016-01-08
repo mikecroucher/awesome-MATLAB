@@ -121,6 +121,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [Lightspeed](http://research.microsoft.com/en-us/um/people/minka/software/lightspeed/) - Microsoft Lightspeed Utilities Toolbox
 * [bct](http://www.brain-connectivity-toolbox.net/) - Brain Connectivity Toolbox
 * [OpenCL Toolbox](https://github.com/imaginairy-user/opencl-toolbox/) - OpenCL support for MATLAB
+* [UQLab](http://www.uqlab.com/) - The Framework for Uncertainty Quantification
 
 # Resources
 
