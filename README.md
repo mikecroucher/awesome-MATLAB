@@ -184,6 +184,8 @@ Where to discover new MATLAB resources.
 * [Advanced Numerical Linear Algebra](http://www.caam.rice.edu/~caam551/MatlabCode/matlabcode.html) - MATLAB Code
 * [Lanczos Algorithm for SVD](http://bickson.blogspot.de/2011/10/lanczos-algorithm-for-svd-singule-value.html) - MATLAB Code
 * [Jie Chen's Software](https://jie-chen-ibm.appspot.com/software.html) - Collection of companion codes (mostly MATLAB).
+* [SSP RK](http://sspsite.org/matlab_scripts.html) - Strong Staility Preserving Runge-Kutta Codes.
+* [BV78](http://faculty.smu.edu/shampine/current.html) - Shampine's Adaptive Runge-Kutta 7-8.
 
 # Contributing
 Your contributions are always welcome!
