@@ -73,6 +73,10 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [emgr](http://gramian.de) - Empirical gramian framework for model reduction and system identification.
 * [MORE](http://w3.onera.fr/more/) - a MOdel REduction Toolbox
 * [drtoolbox](https://lvdmaaten.github.io/drtoolbox/) - Matlab Toolbox for Dimensionality Reduction
+* [SiMpLIfy](http://simplifytoolbox.tumblr.com/) - Structured ModeL reductIon
+* [MORLAB](http://www.mpi-magdeburg.mpg.de/1657682/morlab) - Model Order Reduction Laboratory
+* [SMORES](http://www.bnbond.com/software/smores/) - A Matlab tool for Simulation and Model Order Reduction of Electrical Systems
+* [sssMOR](https://www.rt.mw.tum.de/forschung/forschungsgebiete/modellreduktion/sssmor/) - Sparse State-Space and Model Order Reduction Toolbox
 
 ## Interfacing with other languages
 
