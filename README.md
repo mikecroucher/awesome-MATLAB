@@ -31,6 +31,8 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 
 * [Multiprecision Toolbox for MATLAB](http://www.advanpix.com/) - This toolbox equips MATLAB with a new multiple precision floating-point numeric type and an extensive set of mathematical functions that are capable of computations with arbitrary precision.
 * [NAG Toolbox for MATLAB](http://www.nag.co.uk/numeric/MB/start.asp) - Over 1700 functions across numerous areas of numerical mathematics. Developed by The Numerical Algorithms Group (NAG).
+* [MOSEK Optimization Toolbox](https://www.mosek.com) - The MOSEK toolbox provides access to the powerful MOSEK optimization solvers from inside the MATLAB environment.
+
 
 ## Cool
 *Fun projects that make you say 'Cool!'*
