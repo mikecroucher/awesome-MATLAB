@@ -86,8 +86,8 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [Software Carpentry lessons in MATLAB](http://swcarpentry.github.io/matlab-novice-inflammation/) - Teaching basic lab skills for research computing.
 * [YAGTOM: Yet Another Guide TO MATLAB](http://ubcmatlabguide.github.io) - This MATLAB® tutorial starts from the basics and builds up to advanced concepts such as object-oriented programming (Note the [Speedup Tricks](https://ubcmatlabguide.github.io/html/speedup.html)).
 * [MATLAB Academy - MATLAB Onramp](https://matlabacademy.mathworks.com/) - Brief MATLAB introduction including language syntax and common workflows. Complimentary access with MATLAB license.
-* [CTMS](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home) - Control Tutorials for MATLAB and Simulink
-* [Rosetta Code](http://rosettacode.org/wiki/Category:MATLAB) - MATLAB category
+* [Control Tutorials for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home) - This site contains quite a bit control theory, some practical applications and how to implement these in MATLAB and SimuLink.
+* [Rosetta Code (MATLAB category)](http://rosettacode.org/wiki/Category:MATLAB) - Rosetta Code is a community comparing algorithms in different languages.
 
 ## Making Figures
 
@@ -184,8 +184,8 @@ Where to discover new MATLAB resources.
 * [Advanced Numerical Linear Algebra](http://www.caam.rice.edu/~caam551/MatlabCode/matlabcode.html) - MATLAB Code
 * [Lanczos Algorithm for SVD](http://bickson.blogspot.de/2011/10/lanczos-algorithm-for-svd-singule-value.html) - MATLAB Code
 * [Jie Chen's Software](https://jie-chen-ibm.appspot.com/software.html) - Collection of companion codes (mostly MATLAB).
-* [SSP RK](http://sspsite.org/matlab_scripts.html) - Strong Staility Preserving Runge-Kutta Codes.
-* [BV78](http://faculty.smu.edu/shampine/current.html) - Shampine's Adaptive Runge-Kutta 7-8.
+* [SSP RK](http://sspsite.org/matlab_scripts.html) - Strong Stability Preserving Runge-Kutta Codes.
+* [BV78](http://faculty.smu.edu/shampine/current.html) - Shampine's Adaptive Block Vectorized Runge-Kutta 7-8.
 
 # Contributing
 Your contributions are always welcome!
