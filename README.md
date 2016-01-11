@@ -11,6 +11,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
   - [Games](#games)
   - [Hardware](#hardware)
   - [Image Processing and Computer Vision](#image-processing-and-computer-vision)
+  - [Model Reduction](#model-reduction)
   - [Interfacing with other languages](#interfacing-with-other-languages)
   - [Learning MATLAB](#learning-matlab)
   - [Making Figures](#making-figures)
@@ -182,10 +183,10 @@ Where to discover new MATLAB resources.
 * [MATLAB Array Manipulation Tips and Tricks](http://cseweb.ucsd.edu/~datorres/docs/MatlabTip.pdf)
 * [MATLAB Vectorization Tricks](http://www-h.eng.cam.ac.uk/help/tpl/programs/Matlab/tricks.html)
 * [Matlab / Octave Efficiency Notes](http://homepages.inf.ed.ac.uk/imurray2/compnotes/matlab_octave_efficiency.html)
-* [Matlab tips and Tricks](http://www.ee.columbia.edu/~marios/matlab/matlab_tricks.html)
+* [Matlab Tips and Tricks](http://www.ee.columbia.edu/~marios/matlab/matlab_tricks.html)
 * [MATLAB Style Guide 1](http://note.sonots.com/Matlab/MatlabCodingStyle.html)
 * [MATLAB Style Guide 2](http://4dpiecharts.com/matlab-code-style-guide/)
-* [Octave and MATLAB Snippets](https://gist.github.com/gramian/6027733)
+* [Octave and MATLAB Snippets](https://github.io/mtips) - Collection of code snippets
 * [Advanced Numerical Linear Algebra](http://www.caam.rice.edu/~caam551/MatlabCode/matlabcode.html) - MATLAB Code
 * [Lanczos Algorithm for SVD](http://bickson.blogspot.de/2011/10/lanczos-algorithm-for-svd-singule-value.html) - MATLAB Code
 * [Jie Chen's Software](https://jie-chen-ibm.appspot.com/software.html) - Collection of companion codes (mostly MATLAB).
