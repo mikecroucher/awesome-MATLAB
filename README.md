@@ -11,6 +11,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
   - [Games](#games)
   - [Hardware](#hardware)
   - [Image Processing and Computer Vision](#image-processing-and-computer-vision)
+  - [Model Reduction](#model-reduction)
   - [Interfacing with other languages](#interfacing-with-other-languages)
   - [Learning MATLAB](#learning-matlab)
   - [Making Figures](#making-figures)
@@ -103,6 +104,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [Plotly MATLAB Library](https://plot.ly/matlab/) - exports MATLAB® figures to the online plotting service [plot.ly](https://plot.ly).
 * [saveFigure](https://github.com/djoshea/matlab-save-figure) - exports MATLAB® figures to PDF, SVG, EPS and PNG with improved support for transparancy.
 * [hq-matlab-figs](http://dgleich.github.io/hq-matlab-figs/) - Creating high-quality graphics in MATLAB for papers and presentations.
+* [antijet](https://git.io/antijet) - An alternative to the problematic "jet"-colormap.
 
 ## MATLAB-like environments
 
@@ -154,6 +156,7 @@ Where to discover new MATLAB resources.
 * [Accelerating MATLAB Performance: 1001 tips to speed up MATLAB programs](https://www.crcpress.com/Accelerating-MATLAB-Performance-1001-tips-to-speed-up-MATLAB-programs/Altman/9781482211290) - A superb guide to making MATLAB code faster.
 * [Undocumented Secrets of MATLAB-Java Programming](https://www.crcpress.com/Undocumented-Secrets-of-MATLAB-Java-Programming/Altman/9781439869031#isbn) - A great guide on MATLAB® and its Java interface (e.g. for GUIs or interaction with JVM software).
 * [The Elements of MATLAB Style](http://www.cambridge.org/us/academic/subjects/computer-science/scientific-computing-scientific-software/elements-matlab-style) - Coding guidelines for the MATLAB language.
+* [MATLAB for Dummies](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-111882010X.html) - A good beginners books.
 
 ## Reference Cards
 
@@ -182,10 +185,10 @@ Where to discover new MATLAB resources.
 * [MATLAB Array Manipulation Tips and Tricks](http://cseweb.ucsd.edu/~datorres/docs/MatlabTip.pdf)
 * [MATLAB Vectorization Tricks](http://www-h.eng.cam.ac.uk/help/tpl/programs/Matlab/tricks.html)
 * [Matlab / Octave Efficiency Notes](http://homepages.inf.ed.ac.uk/imurray2/compnotes/matlab_octave_efficiency.html)
-* [Matlab tips and Tricks](http://www.ee.columbia.edu/~marios/matlab/matlab_tricks.html)
+* [Matlab Tips and Tricks](http://www.ee.columbia.edu/~marios/matlab/matlab_tricks.html)
 * [MATLAB Style Guide 1](http://note.sonots.com/Matlab/MatlabCodingStyle.html)
 * [MATLAB Style Guide 2](http://4dpiecharts.com/matlab-code-style-guide/)
-* [Octave and MATLAB Snippets](https://gist.github.com/gramian/6027733)
+* [Octave and MATLAB Snippets](https://git.io/mtips) - Collection of code snippets
 * [Advanced Numerical Linear Algebra](http://www.caam.rice.edu/~caam551/MatlabCode/matlabcode.html) - MATLAB Code
 * [Lanczos Algorithm for SVD](http://bickson.blogspot.de/2011/10/lanczos-algorithm-for-svd-singule-value.html) - MATLAB Code
 * [Jie Chen's Software](https://jie-chen-ibm.appspot.com/software.html) - Collection of companion codes (mostly MATLAB).
