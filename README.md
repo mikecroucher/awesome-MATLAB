@@ -104,7 +104,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [Plotly MATLAB Library](https://plot.ly/matlab/) - exports MATLAB® figures to the online plotting service [plot.ly](https://plot.ly).
 * [saveFigure](https://github.com/djoshea/matlab-save-figure) - exports MATLAB® figures to PDF, SVG, EPS and PNG with improved support for transparancy.
 * [hq-matlab-figs](http://dgleich.github.io/hq-matlab-figs/) - Creating high-quality graphics in MATLAB for papers and presentations.
-* [antijet](https://gist.github.com/gramian/67585e5f2e9a294c3aa6) - An alternative to the problematic "jet"-colormap.
+* [antijet](https://git.io/antijet) - An alternative to the problematic "jet"-colormap.
 
 ## MATLAB-like environments
 
@@ -188,7 +188,7 @@ Where to discover new MATLAB resources.
 * [Matlab Tips and Tricks](http://www.ee.columbia.edu/~marios/matlab/matlab_tricks.html)
 * [MATLAB Style Guide 1](http://note.sonots.com/Matlab/MatlabCodingStyle.html)
 * [MATLAB Style Guide 2](http://4dpiecharts.com/matlab-code-style-guide/)
-* [Octave and MATLAB Snippets](https://github.io/mtips) - Collection of code snippets
+* [Octave and MATLAB Snippets](https://git.io/mtips) - Collection of code snippets
 * [Advanced Numerical Linear Algebra](http://www.caam.rice.edu/~caam551/MatlabCode/matlabcode.html) - MATLAB Code
 * [Lanczos Algorithm for SVD](http://bickson.blogspot.de/2011/10/lanczos-algorithm-for-svd-singule-value.html) - MATLAB Code
 * [Jie Chen's Software](https://jie-chen-ibm.appspot.com/software.html) - Collection of companion codes (mostly MATLAB).
