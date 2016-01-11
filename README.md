@@ -67,6 +67,17 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [Piotr's Image and Video Toolbox](https://github.com/pdollar/toolbox) - This free toolbox facilitates the manipulation of images and video in MATLAB. Its purpose is to complement, not replace, MATLAB's Image Processing Toolbox.
 * [VLFeat](http://www.vlfeat.org/) - The VLFeat free and open source library implements popular computer vision algorithms specializing in image understanding and local features extraction and matching. It is written in C for efficiency and compatibility, with interfaces in MATLAB for ease of use, and detailed documentation throughout.
 
+## Model Reduction
+
+* [SLICOT](http://slicot.org/matlab-toolboxes/model-reduction) - SLICOT Model and Controller Reduction Toolbox
+* [emgr](http://gramian.de) - Empirical gramian framework for model reduction and system identification.
+* [MORE](http://w3.onera.fr/more/) - a MOdel REduction Toolbox
+* [drtoolbox](https://lvdmaaten.github.io/drtoolbox/) - Matlab Toolbox for Dimensionality Reduction
+* [SiMpLIfy](http://simplifytoolbox.tumblr.com/) - Structured ModeL reductIon
+* [MORLAB](http://www.mpi-magdeburg.mpg.de/1657682/morlab) - Model Order Reduction Laboratory
+* [SMORES](http://www.bnbond.com/software/smores/) - A Matlab tool for Simulation and Model Order Reduction of Electrical Systems
+* [sssMOR](https://www.rt.mw.tum.de/forschung/forschungsgebiete/modellreduktion/sssmor/) - Sparse State-Space and Model Order Reduction Toolbox
+
 ## Interfacing with other languages
 
 * [C/C++ mex routines](http://uk.mathworks.com/help/matlab/write-cc-mex-files.html) - C/C++ MEX files allow to call C/C++ functions from within MATLAB.
@@ -79,6 +90,8 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [Software Carpentry lessons in MATLAB](http://swcarpentry.github.io/matlab-novice-inflammation/) - Teaching basic lab skills for research computing.
 * [YAGTOM: Yet Another Guide TO MATLAB](http://ubcmatlabguide.github.io) - This MATLAB® tutorial starts from the basics and builds up to advanced concepts such as object-oriented programming (Note the [Speedup Tricks](https://ubcmatlabguide.github.io/html/speedup.html)).
 * [MATLAB Academy - MATLAB Onramp](https://matlabacademy.mathworks.com/) - Brief MATLAB introduction including language syntax and common workflows. Complimentary access with MATLAB license.
+* [Control Tutorials for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home) - This site contains quite a bit control theory, some practical applications and how to implement these in MATLAB and SimuLink.
+* [Rosetta Code (MATLAB category)](http://rosettacode.org/wiki/Category:MATLAB) - Rosetta Code is a community comparing algorithms in different languages.
 
 ## Making Figures
 
@@ -104,12 +117,11 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [Chebfun](http://www.chebfun.org/) - Chebfun is an open-source package for computing with functions to about 15-digit accuracy.
 * [IFISS](http://www.maths.manchester.ac.uk/~djs/ifiss/) - IFISS is a graphical package for the interactive numerical study of incompressible flow problems which can be run under MATLAB or Octave.
 * [Wavelab](http://statweb.stanford.edu/~wavelab/Wavelab_850/index_wavelab850.html) - WaveLab is a collection of MATLAB functions related to wavelet analysis.
-* [emgr](http://gramian.de) - Empirical gramian framework for model reduction and system identification.
-* [drtoolbox](https://lvdmaaten.github.io/drtoolbox/) - Matlab Toolbox for Dimensionality Reduction
 * [MPITB](http://www.ugr.es/~jfernand/mpitb_eng.html) - MPI Toolbox for Matlab ([MPI Toolbox for Octave](http://www.ugr.es/~jfernand/mpitb.html)) 
 * [Lightspeed](http://research.microsoft.com/en-us/um/people/minka/software/lightspeed/) - Microsoft Lightspeed Utilities Toolbox
 * [bct](http://www.brain-connectivity-toolbox.net/) - Brain Connectivity Toolbox
 * [OpenCL Toolbox](https://github.com/imaginairy-user/opencl-toolbox/) - OpenCL support for MATLAB
+* [UQLab](http://www.uqlab.com/) - The Framework for Uncertainty Quantification
 
 # Resources
 
@@ -177,6 +189,8 @@ Where to discover new MATLAB resources.
 * [Advanced Numerical Linear Algebra](http://www.caam.rice.edu/~caam551/MatlabCode/matlabcode.html) - MATLAB Code
 * [Lanczos Algorithm for SVD](http://bickson.blogspot.de/2011/10/lanczos-algorithm-for-svd-singule-value.html) - MATLAB Code
 * [Jie Chen's Software](https://jie-chen-ibm.appspot.com/software.html) - Collection of companion codes (mostly MATLAB).
+* [SSP RK](http://sspsite.org/matlab_scripts.html) - Strong Stability Preserving Runge-Kutta Codes.
+* [BV78](http://faculty.smu.edu/shampine/current.html) - Shampine's Adaptive Block Vectorized Runge-Kutta 7-8.
 
 # Contributing
 Your contributions are always welcome!
