@@ -105,6 +105,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [saveFigure](https://github.com/djoshea/matlab-save-figure) - exports MATLAB® figures to PDF, SVG, EPS and PNG with improved support for transparancy.
 * [hq-matlab-figs](http://dgleich.github.io/hq-matlab-figs/) - Creating high-quality graphics in MATLAB for papers and presentations.
 * [antijet](https://git.io/antijet) - An alternative to the problematic "jet"-colormap.
+* [octave kernel](https://github.com/calysto/octave_kernel) - to create IPython / Jupyter notebooks.
 
 ## MATLAB-like environments
 
