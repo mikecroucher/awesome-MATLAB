@@ -106,6 +106,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [hq-matlab-figs](http://dgleich.github.io/hq-matlab-figs/) - Creating high-quality graphics in MATLAB for papers and presentations.
 * [antijet](https://git.io/antijet) - An alternative to the problematic "jet"-colormap.
 * [octave kernel](https://github.com/calysto/octave_kernel) - to create IPython / Jupyter notebooks.
+* [xkcdify](https://www.mathworks.com/matlabcentral/fileexchange/38499-xkcdify) - xkcd-style plots.
 
 ## MATLAB-like environments
 
