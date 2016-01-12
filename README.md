@@ -150,6 +150,7 @@ Where to discover new MATLAB resources.
 * [Matlab Tips](http://www.matlabtips.com/) - Learning Matlab for new and advanced users.
 * [Matlab Tricks](http://www.matlabtricks.com/) - Growing Collection of Matlab tips.
 * [Matlab Geeks](http://matlabgeeks.com/) - Matlab Blog, Tutorials and Expertise.
+* [Matlab Cookbook](http://matlab-cookbook.com/) - Set of various tutorials.
 
 ## Books
 
