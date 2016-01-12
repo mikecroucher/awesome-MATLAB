@@ -170,7 +170,7 @@ Where to discover new MATLAB resources.
 * [MATLAB Reddit](https://www.reddit.com/r/matlab/)
 * [Octave Reddit](https://www.reddit.com/r/octave/)
 * [MATLAB on Facebook](https://www.facebook.com/MATLAB) - Official Facebook page for MATLAB
-* [MATLAB on Stack Overflow](http://stackoverflow.com/questions/tagged/matlab) - Stack Overflow is a community of 4.7 million programmers, just like you, helping each other
+* [MATLAB on Stack Overflow](http://stackoverflow.com/questions/tagged/matlab) - Stack Overflow is a community of 4.7 million programmers, just like you, helping each other (See also [Octave on Stack Overflow](https://stackoverflow.com/questions/tagged/octave))
 * [MATLAB on Twitter](https://twitter.com/MATLAB) - Official MATLAB twitter account
 * [Matlab Tricks Club](https://www.facebook.com/MatlabTricksClub/) - A Community Page about MATLAB
 
