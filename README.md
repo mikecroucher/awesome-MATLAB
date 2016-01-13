@@ -85,6 +85,8 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [Fortran mex routines](http://uk.mathworks.com/help/matlab/write-fortran-mex-files.html) - Fortran MEX routines allow you to call Fortran code from within MATLAB.
 * [MATLAB Engine for Python](http://uk.mathworks.com/help/matlab/matlab_external/get-started-with-matlab-engine-for-python.html) - The MATLAB Engine for Python provides a Python package named `matlab` that enables you to call MATLAB functions from within Python.
 * [Python](http://uk.mathworks.com/help/matlab/call-python-libraries.html) - How to call Python functions from within MATLAB.
+* [matlab kernel](https://github.com/calysto/matlab_kernel) - to run matlab code inside IPython / Jupyter notebooks.
+* [octave kernel](https://github.com/calysto/octave_kernel) - to run octave code inside IPython / Jupyter notebooks.
 
 ## Learning MATLAB
 
@@ -105,6 +107,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [saveFigure](https://github.com/djoshea/matlab-save-figure) - exports MATLAB® figures to PDF, SVG, EPS and PNG with improved support for transparancy.
 * [hq-matlab-figs](http://dgleich.github.io/hq-matlab-figs/) - Creating high-quality graphics in MATLAB for papers and presentations.
 * [antijet](https://git.io/antijet) - An alternative to the problematic "jet"-colormap.
+* [xkcdify](https://www.mathworks.com/matlabcentral/fileexchange/38499-xkcdify) - xkcd-style plots.
 
 ## MATLAB-like environments
 
@@ -150,6 +153,7 @@ Where to discover new MATLAB resources.
 * [Matlab Tips](http://www.matlabtips.com/) - Learning Matlab for new and advanced users.
 * [Matlab Tricks](http://www.matlabtricks.com/) - Growing Collection of Matlab tips.
 * [Matlab Geeks](http://matlabgeeks.com/) - Matlab Blog, Tutorials and Expertise.
+* [Matlab Cookbook](http://matlab-cookbook.com/) - Set of various tutorials.
 
 ## Books
 
@@ -168,7 +172,8 @@ Where to discover new MATLAB resources.
 * [MATLAB Reddit](https://www.reddit.com/r/matlab/)
 * [Octave Reddit](https://www.reddit.com/r/octave/)
 * [MATLAB on Facebook](https://www.facebook.com/MATLAB) - Official Facebook page for MATLAB
-* [MATLAB on Stack Overflow](http://stackoverflow.com/questions/tagged/matlab) - Stack Overflow is a community of 4.7 million programmers, just like you, helping each other
+* [MATLAB on Stack Overflow](http://stackoverflow.com/questions/tagged/matlab) - Stack Overflow is a community of 4.7 million programmers, just like you, helping each other.
+* [Octave on Stack Overflow](http://stackoverflow.com/questions/tagged/octave) - and Stack Overflow has an extensive back catalogue of many answered questions.
 * [MATLAB on Twitter](https://twitter.com/MATLAB) - Official MATLAB twitter account
 * [Matlab Tricks Club](https://www.facebook.com/MatlabTricksClub/) - A Community Page about MATLAB
 
@@ -189,6 +194,7 @@ Where to discover new MATLAB resources.
 * [MATLAB Style Guide 1](http://note.sonots.com/Matlab/MatlabCodingStyle.html)
 * [MATLAB Style Guide 2](http://4dpiecharts.com/matlab-code-style-guide/)
 * [Octave and MATLAB Snippets](https://git.io/mtips) - Collection of code snippets
+* [knkutils](https://github.com/kendrickkay/knkutils) - MATLAB utility functions written by Kendrick Kay 
 * [Advanced Numerical Linear Algebra](http://www.caam.rice.edu/~caam551/MatlabCode/matlabcode.html) - MATLAB Code
 * [Lanczos Algorithm for SVD](http://bickson.blogspot.de/2011/10/lanczos-algorithm-for-svd-singule-value.html) - MATLAB Code
 * [Jie Chen's Software](https://jie-chen-ibm.appspot.com/software.html) - Collection of companion codes (mostly MATLAB).
