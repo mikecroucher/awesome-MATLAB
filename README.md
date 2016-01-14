@@ -78,6 +78,11 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [MORLAB](http://www.mpi-magdeburg.mpg.de/1657682/morlab) - Model Order Reduction Laboratory
 * [SMORES](http://www.bnbond.com/software/smores/) - A Matlab tool for Simulation and Model Order Reduction of Electrical Systems
 * [sssMOR](https://www.rt.mw.tum.de/forschung/forschungsgebiete/modellreduktion/sssmor/) - Sparse State-Space and Model Order Reduction Toolbox
+* [MORPACK](http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_maschinenwesen/ifkm/dmt/forschung/forschungsthemen/morpack) - Model Order Reduction PACKage
+* [RBmatlab](https://www.ians.uni-stuttgart.de:8443/agh/gitblit/summary/software%2Fmatlab%2Frbmatlabrelease.git) - is a MATLAB library for model order reduction with Reduced Basis Methods for various discretization types and application settings.
+* [MESS](http://svncsc.mpi-magdeburg.mpg.de/trac/messtrac) - The Matrix Equations Sparse Solvers library, is the successor to the Lyapack Toolbox.
+* [KerMor](http://www.ians.uni-stuttgart.de/MoRePaS/software/kermor/) - Model order reduction for nonlinear dynamical systems and nonlinear approximation.
+
 
 ## Interfacing with other languages
 
