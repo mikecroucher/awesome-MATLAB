@@ -85,8 +85,8 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [Fortran mex routines](http://uk.mathworks.com/help/matlab/write-fortran-mex-files.html) - Fortran MEX routines allow you to call Fortran code from within MATLAB.
 * [MATLAB Engine for Python](http://uk.mathworks.com/help/matlab/matlab_external/get-started-with-matlab-engine-for-python.html) - The MATLAB Engine for Python provides a Python package named `matlab` that enables you to call MATLAB functions from within Python.
 * [Python](http://uk.mathworks.com/help/matlab/call-python-libraries.html) - How to call Python functions from within MATLAB.
-* [matlab kernel](https://github.com/calysto/matlab_kernel) - to run matlab code inside IPython / Jupyter notebooks.
-* [octave kernel](https://github.com/calysto/octave_kernel) - to run octave code inside IPython / Jupyter notebooks.
+* [matlab kernel](https://github.com/calysto/matlab_kernel) - To run MATLAB code inside IPython / Jupyter notebooks.
+* [octave kernel](https://github.com/calysto/octave_kernel) - To run Octave code inside IPython / Jupyter notebooks.
 
 ## Learning MATLAB
 
@@ -194,7 +194,8 @@ Where to discover new MATLAB resources.
 * [MATLAB Style Guide 1](http://note.sonots.com/Matlab/MatlabCodingStyle.html)
 * [MATLAB Style Guide 2](http://4dpiecharts.com/matlab-code-style-guide/)
 * [Octave and MATLAB Snippets](https://git.io/mtips) - Collection of code snippets
-* [knkutils](https://github.com/kendrickkay/knkutils) - MATLAB utility functions written by Kendrick Kay 
+* [knkutils](https://github.com/kendrickkay/knkutils) - MATLAB utility functions written by Kendrick Kay
+* [Alex's MATLAB Library](https://github.com/alexschlegel/matlab_lib)
 * [Advanced Numerical Linear Algebra](http://www.caam.rice.edu/~caam551/MatlabCode/matlabcode.html) - MATLAB Code
 * [Lanczos Algorithm for SVD](http://bickson.blogspot.de/2011/10/lanczos-algorithm-for-svd-singule-value.html) - MATLAB Code
 * [Jie Chen's Software](https://jie-chen-ibm.appspot.com/software.html) - Collection of companion codes (mostly MATLAB).
