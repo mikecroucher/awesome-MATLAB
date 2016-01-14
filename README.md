@@ -133,6 +133,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [OpenCL Toolbox](https://github.com/imaginairy-user/opencl-toolbox/) - OpenCL support for MATLAB
 * [UQLab](http://www.uqlab.com/) - The Framework for Uncertainty Quantification
 * [Octave Forge](http://octave.sourceforge.net/) - Extra packages for GNU Octave
+* [Matrix Computation Toolbox](http://www.maths.manchester.ac.uk/~higham/mctoolbox/) - for constructing test matrices, computing matrix factorizations, visualizing matrices, and carrying out direct search optimization.
 
 # Resources
 
