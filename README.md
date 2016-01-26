@@ -13,6 +13,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
   - [Image Processing and Computer Vision](#image-processing-and-computer-vision)
   - [Model Reduction](#model-reduction)
   - [Interfacing with other languages](#interfacing-with-other-languages)
+  - [Interfacing with other programs](#interfacing-with-other-programs)
   - [Learning MATLAB](#learning-matlab)
   - [Making Figures](#making-figures)
   - [MATLAB-like environments](#matlab-like-environments)
@@ -92,6 +93,12 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [Python](http://uk.mathworks.com/help/matlab/call-python-libraries.html) - How to call Python functions from within MATLAB.
 * [matlab kernel](https://github.com/calysto/matlab_kernel) - To run MATLAB code inside IPython / Jupyter notebooks.
 * [octave kernel](https://github.com/calysto/octave_kernel) - To run Octave code inside IPython / Jupyter notebooks.
+
+
+## Interfacing with other programs
+
+* [MATLAB QuickLook](https://github.com/jaketmp/matlab-quicklook) - QuickLook preview generator for MAT files. This shows the contents of your MAT files in Finder. The binary is only compatible with 64 bit OS X.
+
 
 ## Learning MATLAB
 
