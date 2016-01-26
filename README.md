@@ -98,6 +98,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 ## Interfacing with other programs
 
 * [MATLAB QuickLook](https://github.com/jaketmp/matlab-quicklook) - QuickLook preview generator for MAT files. This shows the contents of your MAT files in Finder. The binary is only compatible with 64 bit OS X.
+* [MATLAB-git](https://github.com/manur/MATLAB-git) - A thin wrapper to call `git` from within a MATLAB console.
 
 
 ## Learning MATLAB
