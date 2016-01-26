@@ -13,6 +13,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
   - [Image Processing and Computer Vision](#image-processing-and-computer-vision)
   - [Model Reduction](#model-reduction)
   - [Interfacing with other languages](#interfacing-with-other-languages)
+  - [Interfacing with other programs](#interfacing-with-other-programs)
   - [Learning MATLAB](#learning-matlab)
   - [Making Figures](#making-figures)
   - [MATLAB-like environments](#matlab-like-environments)
@@ -67,6 +68,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [MatConvNet](http://www.vlfeat.org/matconvnet/) - MatConvNet is a free MATLAB toolbox implementing Convolutional Neural Networks (CNNs) for computer vision applications. It is simple, efficient, and can run and learn state-of-the-art CNNs. It provides pre-trained CNNs for image classification, segmentation, face recognition, and text detection.
 * [Piotr's Image and Video Toolbox](https://github.com/pdollar/toolbox) - This free toolbox facilitates the manipulation of images and video in MATLAB. Its purpose is to complement, not replace, MATLAB's Image Processing Toolbox.
 * [VLFeat](http://www.vlfeat.org/) - The VLFeat free and open source library implements popular computer vision algorithms specializing in image understanding and local features extraction and matching. It is written in C for efficiency and compatibility, with interfaces in MATLAB for ease of use, and detailed documentation throughout.
+* [MexOpenCV](https://github.com/kyamagu/mexopencv) - MATLAB MEX interface for [OpenCV](http://opencv.org), i.e. one of the leading libraries for computer vision.
 
 ## Model Reduction
 
@@ -92,6 +94,14 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [Python](http://uk.mathworks.com/help/matlab/call-python-libraries.html) - How to call Python functions from within MATLAB.
 * [matlab kernel](https://github.com/calysto/matlab_kernel) - To run MATLAB code inside IPython / Jupyter notebooks.
 * [octave kernel](https://github.com/calysto/octave_kernel) - To run Octave code inside IPython / Jupyter notebooks.
+
+
+## Interfacing with other programs
+
+* [MATLAB QuickLook](https://github.com/jaketmp/matlab-quicklook) - QuickLook preview generator for MAT files. This shows the contents of your MAT files in Finder. The binary is only compatible with 64 bit OS X.
+* [MATLAB-git](https://github.com/manur/MATLAB-git) - A thin wrapper to call `git` from within a MATLAB console.
+* [JSONlab](https://github.com/fangq/jsonlab) - Toolbox to encode/decode [JSON](http://www.json.org) data files from within MATLAB and Octave.
+
 
 ## Learning MATLAB
 
