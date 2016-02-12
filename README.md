@@ -94,6 +94,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [Python](http://uk.mathworks.com/help/matlab/call-python-libraries.html) - How to call Python functions from within MATLAB.
 * [matlab kernel](https://github.com/calysto/matlab_kernel) - To run MATLAB code inside IPython / Jupyter notebooks.
 * [octave kernel](https://github.com/calysto/octave_kernel) - To run Octave code inside IPython / Jupyter notebooks.
+* [MATLink](http://matlink.org/) - To run MATLAB code inside Mathematica / Wolfram Language notebooks.
 
 
 ## Interfacing with other programs
