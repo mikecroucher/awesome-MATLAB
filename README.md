@@ -1,8 +1,7 @@
-# Awesome MATLAB
+# Awesome MATLAB  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-A curated list of awesome MATLAB toolboxes, applications, software and resources. Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
+A curated list of awesome MATLAB toolboxes, applications, software and resources.
+Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 
 - [Awesome MATLAB](#awesome-)
   - [3rd Party Commercial Toolboxes](#3rd-party-commercial-toolboxes)
@@ -45,9 +44,9 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 ## Database Management
 *Toolboxes for managing data*
 
-* [Database toolbox](http://uk.mathworks.com/products/database/) - Official database toolbox from The MathWorks
-* [go-redis](https://github.com/markuman/go-redis/) - Free Redis Mex client for MATLAB
-* [mex-sqlite3](https://github.com/rmartinjak/mex-sqlite3) - Free Sqlite3 Mex client for MATLAB
+* [Database toolbox](http://uk.mathworks.com/products/database/) - Official database toolbox from The MathWorks.
+* [go-redis](https://github.com/markuman/go-redis/) - Free Redis Mex client for MATLAB.
+* [mex-sqlite3](https://github.com/rmartinjak/mex-sqlite3) - Free Sqlite3 Mex client for MATLAB.
 
 ## Games
 
@@ -65,7 +64,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 ## Image Processing and Computer Vision
 
 * [Computer Vision System Toolbox](http://uk.mathworks.com/products/computer-vision/) - The official computer vision toolbox from The MathWorks.
-* [Image Processing Toolbox](http://uk.mathworks.com/products/image/) - The official Image Processing Toolbox from The MathWorks
+* [Image Processing Toolbox](http://uk.mathworks.com/products/image/) - The official Image Processing Toolbox from The MathWorks.
 * [MatConvNet](http://www.vlfeat.org/matconvnet/) - MatConvNet is a free MATLAB toolbox implementing Convolutional Neural Networks (CNNs) for computer vision applications. It is simple, efficient, and can run and learn state-of-the-art CNNs. It provides pre-trained CNNs for image classification, segmentation, face recognition, and text detection.
 * [Piotr's Image and Video Toolbox](https://github.com/pdollar/toolbox) - This free toolbox facilitates the manipulation of images and video in MATLAB. Its purpose is to complement, not replace, MATLAB's Image Processing Toolbox.
 * [VLFeat](http://www.vlfeat.org/) - The VLFeat free and open source library implements popular computer vision algorithms specializing in image understanding and local features extraction and matching. It is written in C for efficiency and compatibility, with interfaces in MATLAB for ease of use, and detailed documentation throughout.
@@ -73,15 +72,15 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 
 ## Model Reduction
 
-* [SLICOT](http://slicot.org/matlab-toolboxes/model-reduction) - SLICOT Model and Controller Reduction Toolbox
+* [SLICOT](http://slicot.org/matlab-toolboxes/model-reduction) - SLICOT Model and Controller Reduction Toolbox.
 * [emgr](http://gramian.de) - Empirical gramian framework for model reduction and system identification.
-* [MORE](http://w3.onera.fr/more/) - a MOdel REduction Toolbox
-* [drtoolbox](https://lvdmaaten.github.io/drtoolbox/) - Matlab Toolbox for Dimensionality Reduction
-* [SiMpLIfy](http://simplifytoolbox.tumblr.com/) - Structured ModeL reductIon
-* [MORLAB](http://www.mpi-magdeburg.mpg.de/1657682/morlab) - Model Order Reduction Laboratory
-* [SMORES](http://www.bnbond.com/software/smores/) - A Matlab tool for Simulation and Model Order Reduction of Electrical Systems
-* [sssMOR](https://www.rt.mw.tum.de/forschung/forschungsgebiete/modellreduktion/sssmor/) - Sparse State-Space and Model Order Reduction Toolbox
-* [MORPACK](http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_maschinenwesen/ifkm/dmt/forschung/forschungsthemen/morpack) - Model Order Reduction PACKage
+* [MORE](http://w3.onera.fr/more/) - a MOdel REduction Toolbox.
+* [drtoolbox](https://lvdmaaten.github.io/drtoolbox/) - Matlab Toolbox for Dimensionality Reduction.
+* [SiMpLIfy](http://simplifytoolbox.tumblr.com/) - Structured ModeL reductIon.
+* [MORLAB](http://www.mpi-magdeburg.mpg.de/1657682/morlab) - Model Order Reduction Laboratory.
+* [SMORES](http://www.bnbond.com/software/smores/) - A Matlab tool for Simulation and Model Order Reduction of Electrical Systems.
+* [sssMOR](https://www.rt.mw.tum.de/forschung/forschungsgebiete/modellreduktion/sssmor/) - Sparse State-Space and Model Order Reduction Toolbox.
+* [MORPACK](http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_maschinenwesen/ifkm/dmt/forschung/forschungsthemen/morpack) - Model Order Reduction PACKage.
 * [RBmatlab](https://www.ians.uni-stuttgart.de:8443/agh/gitblit/summary/software%2Fmatlab%2Frbmatlabrelease.git) - is a MATLAB library for model order reduction with Reduced Basis Methods for various discretization types and application settings.
 * [MESS](http://svncsc.mpi-magdeburg.mpg.de/trac/messtrac) - The Matrix Equations Sparse Solvers library, is the successor to the Lyapack Toolbox.
 * [KerMor](http://www.ians.uni-stuttgart.de/MoRePaS/software/kermor/) - Model order reduction for nonlinear dynamical systems and nonlinear approximation.
@@ -139,12 +138,12 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 * [Chebfun](http://www.chebfun.org/) - Chebfun is an open-source package for computing with functions to about 15-digit accuracy.
 * [IFISS](http://www.maths.manchester.ac.uk/~djs/ifiss/) - IFISS is a graphical package for the interactive numerical study of incompressible flow problems which can be run under MATLAB or Octave.
 * [Wavelab](http://statweb.stanford.edu/~wavelab/Wavelab_850/index_wavelab850.html) - WaveLab is a collection of MATLAB functions related to wavelet analysis.
-* [MPITB](http://www.ugr.es/~jfernand/mpitb_eng.html) - MPI Toolbox for Matlab ([MPI Toolbox for Octave](http://www.ugr.es/~jfernand/mpitb.html)) 
-* [Lightspeed](http://research.microsoft.com/en-us/um/people/minka/software/lightspeed/) - Microsoft Lightspeed Utilities Toolbox
-* [bct](http://www.brain-connectivity-toolbox.net/) - Brain Connectivity Toolbox
-* [OpenCL Toolbox](https://github.com/imaginairy-user/opencl-toolbox/) - OpenCL support for MATLAB
-* [UQLab](http://www.uqlab.com/) - The Framework for Uncertainty Quantification
-* [Octave Forge](http://octave.sourceforge.net/) - Extra packages for GNU Octave
+* [MPITB](http://www.ugr.es/~jfernand/mpitb_eng.html) - MPI Toolbox for Matlab ([MPI Toolbox for Octave](http://www.ugr.es/~jfernand/mpitb.html)).
+* [Lightspeed](http://research.microsoft.com/en-us/um/people/minka/software/lightspeed/) - Microsoft Lightspeed Utilities Toolbox.
+* [bct](http://www.brain-connectivity-toolbox.net/) - Brain Connectivity Toolbox.
+* [OpenCL Toolbox](https://github.com/imaginairy-user/opencl-toolbox/) - OpenCL support for MATLAB.
+* [UQLab](http://www.uqlab.com/) - The Framework for Uncertainty Quantification.
+* [Octave Forge](http://octave.sourceforge.net/) - Extra packages for GNU Octave.
 * [Matrix Computation Toolbox](http://www.maths.manchester.ac.uk/~higham/mctoolbox/) - for constructing test matrices, computing matrix factorizations, visualizing matrices, and carrying out direct search optimization.
 * [Uiextras GUI framework](https://github.com/precisesimulation/matlab-octave-gui-layout-toolbox) - GUI layout framework - cross compatible with both Octave and Matlab.
 
@@ -158,8 +157,8 @@ Where to discover new MATLAB resources.
 * [Cody](http://uk.mathworks.com/matlabcentral/cody/) - A website with programming challenges that consist of writing MATLAB® code. A fun way to improve your skills.
 * [ThingSpeak](https://thingspeak.com) - An internet of things (IoT) platform that allows to collect, analyze and act upon various data sources. You can enter your own MATLAB® code to process and plot your data.
 * [Octave-Online](http://octave-online.net/) - An online Octave interpreter.
-* [Matlab FAQ](http://matlab.wikia.com/wiki/FAQ)
-* [MATLAB category](https://www.dmoz.org/Science/Math/Software/MATLAB) - on DMOZ
+* [Matlab FAQ on Wikia](http://matlab.wikia.com/wiki/FAQ)
+* [MATLAB category on DMOZ](https://www.dmoz.org/Science/Math/Software/MATLAB)
 
 ## Blogs
 
@@ -186,7 +185,7 @@ Where to discover new MATLAB resources.
 ## Reference Cards
 
 * [MATLAB Quick Reference](http://www.robots.ox.ac.uk/~dwm/Courses/1P5_2011/MatlabQuickRef1v1.pdf) - by Eric Peasley, Department of Engineering Science, University of Oxford
-* [MATLAB Quick Reference App](https://play.google.com/store/apps/details?id=leo.anag.mathlab.help.DesktopToolsAndDevelopmentEnvironment)
+* [MATLAB Quick Reference App](https://play.google.com/store/apps/details?id=leo.anag.mathlab.help.DesktopToolsAndDevelopmentEnvironment) - for Android.
 
 ## Social Media
 
@@ -214,8 +213,8 @@ Where to discover new MATLAB resources.
 * [Matlab Tips and Tricks](http://www.ee.columbia.edu/~marios/matlab/matlab_tricks.html)
 * [MATLAB Style Guide 1](http://note.sonots.com/Matlab/MatlabCodingStyle.html)
 * [MATLAB Style Guide 2](http://4dpiecharts.com/matlab-code-style-guide/)
-* [Octave and MATLAB Snippets](https://git.io/mtips) - Collection of code snippets
-* [knkutils](https://github.com/kendrickkay/knkutils) - MATLAB utility functions written by Kendrick Kay
+* [Octave and MATLAB Snippets](https://git.io/mtips) - Collection of code snippets.
+* [knkutils](https://github.com/kendrickkay/knkutils) - MATLAB utility functions written by Kendrick Kay.
 * [Alex's MATLAB Library](https://github.com/alexschlegel/matlab_lib)
 * [Advanced Numerical Linear Algebra](http://www.caam.rice.edu/~caam551/MatlabCode/matlabcode.html) - MATLAB Code
 * [Lanczos Algorithm for SVD](http://bickson.blogspot.de/2011/10/lanczos-algorithm-for-svd-singule-value.html) - MATLAB Code
