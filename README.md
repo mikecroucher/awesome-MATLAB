@@ -60,6 +60,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [MATLAB Mobile](http://uk.mathworks.com/products/matlab-mobile/) - MATLAB on Android and iOS mobile phones and tablets.
 * [Octave](https://play.google.com/store/apps/details?id=com.octave) - Octave on Android.
 * [Raspberry Pi Support from MATLAB](http://uk.mathworks.com/hardware-support/raspberry-pi-matlab.html) - Acquire sensor and image data from your connected Raspberry Pi.
+* [Rasperry Pi IO Support for Octave](http://github.com/octave-de/octave-rpi-gpio) - Control Rasperry Pi GPIO Port from Octave.
 
 ## Image Processing and Computer Vision
 
