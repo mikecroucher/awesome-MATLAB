@@ -86,6 +86,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [RBmatlab](https://www.ians.uni-stuttgart.de:8443/agh/gitblit/summary/software%2Fmatlab%2Frbmatlabrelease.git) - is a MATLAB library for model order reduction with Reduced Basis Methods for various discretization types and application settings.
 * [MESS](http://svncsc.mpi-magdeburg.mpg.de/trac/messtrac) - The Matrix Equations Sparse Solvers library, is the successor to the Lyapack Toolbox.
 * [KerMor](http://www.ians.uni-stuttgart.de/MoRePaS/software/kermor/) - Model order reduction for nonlinear dynamical systems and nonlinear approximation.
+* [SUMO](http://sumo.intec.ugent.be/SUMO) - SUrrogate MOdelling lab.
 
 
 ## Interfacing with other languages
