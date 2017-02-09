@@ -148,6 +148,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [Octave Forge](http://octave.sourceforge.net/) - Extra packages for GNU Octave.
 * [Matrix Computation Toolbox](http://www.maths.manchester.ac.uk/~higham/mctoolbox/) - for constructing test matrices, computing matrix factorizations, visualizing matrices, and carrying out direct search optimization.
 * [Uiextras GUI framework](https://github.com/precisesimulation/matlab-octave-gui-layout-toolbox) - GUI layout framework - cross compatible with both Octave and Matlab.
+* [GRANSO](http://timmitchell.com/software/GRANSO/index.html) - GRadient-based Algorithm for Non-Smooth Optimization.
 
 # Resources
 
