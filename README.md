@@ -86,6 +86,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [RBmatlab](https://www.ians.uni-stuttgart.de:8443/agh/gitblit/summary/software%2Fmatlab%2Frbmatlabrelease.git) - is a MATLAB library for model order reduction with Reduced Basis Methods for various discretization types and application settings.
 * [MESS](http://svncsc.mpi-magdeburg.mpg.de/trac/messtrac) - The Matrix Equations Sparse Solvers library, is the successor to the Lyapack Toolbox.
 * [KerMor](http://www.ians.uni-stuttgart.de/MoRePaS/software/kermor/) - Model order reduction for nonlinear dynamical systems and nonlinear approximation.
+* [SUMO](http://sumo.intec.ugent.be/SUMO) - SUrrogate MOdelling lab.
 
 
 ## Interfacing with other languages
@@ -148,6 +149,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [Octave Forge](http://octave.sourceforge.net/) - Extra packages for GNU Octave.
 * [Matrix Computation Toolbox](http://www.maths.manchester.ac.uk/~higham/mctoolbox/) - for constructing test matrices, computing matrix factorizations, visualizing matrices, and carrying out direct search optimization.
 * [Uiextras GUI framework](https://github.com/precisesimulation/matlab-octave-gui-layout-toolbox) - GUI layout framework - cross compatible with both Octave and Matlab.
+* [GRANSO](http://timmitchell.com/software/GRANSO/index.html) - GRadient-based Algorithm for Non-Smooth Optimization.
 
 # Resources
 
@@ -215,6 +217,7 @@ Where to discover new MATLAB resources.
 * [Matlab Tips and Tricks](http://www.ee.columbia.edu/~marios/matlab/matlab_tricks.html)
 * [MATLAB Style Guide 1](http://note.sonots.com/Matlab/MatlabCodingStyle.html)
 * [MATLAB Style Guide 2](http://4dpiecharts.com/matlab-code-style-guide/)
+* [MATLAB Style Guide 3](http://sites.google.com/site/matlabstyleguidelines/)
 * [Octave and MATLAB Snippets](https://git.io/mtips) - Collection of code snippets.
 * [knkutils](https://github.com/kendrickkay/knkutils) - MATLAB utility functions written by Kendrick Kay.
 * [Alex's MATLAB Library](https://github.com/alexschlegel/matlab_lib)
