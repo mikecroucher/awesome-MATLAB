@@ -55,7 +55,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [2048](http://uk.mathworks.com/matlabcentral/fileexchange/46124-2048-matlab-edition) - 2048 is a game originally created by Gabriele Cirulli. This is a MATLAB implementation of the game.
 * [Flappy bird](http://uk.mathworks.com/matlabcentral/fileexchange/45795-flappy-bird-for-matlab) - As one of the most popular games on app stores before being taken down, Flappy Bird does not need any further introduction. Now, it has come back alive, on MATLAB.
 
-## Hardware
+## Hardware
 
 * [MATLAB Mobile](http://uk.mathworks.com/products/matlab-mobile/) - MATLAB on Android and iOS mobile phones and tablets.
 * [Octave](https://play.google.com/store/apps/details?id=com.octave) - Octave on Android.
