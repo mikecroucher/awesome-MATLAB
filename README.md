@@ -156,6 +156,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [Uiextras GUI framework](https://github.com/precisesimulation/matlab-octave-gui-layout-toolbox) - GUI layout framework - cross compatible with both Octave and Matlab.
 * [GRANSO](http://timmitchell.com/software/GRANSO/index.html) - GRadient-based Algorithm for Non-Smooth Optimization.
 * [CAAM 551](http://www.caam.rice.edu/~caam551/MatlabCode/matlabcode.html) - Advanced Numerical Linear Algebra.
+* [EliteQuant](https://github.com/EliteQuant/EliteQuant_Matlab) - Unified quantitative backtesting and live trading platform.
 
 # Resources
 
