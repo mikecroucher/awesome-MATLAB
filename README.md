@@ -87,8 +87,8 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [MESS](http://svncsc.mpi-magdeburg.mpg.de/trac/messtrac) - The Matrix Equations Sparse Solvers library, is the successor to the Lyapack Toolbox.
 * [KerMor](http://www.ians.uni-stuttgart.de/MoRePaS/software/kermor/) - Model order reduction for nonlinear dynamical systems and nonlinear approximation.
 * [SUMO](http://sumo.intec.ugent.be/SUMO) - SUrrogate MOdelling lab.
-* [SMORES](https://web-beta.archive.org/web/20131213123929/http://bnbond.com/software/smores/) - A Matlab tool for Simulation and Model Order Reduction of Electrical Systems.
-* [MRedTool](https://web-beta.archive.org/web/20080727002739/http://scowl.ge.uiuc.edu/~ssivakum/research.html) - a MATLAB toolbox for model reduction of multi-dimensional systems.
+* [SMORES](https://web.archive.org/web/20151115030532/http://bnbond.com/software/smores/) - A Matlab tool for Simulation and Model Order Reduction of Electrical Systems.
+* [MRedTool](https://web.archive.org/web/20080727002739/http://scowl.ge.uiuc.edu/~ssivakum/research.html) - a MATLAB toolbox for model reduction of multi-dimensional systems.
 * [Nonlinear Model Reduction Routines for MATLAB](http://homepages.rpi.edu/~hahnj/Model_Reduction) - Empirical balanced truncation toolbox.
 * [DMD Book](http://dmdbook.com/CODE.zip) - Dynamic Mode Decomposition Book Companion Code.
 
