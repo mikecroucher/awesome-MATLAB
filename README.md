@@ -132,7 +132,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [matplotlib colormaps](https://de.mathworks.com/matlabcentral/fileexchange/62729-matplotlib-2-0-colormaps--perceptually-uniform-and-beautiful) - Perceptually uniform colormaps.
 * [antijet](https://git.io/antijet) - An alternative to the problematic "jet"-colormap.
 * [xkcdify](https://www.mathworks.com/matlabcentral/fileexchange/38499-xkcdify) - xkcd-style plots.
-* [wgPlot](https://mathworks.com/matlabcentral/fileexchange/24035-wgplot-weighted-graph-plot--a-better-version-of-gplot] - a better version of gplot
+* [wgPlot](https://mathworks.com/matlabcentral/fileexchange/24035-wgplot-weighted-graph-plot--a-better-version-of-gplot) - a better version of gplot
 
 ## MATLAB-like environments
 
