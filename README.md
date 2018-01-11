@@ -215,6 +215,7 @@ Where to discover new MATLAB resources.
 
 ## Tips and Tricks
 
+* [Advanced Programming Techniques in MATLAB](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/campaigns/portals/files/intel/may-12-2015-advanced-matlab.pdf) - Slides by Loren Shure.
 * [Guidelines for writing clean and fast code in MATLAB](http://www.mathworks.com/matlabcentral/fileexchange/22943-guidelines-for-writing-clean-and-fast-code-in-matlab) - A guide with best practices in MATLAB® programming to which anybody can [contribute](https://github.com/nschloe/matlab-guidelines).
 * [Writing Fast MATLAB Code](http://www.csc.kth.se/utbildning/kth/kurser/DN2255/ndiff13/matopt.pdf)
 * [MATLAB Array Manipulation Tips and Tricks](http://cseweb.ucsd.edu/~datorres/docs/MatlabTip.pdf)
