@@ -61,7 +61,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [Octave](https://play.google.com/store/apps/details?id=com.octave) - Octave on Android.
 * [Raspberry Pi Support from MATLAB](http://uk.mathworks.com/hardware-support/raspberry-pi-matlab.html) - Acquire sensor and image data from your connected Raspberry Pi.
 * [Rasperry Pi IO Support for Octave](http://github.com/octave-de/octave-rpi-gpio) - Control Rasperry Pi GPIO Port from Octave.
-* [CPU Info](https://de.mathworks.com/matlabcentral/fileexchange/33155-cpu-info) -Read various bits of information about the CPU and operating system.
+* [CPU Info](https://de.mathworks.com/matlabcentral/fileexchange/33155-cpu-info) - Read various bits of information about the CPU and operating system.
 ## Image Processing and Computer Vision
 
 * [Computer Vision System Toolbox](http://uk.mathworks.com/products/computer-vision/) - The official computer vision toolbox from The MathWorks.
@@ -92,6 +92,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [MRedTool](https://web.archive.org/web/20080727002739/http://scowl.ge.uiuc.edu/~ssivakum/research.html) - a MATLAB toolbox for model reduction of multi-dimensional systems.
 * [Nonlinear Model Reduction Routines for MATLAB](http://homepages.rpi.edu/~hahnj/Model_Reduction) - Empirical balanced truncation toolbox.
 * [DMD Book](http://dmdbook.com/CODE.zip) - Dynamic Mode Decomposition Book Companion Code.
+* [hapod](http://git.io/hapod) - Hierarchical Approximate Proper Orthogonal Decomposition.
 
 
 ## Interfacing with other languages
