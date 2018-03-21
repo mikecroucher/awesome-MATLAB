@@ -61,7 +61,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [Octave](https://play.google.com/store/apps/details?id=com.octave) - Octave on Android.
 * [Raspberry Pi Support from MATLAB](http://uk.mathworks.com/hardware-support/raspberry-pi-matlab.html) - Acquire sensor and image data from your connected Raspberry Pi.
 * [Rasperry Pi IO Support for Octave](http://github.com/octave-de/octave-rpi-gpio) - Control Rasperry Pi GPIO Port from Octave.
-* [CPU Info](https://de.mathworks.com/matlabcentral/fileexchange/33155-cpu-info) -Read various bits of information about the CPU and operating system.
+* [CPU Info](https://de.mathworks.com/matlabcentral/fileexchange/33155-cpu-info) - Read various bits of information about the CPU and operating system.
 ## Image Processing and Computer Vision
 
 * [Computer Vision System Toolbox](http://uk.mathworks.com/products/computer-vision/) - The official computer vision toolbox from The MathWorks.
@@ -80,17 +80,19 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [drtoolbox](https://lvdmaaten.github.io/drtoolbox/) - Matlab Toolbox for Dimensionality Reduction.
 * [SiMpLIfy](http://simplifytoolbox.tumblr.com/) - Structured ModeL reductIon.
 * [MORLAB](http://www.mpi-magdeburg.mpg.de/1657682/morlab) - Model Order Reduction Laboratory.
-* [sssMOR](https://www.rt.mw.tum.de/en/research/model-order-reduction/software/sssmor/?sssMOR=) - Sparse State-Space and Model Order Reduction Toolbox.
+* [sssMOR](https://www.rt.mw.tum.de/forschung/morlab/software/sssmor/) - Sparse State-Space and Model Order Reduction Toolbox.
+* [psssMOR](https://www.rt.mw.tum.de/forschung/morlab/software/psssmor/) - Parametric Sparse State-Space and Model Order Reduction Toolbox.
 * [MORPACK](http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_maschinenwesen/ifkm/dmt/forschung/forschungsthemen/morpack) - Model Order Reduction PACKage.
 * [MatMOREMBS](http://www.itm.uni-stuttgart.de/research/model_reduction/MOREMBS_MatMorembs_en.php) - Matlab Model Order Reduction of Elastic Multibody Systems.
 * [RBmatlab](https://www.ians.uni-stuttgart.de:8443/agh/gitblit/summary/software%2Fmatlab%2Frbmatlabrelease.git) - is a MATLAB library for model order reduction with Reduced Basis Methods for various discretization types and application settings.
-* [MESS](http://svncsc.mpi-magdeburg.mpg.de/trac/messtrac) - The Matrix Equations Sparse Solvers library, is the successor to the Lyapack Toolbox.
+* [MESS](http://www.mpi-magdeburg.mpg.de/projects/mess) - The Matrix Equations Sparse Solvers library, is the successor to the Lyapack Toolbox.
 * [KerMor](http://www.ians.uni-stuttgart.de/MoRePaS/software/kermor/) - Model order reduction for nonlinear dynamical systems and nonlinear approximation.
 * [SUMO](http://sumo.intec.ugent.be/SUMO) - SUrrogate MOdelling lab.
-* [SMORES](https://web-beta.archive.org/web/20131213123929/http://bnbond.com/software/smores/) - A Matlab tool for Simulation and Model Order Reduction of Electrical Systems.
-* [MRedTool](https://web-beta.archive.org/web/20080727002739/http://scowl.ge.uiuc.edu/~ssivakum/research.html) - a MATLAB toolbox for model reduction of multi-dimensional systems.
+* [SMORES](https://web.archive.org/web/20151115030532/http://bnbond.com/software/smores/) - A Matlab tool for Simulation and Model Order Reduction of Electrical Systems.
+* [MRedTool](https://web.archive.org/web/20080727002739/http://scowl.ge.uiuc.edu/~ssivakum/research.html) - a MATLAB toolbox for model reduction of multi-dimensional systems.
 * [Nonlinear Model Reduction Routines for MATLAB](http://homepages.rpi.edu/~hahnj/Model_Reduction) - Empirical balanced truncation toolbox.
 * [DMD Book](http://dmdbook.com/CODE.zip) - Dynamic Mode Decomposition Book Companion Code.
+* [hapod](http://git.io/hapod) - Hierarchical Approximate Proper Orthogonal Decomposition.
 
 
 ## Interfacing with other languages
@@ -132,6 +134,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [matplotlib colormaps](https://de.mathworks.com/matlabcentral/fileexchange/62729-matplotlib-2-0-colormaps--perceptually-uniform-and-beautiful) - Perceptually uniform colormaps.
 * [antijet](https://git.io/antijet) - An alternative to the problematic "jet"-colormap.
 * [xkcdify](https://www.mathworks.com/matlabcentral/fileexchange/38499-xkcdify) - xkcd-style plots.
+* [wgPlot](https://mathworks.com/matlabcentral/fileexchange/24035-wgplot-weighted-graph-plot--a-better-version-of-gplot) - a better version of gplot
 
 ## MATLAB-like environments
 
@@ -215,6 +218,7 @@ Where to discover new MATLAB resources.
 
 ## Tips and Tricks
 
+* [Advanced Programming Techniques in MATLAB](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/campaigns/portals/files/intel/may-12-2015-advanced-matlab.pdf) - Slides by Loren Shure.
 * [Guidelines for writing clean and fast code in MATLAB](http://www.mathworks.com/matlabcentral/fileexchange/22943-guidelines-for-writing-clean-and-fast-code-in-matlab) - A guide with best practices in MATLAB® programming to which anybody can [contribute](https://github.com/nschloe/matlab-guidelines).
 * [Writing Fast MATLAB Code](http://www.csc.kth.se/utbildning/kth/kurser/DN2255/ndiff13/matopt.pdf)
 * [MATLAB Array Manipulation Tips and Tricks](http://cseweb.ucsd.edu/~datorres/docs/MatlabTip.pdf)
