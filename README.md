@@ -159,6 +159,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [GRANSO](http://timmitchell.com/software/GRANSO/index.html) - GRadient-based Algorithm for Non-Smooth Optimization.
 * [CAAM 551](http://www.caam.rice.edu/~caam551/MatlabCode/matlabcode.html) - Advanced Numerical Linear Algebra.
 * [EliteQuant](https://github.com/EliteQuant/EliteQuant_Matlab) - Unified quantitative backtesting and live trading platform.
+* [SMASH](https://github.com/SMASHtoolbox/release) - Sandia Matlab AnalysiS Hierarchy toolbox
 
 # Resources
 
