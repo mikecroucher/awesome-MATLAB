@@ -175,6 +175,7 @@ Where to discover new MATLAB resources.
 * [Octave-Online](http://octave-online.net/) - An online Octave interpreter.
 * [Matlab FAQ on Wikia](http://matlab.wikia.com/wiki/FAQ)
 * [MATLAB category on DMOZ](https://www.dmoz.org/Science/Math/Software/MATLAB)
+* [Programming Community Curated Resources For Learning Matlab](https://hackr.io/tutorials/learn-matlab)
 
 ## Blogs
 
