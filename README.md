@@ -11,6 +11,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
   - [Hardware](#hardware)
   - [Image Processing and Computer Vision](#image-processing-and-computer-vision)
   - [Model Reduction](#model-reduction)
+  - [Computational Mechanics](#computational-mechanics)
   - [Interfacing with other languages](#interfacing-with-other-languages)
   - [Interfacing with other programs](#interfacing-with-other-programs)
   - [Learning MATLAB](#learning-matlab)
@@ -94,6 +95,8 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [DMD Book](http://dmdbook.com/CODE.zip) - Dynamic Mode Decomposition Book Companion Code.
 * [hapod](http://git.io/hapod) - Hierarchical Approximate Proper Orthogonal Decomposition.
 
+## Computational Mechanics
+* [GIBBON](https://www.gibboncode.org/) - An open-source ([get the source here](https://github.com/gibbonCode/GIBBON)) MATLAB toolbox for computational (bio)mechanics, computational geometry, image segmentation, meshing, lattice structure creation, and finite element analysis (by linking with the open source package [FEBio](https://febio.org/) and the commercial package ABAQUS). 
 
 ## Interfacing with other languages
 
