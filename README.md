@@ -48,6 +48,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [Database toolbox](http://uk.mathworks.com/products/database/) - Official database toolbox from The MathWorks.
 * [go-redis](https://github.com/markuman/go-redis/) - Free Redis Mex client for MATLAB.
 * [mex-sqlite3](https://github.com/rmartinjak/mex-sqlite3) - Free Sqlite3 Mex client for MATLAB.
+* [dotenv for MATLAB](https://github.com/mathworks/dotenv-for-MATLAB) - Manage database configuration environment variables
 
 ## Games
 
