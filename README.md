@@ -82,8 +82,6 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [drtoolbox](https://lvdmaaten.github.io/drtoolbox/) - Matlab Toolbox for Dimensionality Reduction.
 * [SiMpLIfy](http://simplifytoolbox.tumblr.com/) - Structured ModeL reductIon.
 * [MORLAB](http://www.mpi-magdeburg.mpg.de/1657682/morlab) - Model Order Reduction Laboratory.
-* [sssMOR](https://www.rt.mw.tum.de/forschung/morlab/software/sssmor/) - Sparse State-Space and Model Order Reduction Toolbox.
-* [psssMOR](https://www.rt.mw.tum.de/forschung/morlab/software/psssmor/) - Parametric Sparse State-Space and Model Order Reduction Toolbox.
 * [MORPACK](http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_maschinenwesen/ifkm/dmt/forschung/forschungsthemen/morpack) - Model Order Reduction PACKage.
 * [MatMOREMBS](http://www.itm.uni-stuttgart.de/research/model_reduction/MOREMBS_MatMorembs_en.php) - Matlab Model Order Reduction of Elastic Multibody Systems.
 * [RBmatlab](https://www.ians.uni-stuttgart.de:8443/agh/gitblit/summary/software%2Fmatlab%2Frbmatlabrelease.git) - is a MATLAB library for model order reduction with Reduced Basis Methods for various discretization types and application settings.
