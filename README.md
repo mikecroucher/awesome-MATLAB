@@ -36,7 +36,6 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [MOSEK Optimization Tools](https://www.mosek.com) - The [MOSEK tools](https://mosek.com/resources/downloads) provide access to the powerful MOSEK optimization solvers from inside the MATLAB environment either by a classical [Toolobx](http://docs.mosek.com/7.1/tools/index.html) or by the modern object-oriented API [Fusion](http://docs.mosek.com/7.1/matlabfusion/index.html) .
 * [FEATool Multiphysics](http://www.precisesimulation.com) - Finite Element FEM Simulation toolbox for Matlab and Octave featuring an easy to use GUI, integrated CAD, geometry, grid generation, solvers, and postprocessing functionality.
 
-
 ## Cool
 *Fun projects that make you say 'Cool!'*
 
@@ -64,6 +63,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [Raspberry Pi Support from MATLAB](http://uk.mathworks.com/hardware-support/raspberry-pi-matlab.html) - Acquire sensor and image data from your connected Raspberry Pi.
 * [Rasperry Pi IO Support for Octave](http://github.com/octave-de/octave-rpi-gpio) - Control Rasperry Pi GPIO Port from Octave.
 * [CPU Info](https://de.mathworks.com/matlabcentral/fileexchange/33155-cpu-info) - Read various bits of information about the CPU and operating system.
+
 ## Image Processing and Computer Vision
 
 * [Computer Vision System Toolbox](http://uk.mathworks.com/products/computer-vision/) - The official computer vision toolbox from The MathWorks.
@@ -198,9 +198,11 @@ Where to discover new MATLAB resources.
 ## Books
 
 * [Accelerating MATLAB Performance: 1001 tips to speed up MATLAB programs](https://www.crcpress.com/Accelerating-MATLAB-Performance-1001-tips-to-speed-up-MATLAB-programs/Altman/9781482211290) - A superb guide to making MATLAB code faster.
-* [Undocumented Secrets of MATLAB-Java Programming](https://www.crcpress.com/Undocumented-Secrets-of-MATLAB-Java-Programming/Altman/9781439869031#isbn) - A great guide on MATLAB® and its Java interface (e.g. for GUIs or interaction with JVM software).
 * [The Elements of MATLAB Style](http://www.cambridge.org/us/academic/subjects/computer-science/scientific-computing-scientific-software/elements-matlab-style) - Coding guidelines for the MATLAB language.
-* [MATLAB for Dummies](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-111882010X.html) - A good beginners books.
+* [MATLAB for Dummies](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-111882010X.html) - A good beginners book.
+* [MATLAB Guide](http://www.ma.man.ac.uk/~higham/mg/) - by Desmond and Nicholas Higham. One of the best books for learning MATLAB
+* [Undocumented Secrets of MATLAB-Java Programming](https://www.crcpress.com/Undocumented-Secrets-of-MATLAB-Java-Programming/Altman/9781439869031#isbn) - A great guide on MATLAB® and its Java interface (e.g. for GUIs or interaction with JVM software).
+* [Data-Driven Science and Engineering: Machine Learning, Dynamical Systems and Control](http://www.databookuw.com/) - This textbook brings together machine learning, engineering mathematics, and mathematical physics to integrate modeling and control of dynamical systems with modern methods in data science
 
 ## Reference Cards
 
