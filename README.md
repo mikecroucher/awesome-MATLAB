@@ -83,6 +83,8 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [SiMpLIfy](http://simplifytoolbox.tumblr.com/) - Structured ModeL reductIon.
 * [MORLAB](http://www.mpi-magdeburg.mpg.de/1657682/morlab) - Model Order Reduction Laboratory.
 * [MORPACK](http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_maschinenwesen/ifkm/dmt/forschung/forschungsthemen/morpack) - Model Order Reduction PACKage.
+* [MatMOREMBS](http://www.itm.uni-stuttgart.de/research/model_reduction/MOREMBS_MatMorembs_en.php) - Matlab Model Order Reduction of Elastic Multibody Systems.
+* [RBmatlab](https://www.ians.uni-stuttgart.de:8443/agh/gitblit/summary/software%2Fmatlab%2Frbmatlabrelease.git) - is a MATLAB library for model order reduction with Reduced Basis Methods for various discretization types and application settings.
 * [MESS](http://www.mpi-magdeburg.mpg.de/projects/mess) - The Matrix Equations Sparse Solvers library, is the successor to the Lyapack Toolbox.
 * [KerMor](http://www.ians.uni-stuttgart.de/MoRePaS/software/kermor/) - Model order reduction for nonlinear dynamical systems and nonlinear approximation.
 * [SUMO](http://sumo.intec.ugent.be/SUMO) - SUrrogate MOdelling lab.
@@ -196,6 +198,7 @@ Where to discover new MATLAB resources.
 * [MATLAB Guide](http://www.ma.man.ac.uk/~higham/mg/) - by Desmond and Nicholas Higham. One of the best books for learning MATLAB
 * [Undocumented Secrets of MATLAB-Java Programming](https://www.crcpress.com/Undocumented-Secrets-of-MATLAB-Java-Programming/Altman/9781439869031#isbn) - A great guide on MATLAB® and its Java interface (e.g. for GUIs or interaction with JVM software).
 * [Data-Driven Science and Engineering: Machine Learning, Dynamical Systems and Control](http://www.databookuw.com/) - This textbook brings together machine learning, engineering mathematics, and mathematical physics to integrate modeling and control of dynamical systems with modern methods in data science
+* [An Introduction to MATLAB for Behavioral Researchers](http://www.sagepub.com/books/Book239284) - Beginner book for those with no programming experience. Targeted to those in psychology/behavioural sciences and uses real experimental data in examples.
 
 ## Reference Cards
 
