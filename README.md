@@ -192,6 +192,7 @@ Where to discover new MATLAB resources.
 * [MATLAB Guide](http://www.ma.man.ac.uk/~higham/mg/) - by Desmond and Nicholas Higham. One of the best books for learning MATLAB
 * [Undocumented Secrets of MATLAB-Java Programming](https://www.crcpress.com/Undocumented-Secrets-of-MATLAB-Java-Programming/Altman/9781439869031#isbn) - A great guide on MATLAB® and its Java interface (e.g. for GUIs or interaction with JVM software).
 * [Data-Driven Science and Engineering: Machine Learning, Dynamical Systems and Control](http://www.databookuw.com/) - This textbook brings together machine learning, engineering mathematics, and mathematical physics to integrate modeling and control of dynamical systems with modern methods in data science
+* [An Introduction to MATLAB for Behavioral Researchers](http://www.sagepub.com/books/Book239284) - Beginner book for those with no programming experience. Targeted to those in psychology/behavioural sciences and uses real experimental data in examples.
 
 ## Reference Cards
 
