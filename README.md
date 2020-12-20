@@ -234,8 +234,7 @@ Where to discover new MATLAB resources.
 * [Matlab / Octave Efficiency Notes](http://homepages.inf.ed.ac.uk/imurray2/compnotes/matlab_octave_efficiency.html)
 * [Matlab Tips and Tricks](http://www.ee.columbia.edu/~marios/matlab/matlab_tricks.html)
 * [MATLAB Style Guide 1](http://note.sonots.com/Matlab/MatlabCodingStyle.html)
-* [MATLAB Style Guide 2](http://4dpiecharts.com/matlab-code-style-guide/)
-* [MATLAB Style Guide 3](http://sites.google.com/site/matlabstyleguidelines/)
+* [MATLAB Style Guide 2](http://sites.google.com/site/matlabstyleguidelines/)
 * [Octave and MATLAB Snippets](https://git.io/mtips) - Collection of code snippets.
 * [knkutils](https://github.com/kendrickkay/knkutils) - MATLAB utility functions written by Kendrick Kay.
 * [Alex's MATLAB Library](https://github.com/alexschlegel/matlab_lib)
