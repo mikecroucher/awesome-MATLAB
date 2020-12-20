@@ -157,10 +157,6 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [Matrix Computation Toolbox](http://www.maths.manchester.ac.uk/~higham/mctoolbox/) - for constructing test matrices, computing matrix factorizations, visualizing matrices, and carrying out direct search optimization.
 * [GRANSO](http://timmitchell.com/software/GRANSO/index.html) - GRadient-based Algorithm for Non-Smooth Optimization.
 * [ROSTAPACK](http://www.timmitchell.com/software/ROSTAPACK/index.html) - RObust STAbility PACKage.
-* [CAAM 551](http://www.caam.rice.edu/~caam551/MatlabCode/matlabcode.html) - Advanced Numerical Linear Algebra.
-* [EliteQuant](https://github.com/EliteQuant/EliteQuant_Matlab) - Unified quantitative backtesting and live trading platform.
-* [SMASH](https://github.com/SMASHtoolbox/release) - Sandia Matlab AnalysiS Hierarchy toolbox.
-* [munum](https://bitbucket.org/kvasnica/munum) - MATLAB Library for universal numbers.
 
 # Resources
 
