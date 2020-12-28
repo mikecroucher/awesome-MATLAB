@@ -32,6 +32,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 ## High Performance Computing in MATLAB
 
 * [Parallel Computing Toolbox](https://uk.mathworks.com/products/parallel-computing.html) - Mathworks Toolbox. Provides support for various parallel programming paradigms to scale MATLAB to 1000s of CPU cores and GPUs. Also helps make maximum use of your laptop if that's the only hardware you have.
+* [MATLAB on the NVIDIA GPU Cloud](https://ngc.nvidia.com/catalog/containers/partners:matlab)
 
 ## 3rd Party Commercial Toolboxes
 *High quality commercial toolboxes from organisations other than The MathWorks*
