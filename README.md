@@ -4,6 +4,7 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 
 - [Awesome MATLAB](#awesome-)
+  - [High Performance Computing in MATLAB](#High-Performance-Computing-in-MATLAB)
   - [3rd Party Commercial Toolboxes](#3rd-party-commercial-toolboxes)
   - [Cool](#cool)
   - [Database Management](#database-management)
