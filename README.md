@@ -248,6 +248,7 @@ Where to discover new MATLAB resources.
 * [BV78](http://faculty.smu.edu/shampine/current.html) - Shampine's Adaptive Block Vectorized Runge-Kutta 7-8.
 * [MATLAB Style Guidelines 2.0](http://www.datatool.com/downloads/MatlabStyle2%20book.pdf) - by R. Johnson.
 * [parrun.sh](https://gist.github.com/precisesimulation/94395a41e53abf01da4d073b3b746493) - MATLAB and OCTAVE Parallel Job Script.
+* [Closures in MATLAB](https://research.wmz.ninja/articles/2017/05/closures-in-matlab.html)
 
 
 # Contributing
