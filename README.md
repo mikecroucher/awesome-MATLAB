@@ -100,6 +100,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [SiMpLIfy](http://simplifytoolbox.tumblr.com/) - Structured ModeL reductIon.
 * [SLICOT](http://slicot.org/matlab-toolboxes/model-reduction) - SLICOT Model and Controller Reduction Toolbox.
 * [SMORES](https://web.archive.org/web/20151115030532/http://bnbond.com/software/smores/) - A Matlab tool for Simulation and Model Order Reduction of Electrical Systems.
+* [SOMDDPA](http://doi.org/10.5281/zenodo.3332706) - Second-Order Modally-Damped Dominant Pole Algorithm.
 * [sssMOR](https://github.com/MORLab/sssMOR) - sparse state space and Model Order Reduction toolbox.
 * [SUMO](http://sumo.intec.ugent.be/SUMO) - SUrrogate MOdelling lab.
 
