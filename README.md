@@ -82,21 +82,27 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 
 ## Model Reduction
 
-* [SLICOT](http://slicot.org/matlab-toolboxes/model-reduction) - SLICOT Model and Controller Reduction Toolbox.
-* [emgr](http://gramian.de) - EMpirical GRamian framework for model reduction of input-output systems.
-* [MORE](http://w3.onera.fr/more/) - a MOdel REduction Toolbox.
 * [drtoolbox](https://lvdmaaten.github.io/drtoolbox/) - Matlab Toolbox for Dimensionality Reduction.
-* [SiMpLIfy](http://simplifytoolbox.tumblr.com/) - Structured ModeL reductIon.
+* [DMD Book](http://dmdbook.com/CODE.zip) - Dynamic Mode Decomposition Book Companion Code.
+* [emgr](http://gramian.de) - EMpirical GRamian framework for model reduction of input-output systems.
+* [hapod](http://git.io/hapod) - Hierarchical Approximate Proper Orthogonal Decomposition.
+* [MOR Toolbox](https://mordigitalsystems.fr/en/) - Model Reduction Toolbox for MATLAB (formerly: [MORE](http://w3.onera.fr/more/) - a MOdel REduction Toolbox).
+* [KerMor](http://www.ians.uni-stuttgart.de/MoRePaS/software/kermor/) - Model order reduction for nonlinear dynamical systems and nonlinear approximation.
+* [morgen](https://git.io/morgen) - Model Order Reduction for Gas and Energy Networks.
 * [MORLAB](http://www.mpi-magdeburg.mpg.de/1657682/morlab) - Model Order Reduction Laboratory.
 * [MORPACK](http://tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_maschinenwesen/ifkm/dmt/forschung/forschungsthemen/morpack) - Model Order Reduction PACKage.
 * [MESS](http://www.mpi-magdeburg.mpg.de/projects/mess) - The Matrix Equations Sparse Solvers library, is the successor to the Lyapack Toolbox.
-* [KerMor](http://www.ians.uni-stuttgart.de/MoRePaS/software/kermor/) - Model order reduction for nonlinear dynamical systems and nonlinear approximation.
-* [SUMO](http://sumo.intec.ugent.be/SUMO) - SUrrogate MOdelling lab.
-* [SMORES](https://web.archive.org/web/20151115030532/http://bnbond.com/software/smores/) - A Matlab tool for Simulation and Model Order Reduction of Electrical Systems.
-* [MRedTool](https://web.archive.org/web/20080727002739/http://scowl.ge.uiuc.edu/~ssivakum/research.html) - a MATLAB toolbox for model reduction of multi-dimensional systems.
+* [MRedTool](https://web.archive.org/web/20080727002739/http://scowl.ge.uiuc.edu/~ssivakum/research.html) - A MATLAB toolbox for model reduction of multi-dimensional systems.
 * [Nonlinear Model Reduction Routines for MATLAB](http://homepages.rpi.edu/~hahnj/Model_Reduction) - Empirical balanced truncation toolbox.
-* [DMD Book](http://dmdbook.com/CODE.zip) - Dynamic Mode Decomposition Book Companion Code.
-* [hapod](http://git.io/hapod) - Hierarchical Approximate Proper Orthogonal Decomposition.
+* [psssMOR](https://www.mathworks.com/matlabcentral/fileexchange/64392-psssmor-toolbox) - A parametric sparse state-space and Model Order Reduction toolbox.
+* [RBmatlab](https://www.morepas.org/software/rbmatlab/) - A MATLAB library for model order reduction with Reduced Basis Methods.
+* [redBKIT](https://github.com/redbKIT/redbKIT) - A MATLAB library for reduced-order modeling of parametrized PDEs.
+* [SiMpLIfy](http://simplifytoolbox.tumblr.com/) - Structured ModeL reductIon.
+* [SLICOT](http://slicot.org/matlab-toolboxes/model-reduction) - SLICOT Model and Controller Reduction Toolbox.
+* [SMORES](https://web.archive.org/web/20151115030532/http://bnbond.com/software/smores/) - A Matlab tool for Simulation and Model Order Reduction of Electrical Systems.
+* [sssMOR](https://github.com/MORLab/sssMOR) - sparse state space and Model Order Reduction toolbox.
+* [SUMO](http://sumo.intec.ugent.be/SUMO) - SUrrogate MOdelling lab.
+
 
 ## Computational Mechanics
 * [GIBBON](https://www.gibboncode.org/) - An open-source ([get the source here](https://github.com/gibbonCode/GIBBON)) MATLAB toolbox for computational (bio)mechanics, computational geometry, image segmentation, meshing, lattice structure creation, and finite element analysis (by linking with the open source package [FEBio](https://febio.org/) and the commercial package ABAQUS). 
