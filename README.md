@@ -117,6 +117,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [matlab kernel](https://github.com/calysto/matlab_kernel) - To run MATLAB code inside IPython / Jupyter notebooks.
 * [octave kernel](https://github.com/calysto/octave_kernel) - To run Octave code inside IPython / Jupyter notebooks.
 * [MATLink](http://matlink.org/) - To run MATLAB code inside Mathematica / Wolfram Language notebooks.
+* [node-matlab](https://github.com/zeybek/node-matlab) - To run MATLAB code inside NodeJS.
 
 
 ## Interfacing with other programs
