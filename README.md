@@ -251,6 +251,7 @@ Where to discover new MATLAB resources.
 * [parrun.sh](https://gist.github.com/precisesimulation/94395a41e53abf01da4d073b3b746493) - MATLAB and OCTAVE Parallel Job Script.
 * [Closures in MATLAB](https://research.wmz.ninja/articles/2017/05/closures-in-matlab.html)
 * [flamegraph](https://git.io/flamegraph) - Flame graph visualization for Octave's profiler output.
+* [mlintall](https://www.mathworks.com/matlabcentral/fileexchange/23786-recursive-mlint) - Recursive `mlint`
 
 
 # Contributing
