@@ -23,7 +23,7 @@ Just use GitHub reactions and comments to express your feelings/experience about
 ## Contribution Guidelines
 
 * Please search previous suggestions before making a new one, as yours may be a duplicate.
-* Use the following format: `[Project Name](http://example.com/) - A short description.`
+* Use the following format: `[Resource name](http://example.com/) - A short description.`
 * The link should be the name of the package or project.
 * Links and categories should be sorted alphabetically.
 * Add one link per pull-request.
