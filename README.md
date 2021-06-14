@@ -248,13 +248,6 @@ Where to discover new MATLAB resources.
 
 * [Advanced Programming Techniques in MATLAB](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/campaigns/portals/files/intel/may-12-2015-advanced-matlab.pdf) - Slides by Loren Shure.
 * [Guidelines for writing clean and fast code in MATLAB](http://www.mathworks.com/matlabcentral/fileexchange/22943-guidelines-for-writing-clean-and-fast-code-in-matlab) - A guide with best practices in MATLAB® programming to which anybody can [contribute](https://github.com/nschloe/matlab-guidelines).
-* [Writing Fast MATLAB Code](http://www.csc.kth.se/utbildning/kth/kurser/DN2255/ndiff13/matopt.pdf)
-* [MATLAB Array Manipulation Tips and Tricks](http://cseweb.ucsd.edu/~datorres/docs/MatlabTip.pdf)
-* [MATLAB Vectorization Tricks](http://www-h.eng.cam.ac.uk/help/tpl/programs/Matlab/tricks.html)
-* [Matlab / Octave Efficiency Notes](http://homepages.inf.ed.ac.uk/imurray2/compnotes/matlab_octave_efficiency.html)
-* [Matlab Tips and Tricks](http://www.ee.columbia.edu/~marios/matlab/matlab_tricks.html)
-* [MATLAB Style Guide 1](http://note.sonots.com/Matlab/MatlabCodingStyle.html)
-* [MATLAB Style Guide 2](http://sites.google.com/site/matlabstyleguidelines/)
 * [Octave and MATLAB Snippets](https://git.io/mtips) - Collection of code snippets.
 * [knkutils](https://github.com/kendrickkay/knkutils) - MATLAB utility functions written by Kendrick Kay.
 * [Advanced Numerical Linear Algebra](http://www.caam.rice.edu/~caam551/MatlabCode/matlabcode.html) - MATLAB Code
@@ -264,7 +257,6 @@ Where to discover new MATLAB resources.
 * [BV78](http://faculty.smu.edu/shampine/current.html) - Shampine's Adaptive Block Vectorized Runge-Kutta 7-8.
 * [MATLAB Style Guidelines 2.0](http://www.datatool.com/downloads/MatlabStyle2%20book.pdf) - by R. Johnson.
 * [parrun.sh](https://gist.github.com/precisesimulation/94395a41e53abf01da4d073b3b746493) - MATLAB and OCTAVE Parallel Job Script.
-* [Closures in MATLAB](https://research.wmz.ninja/articles/2017/05/closures-in-matlab.html)
 * [flamegraph](https://git.io/flamegraph) - Flame graph visualization for Octave's profiler output.
 * [mlintall](https://www.mathworks.com/matlabcentral/fileexchange/23786-recursive-mlint) - Recursive `mlint`
 
