@@ -236,7 +236,6 @@ Where to discover new MATLAB resources.
 * [MATLAB on Stack Overflow](http://stackoverflow.com/questions/tagged/matlab) - Stack Overflow is a community of 4.7 million programmers, just like you, helping each other.
 * [Octave on Stack Overflow](http://stackoverflow.com/questions/tagged/octave) - and Stack Overflow has an extensive back catalogue of many answered questions.
 * [MATLAB on Twitter](https://twitter.com/MATLAB) - Official MATLAB twitter account.
-* [Matlab Tricks Club](https://www.facebook.com/MatlabTricksClub/) - A Community Page about MATLAB.
 
 ## MOOCs
 *Massive open online courses.*
