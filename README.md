@@ -20,6 +20,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
   - [Making Figures](#making-figures)
   - [MATLAB-like environments](#matlab-like-environments)
   - [Miscellaneous Free Toolboxes](#miscellaneous-free-toolboxes)
+  - [Optimization](#optimization)
   - [Statistics](#statistics)
 - [Resources](#resources)
     - [Websites](#websites)
@@ -177,6 +178,10 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [Matrix Computation Toolbox](http://www.maths.manchester.ac.uk/~higham/mctoolbox/) - for constructing test matrices, computing matrix factorizations, visualizing matrices, and carrying out direct search optimization.
 * [GRANSO](http://timmitchell.com/software/GRANSO/index.html) - GRadient-based Algorithm for Non-Smooth Optimization.
 * [ROSTAPACK](http://www.timmitchell.com/software/ROSTAPACK/index.html) - RObust STAbility PACKage.
+
+## Optimization 
+
+* [Manopt](https://www.manopt.org/) Toolboxes for optimization on manifolds and matrices
 
 ## Statistics
 
