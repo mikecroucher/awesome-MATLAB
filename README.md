@@ -41,6 +41,9 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [MOSEK Optimization Tools](https://www.mosek.com) - The [MOSEK tools](https://mosek.com/resources/downloads) provide access to the powerful MOSEK optimization solvers from inside the MATLAB environment either by a classical [Toolobx](http://docs.mosek.com/7.1/tools/index.html) or by the modern object-oriented API [Fusion](http://docs.mosek.com/7.1/matlabfusion/index.html).
 * [FEATool Multiphysics](http://www.precisesimulation.com) - Finite Element FEM Simulation toolbox for Matlab and Octave featuring an easy to use GUI, integrated CAD, geometry, grid generation, solvers, and postprocessing functionality.
 
+## Computational Mechanics
+* [GIBBON](https://www.gibboncode.org/) - An open-source ([get the source here](https://github.com/gibbonCode/GIBBON)) MATLAB toolbox for computational (bio)mechanics, computational geometry, image segmentation, meshing, lattice structure creation, and finite element analysis (by linking with the open source package [FEBio](https://febio.org/) and the commercial package ABAQUS). 
+
 ## Cool
 *Fun projects that make you say 'Cool!'*
 
@@ -72,17 +75,15 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [Raspberry Pi Support from MATLAB](http://uk.mathworks.com/hardware-support/raspberry-pi-matlab.html) - Acquire sensor and image data from your connected Raspberry Pi.
 * [Rasperry Pi IO Support for Octave](http://github.com/octave-de/octave-rpi-gpio) - Control Rasperry Pi GPIO Port from Octave.
 
-
 ## High Performance Computing in MATLAB
 
 * [MATLAB on the NVIDIA GPU Cloud](https://ngc.nvidia.com/catalog/containers/partners:matlab) - Running MATLAB on the NVIDIA GPU Cloud.
 * [Parallel Computing Toolbox](https://uk.mathworks.com/products/parallel-computing.html) - Mathworks Toolbox. Provides support for various parallel programming paradigms to scale MATLAB to 1000s of CPU cores and GPUs. Also helps make maximum use of your laptop if that's the only hardware you have.
 
-
 ## Image Processing and Computer Vision
 
-* [Computer Vision System Toolbox](http://uk.mathworks.com/products/computer-vision/) - The official computer vision toolbox from The MathWorks.
-* [Image Processing Toolbox](http://uk.mathworks.com/products/image/) - The official Image Processing Toolbox from The MathWorks.
+* [Computer Vision System Toolbox](http://uk.mathworks.com/products/computer-vision/) - The official computer vision toolbox from MathWorks.
+* [Image Processing Toolbox](http://uk.mathworks.com/products/image/) - The official Image Processing Toolbox from MathWorks.
 * [MatConvNet](http://www.vlfeat.org/matconvnet/) - MatConvNet is a free MATLAB toolbox implementing Convolutional Neural Networks (CNNs) for computer vision applications. It is simple, efficient, and can run and learn state-of-the-art CNNs. It provides pre-trained CNNs for image classification, segmentation, face recognition, and text detection.
 * [Piotr's Image and Video Toolbox](https://github.com/pdollar/toolbox) - This free toolbox facilitates the manipulation of images and video in MATLAB. Its purpose is to complement, not replace, MATLAB's Image Processing Toolbox.
 * [VLFeat](http://www.vlfeat.org/) - The VLFeat free and open source library implements popular computer vision algorithms specializing in image understanding and local features extraction and matching. It is written in C for efficiency and compatibility, with interfaces in MATLAB for ease of use, and detailed documentation throughout.
@@ -113,9 +114,6 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [sssMOR](https://github.com/MORLab/sssMOR) - sparse state space and Model Order Reduction toolbox.
 * [SUMO](http://sumo.intec.ugent.be/SUMO) - SUrrogate MOdelling lab.
 
-
-## Computational Mechanics
-* [GIBBON](https://www.gibboncode.org/) - An open-source ([get the source here](https://github.com/gibbonCode/GIBBON)) MATLAB toolbox for computational (bio)mechanics, computational geometry, image segmentation, meshing, lattice structure creation, and finite element analysis (by linking with the open source package [FEBio](https://febio.org/) and the commercial package ABAQUS). 
 
 ## Interfacing with other languages
 
@@ -148,16 +146,18 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 
 *Third-party tools to produce publication quality figures.*
 
+* [antijet](https://git.io/antijet) - An alternative to the problematic "jet"-colormap.
 * [export_fig](https://github.com/altmany/export_fig) - produces better vector/bitmap graphics than standalone MATLAB®.
+* [gramm](https://uk.mathworks.com/matlabcentral/fileexchange/54465-gramm-complete-data-visualization-toolbox-ggplot2-r-like) - GRAMmar of graphics for Matlab.
+* [hq-matlab-figs](http://dgleich.github.io/hq-matlab-figs/) - Creating high-quality graphics in MATLAB for papers and presentations.
 * [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) - exports MATLAB® figures to TikZ code for seamless inclusion in LaTeX documents.
+* [matplotlib colormaps](https://de.mathworks.com/matlabcentral/fileexchange/62729-matplotlib-2-0-colormaps--perceptually-uniform-and-beautiful) - Perceptually uniform colormaps.
 * [plot2svg](http://www.mathworks.com/matlabcentral/fileexchange/7401-scalable-vector-graphics--svg--export-of-figures) - exports MATLAB® figures to Scalable Vector Graphics format. This is particularly useful in older MATLAB® versions that don't support `print -dsvg`.
 * [Plotly MATLAB Library](https://plot.ly/matlab/) - exports MATLAB® figures to the online plotting service [plot.ly](https://plot.ly).
 * [saveFigure](https://github.com/djoshea/matlab-save-figure) - exports MATLAB® figures to PDF, SVG, EPS and PNG with improved support for transparancy.
-* [hq-matlab-figs](http://dgleich.github.io/hq-matlab-figs/) - Creating high-quality graphics in MATLAB for papers and presentations.
-* [matplotlib colormaps](https://de.mathworks.com/matlabcentral/fileexchange/62729-matplotlib-2-0-colormaps--perceptually-uniform-and-beautiful) - Perceptually uniform colormaps.
-* [antijet](https://git.io/antijet) - An alternative to the problematic "jet"-colormap.
-* [xkcdify](https://www.mathworks.com/matlabcentral/fileexchange/38499-xkcdify) - xkcd-style plots.
 * [wgPlot](https://mathworks.com/matlabcentral/fileexchange/24035-wgplot-weighted-graph-plot--a-better-version-of-gplot) - A better version of gplot.
+* [xkcdify](https://www.mathworks.com/matlabcentral/fileexchange/38499-xkcdify) - xkcd-style plots.
+
 
 ## MATLAB-like environments
 
