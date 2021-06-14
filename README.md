@@ -35,20 +35,20 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 ## High Performance Computing in MATLAB
 
 * [Parallel Computing Toolbox](https://uk.mathworks.com/products/parallel-computing.html) - Mathworks Toolbox. Provides support for various parallel programming paradigms to scale MATLAB to 1000s of CPU cores and GPUs. Also helps make maximum use of your laptop if that's the only hardware you have.
-* [MATLAB on the NVIDIA GPU Cloud](https://ngc.nvidia.com/catalog/containers/partners:matlab)
+* [MATLAB on the NVIDIA GPU Cloud](https://ngc.nvidia.com/catalog/containers/partners:matlab) - Running MATLAB on the NVIDIA GPU Cloud.
 
 ## 3rd Party Commercial Toolboxes
 *High quality commercial toolboxes from organisations other than MathWorks*
 
 * [Multiprecision Toolbox for MATLAB](http://www.advanpix.com/) - This toolbox equips MATLAB with a new multiple precision floating-point numeric type and an extensive set of mathematical functions that are capable of computations with arbitrary precision.
 * [NAG Toolbox for MATLAB](http://www.nag.co.uk/numeric/MB/start.asp) - Over 1700 functions across numerous areas of numerical mathematics. Developed by The Numerical Algorithms Group (NAG).
-* [MOSEK Optimization Tools](https://www.mosek.com) - The [MOSEK tools](https://mosek.com/resources/downloads) provide access to the powerful MOSEK optimization solvers from inside the MATLAB environment either by a classical [Toolobx](http://docs.mosek.com/7.1/tools/index.html) or by the modern object-oriented API [Fusion](http://docs.mosek.com/7.1/matlabfusion/index.html) .
+* [MOSEK Optimization Tools](https://www.mosek.com) - The [MOSEK tools](https://mosek.com/resources/downloads) provide access to the powerful MOSEK optimization solvers from inside the MATLAB environment either by a classical [Toolobx](http://docs.mosek.com/7.1/tools/index.html) or by the modern object-oriented API [Fusion](http://docs.mosek.com/7.1/matlabfusion/index.html).
 * [FEATool Multiphysics](http://www.precisesimulation.com) - Finite Element FEM Simulation toolbox for Matlab and Octave featuring an easy to use GUI, integrated CAD, geometry, grid generation, solvers, and postprocessing functionality.
 
 ## Cool
 *Fun projects that make you say 'Cool!'*
 
- - [Engima](http://blogs.mathworks.com/pick/2015/10/30/enigma/) - MATLAB version of the Enigma machine
+ - [Engima](http://blogs.mathworks.com/pick/2015/10/30/enigma/) - MATLAB version of the Enigma machine.
 
 ## Database Management
 *Toolboxes for managing data*
@@ -56,7 +56,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [Database toolbox](http://uk.mathworks.com/products/database/) - Official database toolbox from The MathWorks.
 * [go-redis](https://github.com/markuman/go-redis/) - Free Redis Mex client for MATLAB.
 * [mex-sqlite3](https://github.com/rmartinjak/mex-sqlite3) - Free Sqlite3 Mex client for MATLAB.
-* [dotenv for MATLAB](https://github.com/mathworks/dotenv-for-MATLAB) - Manage database configuration environment variables
+* [dotenv for MATLAB](https://github.com/mathworks/dotenv-for-MATLAB) - Manage database configuration environment variables.
 
 ## Games
 
@@ -67,7 +67,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 
 ## Geospatial
 
-* [TopoToolbox](https://topotoolbox.wordpress.com/) - TopoToolbox is a MATLAB program for the analysis of digital elevation models (DEMs). It's free and open source
+* [TopoToolbox](https://topotoolbox.wordpress.com/) - TopoToolbox is a MATLAB program for the analysis of digital elevation models (DEMs). It's free and open source.
 
 ## Hardware
 
@@ -104,7 +104,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [psssMOR](https://www.mathworks.com/matlabcentral/fileexchange/64392-psssmor-toolbox) - A parametric sparse state-space and Model Order Reduction toolbox.
 * [RBmatlab](https://www.morepas.org/software/rbmatlab/) - A MATLAB library for model order reduction with Reduced Basis Methods.
 * [redBKIT](https://github.com/redbKIT/redbKIT) - A MATLAB library for reduced-order modeling of parametrized PDEs.
-* [SiMpLIfy](http://simplifytoolbox.tumblr.com/) - Structured ModeL reductIon.
+* [SiMpLIfy](http://simplifytoolbox.tumblr.com/) - Structured ModeL reduction.
 * [SLICOT](http://slicot.org/matlab-toolboxes/model-reduction) - SLICOT Model and Controller Reduction Toolbox.
 * [SMORES](https://web.archive.org/web/20151115030532/http://bnbond.com/software/smores/) - A Matlab tool for Simulation and Model Order Reduction of Electrical Systems.
 * [SOMDDPA](http://doi.org/10.5281/zenodo.3332706) - Second-Order Modally-Damped Dominant Pole Algorithm.
@@ -155,7 +155,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [matplotlib colormaps](https://de.mathworks.com/matlabcentral/fileexchange/62729-matplotlib-2-0-colormaps--perceptually-uniform-and-beautiful) - Perceptually uniform colormaps.
 * [antijet](https://git.io/antijet) - An alternative to the problematic "jet"-colormap.
 * [xkcdify](https://www.mathworks.com/matlabcentral/fileexchange/38499-xkcdify) - xkcd-style plots.
-* [wgPlot](https://mathworks.com/matlabcentral/fileexchange/24035-wgplot-weighted-graph-plot--a-better-version-of-gplot) - a better version of gplot
+* [wgPlot](https://mathworks.com/matlabcentral/fileexchange/24035-wgplot-weighted-graph-plot--a-better-version-of-gplot) - A better version of gplot.
 
 ## MATLAB-like environments
 
@@ -175,13 +175,13 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [OpenCL Toolbox](https://github.com/imaginairy-user/opencl-toolbox/) - OpenCL support for MATLAB.
 * [UQLab](http://www.uqlab.com/) - The Framework for Uncertainty Quantification.
 * [Octave Forge](http://octave.sourceforge.net/) - Extra packages for GNU Octave.
-* [Matrix Computation Toolbox](http://www.maths.manchester.ac.uk/~higham/mctoolbox/) - for constructing test matrices, computing matrix factorizations, visualizing matrices, and carrying out direct search optimization.
+* [Matrix Computation Toolbox](http://www.maths.manchester.ac.uk/~higham/mctoolbox/) - For constructing test matrices, computing matrix factorizations, visualizing matrices, and carrying out direct search optimization.
 * [GRANSO](http://timmitchell.com/software/GRANSO/index.html) - GRadient-based Algorithm for Non-Smooth Optimization.
 * [ROSTAPACK](http://www.timmitchell.com/software/ROSTAPACK/index.html) - RObust STAbility PACKage.
 
 ## Optimization 
 
-* [Manopt](https://www.manopt.org/) Toolboxes for optimization on manifolds and matrices
+* [Manopt](https://www.manopt.org/) Toolboxes for optimization on manifolds and matrices.
 
 ## Statistics
 
@@ -204,11 +204,11 @@ Where to discover new MATLAB resources.
 
 ## Blogs
 
-* [Cleve's Corner: Cleve Moler on Mathematics and Computing](http://blogs.mathworks.com/cleve/) - Cleve Moler is the author of the first MATLAB, one of the founders of The MathWorks, and is currently Chief Mathematician at the company.
+* [Cleve's Corner: Cleve Moler on Mathematics and Computing](http://blogs.mathworks.com/cleve/) - Cleve Moler is the author of the first MATLAB, one of the founders of MathWorks, and is currently Chief Mathematician at the company.
 * [Developer Zone](http://blogs.mathworks.com/developer/) - Developing, testing, and integrating production grade software using MATLAB.
-* [Guy and Seth on Simulink](http://blogs.mathworks.com/seth/) - Guy Rouleau and Seth Popinchalk are Application Engineers for The MathWorks.
-* [Loren on the art of MATLAB](http://blogs.mathworks.com/loren/) - Loren Shure works on design of the MATLAB language at The MathWorks.
-* [Steve on Image Processing](http://blogs.mathworks.com/steve/) - Steve Eddins has developed MATLAB and image processing capabilities for The MathWorks since 1993.
+* [Guy and Seth on Simulink](http://blogs.mathworks.com/seth/) - Guy Rouleau and Seth Popinchalk are Application Engineers for MathWorks.
+* [Loren on the art of MATLAB](http://blogs.mathworks.com/loren/) - Loren Shure works on design of the MATLAB language at MathWorks.
+* [Steve on Image Processing](http://blogs.mathworks.com/steve/) - Steve Eddins has developed MATLAB and image processing capabilities for MathWorks since 1993.
 * [Undocumented MATLAB](http://undocumentedmatlab.com) - Yair Altman blogs about the hidden underbelly of MATLAB®. This is the place to be for discovering new and awesome features.
 * [WalkingRandomly](http://www.walkingrandomly.com/?cat=11) - The MATLAB tag of WalkingRandomly.
 * [xcorr: comp neuro](http://xcorr.net/?s=matlab) - MATLAB relevant post of XCORR.
@@ -219,9 +219,9 @@ Where to discover new MATLAB resources.
 * [Accelerating MATLAB Performance: 1001 tips to speed up MATLAB programs](https://www.crcpress.com/Accelerating-MATLAB-Performance-1001-tips-to-speed-up-MATLAB-programs/Altman/9781482211290) - A superb guide to making MATLAB code faster.
 * [The Elements of MATLAB Style](http://www.cambridge.org/us/academic/subjects/computer-science/scientific-computing-scientific-software/elements-matlab-style) - Coding guidelines for the MATLAB language.
 * [MATLAB for Dummies](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-111882010X.html) - A good beginners book.
-* [MATLAB Guide](http://www.ma.man.ac.uk/~higham/mg/) - by Desmond and Nicholas Higham. One of the best books for learning MATLAB
+* [MATLAB Guide](http://www.ma.man.ac.uk/~higham/mg/) - By Desmond and Nicholas Higham. One of the best books for learning MATLAB
 * [Undocumented Secrets of MATLAB-Java Programming](https://www.crcpress.com/Undocumented-Secrets-of-MATLAB-Java-Programming/Altman/9781439869031#isbn) - A great guide on MATLAB® and its Java interface (e.g. for GUIs or interaction with JVM software).
-* [Data-Driven Science and Engineering: Machine Learning, Dynamical Systems and Control](http://www.databookuw.com/) - This textbook brings together machine learning, engineering mathematics, and mathematical physics to integrate modeling and control of dynamical systems with modern methods in data science
+* [Data-Driven Science and Engineering: Machine Learning, Dynamical Systems and Control](http://www.databookuw.com/) - This textbook brings together machine learning, engineering mathematics, and mathematical physics to integrate modeling and control of dynamical systems with modern methods in data science.
 * [An Introduction to MATLAB for Behavioral Researchers](http://www.sagepub.com/books/Book239284) - Beginner book for those with no programming experience. Targeted to those in psychology/behavioural sciences and uses real experimental data in examples.
 
 ## Reference Cards
@@ -231,13 +231,13 @@ Where to discover new MATLAB resources.
 
 ## Social Media
 
-* [MATLAB Reddit](https://www.reddit.com/r/matlab/)
-* [Octave Reddit](https://www.reddit.com/r/octave/)
-* [MATLAB on Facebook](https://www.facebook.com/MATLAB) - Official Facebook page for MATLAB
+* [MATLAB Reddit](https://www.reddit.com/r/matlab/) - MATLAB on Reddit.
+* [Octave Reddit](https://www.reddit.com/r/octave/) - Octave on Reddit.
+* [MATLAB on Facebook](https://www.facebook.com/MATLAB) - Official Facebook page for MATLAB.
 * [MATLAB on Stack Overflow](http://stackoverflow.com/questions/tagged/matlab) - Stack Overflow is a community of 4.7 million programmers, just like you, helping each other.
 * [Octave on Stack Overflow](http://stackoverflow.com/questions/tagged/octave) - and Stack Overflow has an extensive back catalogue of many answered questions.
-* [MATLAB on Twitter](https://twitter.com/MATLAB) - Official MATLAB twitter account
-* [Matlab Tricks Club](https://www.facebook.com/MatlabTricksClub/) - A Community Page about MATLAB
+* [MATLAB on Twitter](https://twitter.com/MATLAB) - Official MATLAB twitter account.
+* [Matlab Tricks Club](https://www.facebook.com/MatlabTricksClub/) - A Community Page about MATLAB.
 
 ## MOOCs
 *Massive open online courses.*
