@@ -67,15 +67,17 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 
 ## Hardware
 
+* [CPU Info](https://de.mathworks.com/matlabcentral/fileexchange/33155-cpu-info) - Read various bits of information about the CPU and operating system.
 * [MATLAB Mobile](http://uk.mathworks.com/products/matlab-mobile/) - MATLAB on Android and iOS mobile phones and tablets.
 * [Raspberry Pi Support from MATLAB](http://uk.mathworks.com/hardware-support/raspberry-pi-matlab.html) - Acquire sensor and image data from your connected Raspberry Pi.
 * [Rasperry Pi IO Support for Octave](http://github.com/octave-de/octave-rpi-gpio) - Control Rasperry Pi GPIO Port from Octave.
-* [CPU Info](https://de.mathworks.com/matlabcentral/fileexchange/33155-cpu-info) - Read various bits of information about the CPU and operating system.
+
 
 ## High Performance Computing in MATLAB
 
-* [Parallel Computing Toolbox](https://uk.mathworks.com/products/parallel-computing.html) - Mathworks Toolbox. Provides support for various parallel programming paradigms to scale MATLAB to 1000s of CPU cores and GPUs. Also helps make maximum use of your laptop if that's the only hardware you have.
 * [MATLAB on the NVIDIA GPU Cloud](https://ngc.nvidia.com/catalog/containers/partners:matlab) - Running MATLAB on the NVIDIA GPU Cloud.
+* [Parallel Computing Toolbox](https://uk.mathworks.com/products/parallel-computing.html) - Mathworks Toolbox. Provides support for various parallel programming paradigms to scale MATLAB to 1000s of CPU cores and GPUs. Also helps make maximum use of your laptop if that's the only hardware you have.
+
 
 ## Image Processing and Computer Vision
 
@@ -120,11 +122,11 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [C/C++ mex routines](http://uk.mathworks.com/help/matlab/write-cc-mex-files.html) - C/C++ MEX files allow to call C/C++ functions from within MATLAB.
 * [Fortran mex routines](http://uk.mathworks.com/help/matlab/write-fortran-mex-files.html) - Fortran MEX routines allow you to call Fortran code from within MATLAB.
 * [MATLAB Engine for Python](http://uk.mathworks.com/help/matlab/matlab_external/get-started-with-matlab-engine-for-python.html) - The MATLAB Engine for Python provides a Python package named `matlab` that enables you to call MATLAB functions from within Python.
-* [Python](http://uk.mathworks.com/help/matlab/call-python-libraries.html) - How to call Python functions from within MATLAB.
 * [matlab kernel](https://github.com/calysto/matlab_kernel) - To run MATLAB code inside IPython / Jupyter notebooks.
-* [octave kernel](https://github.com/calysto/octave_kernel) - To run Octave code inside IPython / Jupyter notebooks.
 * [MATLink](http://matlink.org/) - To run MATLAB code inside Mathematica / Wolfram Language notebooks.
 * [node-matlab](https://github.com/zeybek/node-matlab) - To run MATLAB code inside NodeJS.
+* [octave kernel](https://github.com/calysto/octave_kernel) - To run Octave code inside IPython / Jupyter notebooks.
+* [Python](http://uk.mathworks.com/help/matlab/call-python-libraries.html) - How to call Python functions from within MATLAB.
 
 
 ## Interfacing with other programs
@@ -181,7 +183,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 
 ## Optimization 
 
-* [Manopt](https://www.manopt.org/) Toolboxes for optimization on manifolds and matrices.
+* [Manopt](https://www.manopt.org/) Free toolboxes for optimization on manifolds and matrices.
 
 ## Statistics
 
@@ -217,11 +219,11 @@ Where to discover new MATLAB resources.
 ## Books
 
 * [Accelerating MATLAB Performance: 1001 tips to speed up MATLAB programs](https://www.crcpress.com/Accelerating-MATLAB-Performance-1001-tips-to-speed-up-MATLAB-programs/Altman/9781482211290) - A superb guide to making MATLAB code faster.
+* [Data-Driven Science and Engineering: Machine Learning, Dynamical Systems and Control](http://www.databookuw.com/) - This textbook brings together machine learning, engineering mathematics, and mathematical physics to integrate modeling and control of dynamical systems with modern methods in data science.
 * [The Elements of MATLAB Style](http://www.cambridge.org/us/academic/subjects/computer-science/scientific-computing-scientific-software/elements-matlab-style) - Coding guidelines for the MATLAB language.
 * [MATLAB for Dummies](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-111882010X.html) - A good beginners book.
 * [MATLAB Guide](http://www.ma.man.ac.uk/~higham/mg/) - By Desmond and Nicholas Higham. One of the best books for learning MATLAB
 * [Undocumented Secrets of MATLAB-Java Programming](https://www.crcpress.com/Undocumented-Secrets-of-MATLAB-Java-Programming/Altman/9781439869031#isbn) - A great guide on MATLAB® and its Java interface (e.g. for GUIs or interaction with JVM software).
-* [Data-Driven Science and Engineering: Machine Learning, Dynamical Systems and Control](http://www.databookuw.com/) - This textbook brings together machine learning, engineering mathematics, and mathematical physics to integrate modeling and control of dynamical systems with modern methods in data science.
 * [An Introduction to MATLAB for Behavioral Researchers](http://www.sagepub.com/books/Book239284) - Beginner book for those with no programming experience. Targeted to those in psychology/behavioural sciences and uses real experimental data in examples.
 
 ## Reference Cards
@@ -230,12 +232,12 @@ Where to discover new MATLAB resources.
 
 ## Social Media
 
-* [MATLAB Reddit](https://www.reddit.com/r/matlab/) - MATLAB on Reddit.
-* [Octave Reddit](https://www.reddit.com/r/octave/) - Octave on Reddit.
 * [MATLAB on Facebook](https://www.facebook.com/MATLAB) - Official Facebook page for MATLAB.
+* [MATLAB Reddit](https://www.reddit.com/r/matlab/) - MATLAB on Reddit.
 * [MATLAB on Stack Overflow](http://stackoverflow.com/questions/tagged/matlab) - Stack Overflow is a community of 4.7 million programmers, just like you, helping each other.
-* [Octave on Stack Overflow](http://stackoverflow.com/questions/tagged/octave) - and Stack Overflow has an extensive back catalogue of many answered questions.
 * [MATLAB on Twitter](https://twitter.com/MATLAB) - Official MATLAB twitter account.
+* [Octave on Stack Overflow](http://stackoverflow.com/questions/tagged/octave) - Stack Overflow has an extensive back catalogue of many answered questions.
+* [Octave Reddit](https://www.reddit.com/r/octave/) - Octave on Reddit.
 
 ## MOOCs
 *Massive open online courses.*
