@@ -8,6 +8,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
   - [3rd Party Commercial Toolboxes](#3rd-party-commercial-toolboxes)
   - [Cool](#cool)
   - [Database Management](#database-management)
+  - [Geospatial](#geospatial)
   - [Games](#games)
   - [Hardware](#hardware)
   - [Image Processing and Computer Vision](#image-processing-and-computer-vision)
@@ -62,6 +63,10 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 
 * [2048](http://uk.mathworks.com/matlabcentral/fileexchange/46124-2048-matlab-edition) - 2048 is a game originally created by Gabriele Cirulli. This is a MATLAB implementation of the game.
 * [Flappy bird](http://uk.mathworks.com/matlabcentral/fileexchange/45795-flappy-bird-for-matlab) - As one of the most popular games on app stores before being taken down, Flappy Bird does not need any further introduction. Now, it has come back alive, on MATLAB.
+
+## Geospatial
+
+* [TopoToolbox](https://topotoolbox.wordpress.com/) - TopoToolbox is a MATLAB program for the analysis of digital elevation models (DEMs). It's free and open source
 
 ## Hardware
 
