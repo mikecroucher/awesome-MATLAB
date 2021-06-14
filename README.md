@@ -259,6 +259,6 @@ Where to discover new MATLAB resources.
 
 
 # Contributing
-Your contributions are always welcome!
+Your contributions are always welcome.  Refer to the [contribution guidelines](https://github.com/mikecroucher/awesome-MATLAB/blob/main/Contributing.md) if you'd like to make a Pull Request.
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
