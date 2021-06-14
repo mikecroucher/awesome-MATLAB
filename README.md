@@ -4,19 +4,19 @@ A curated list of awesome MATLAB toolboxes, applications, software and resources
 Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 
 - [Awesome MATLAB](#awesome-)
-  - [High Performance Computing in MATLAB](#High-Performance-Computing-in-MATLAB)
   - [3rd Party Commercial Toolboxes](#3rd-party-commercial-toolboxes)
+  - [Computational Mechanics](#computational-mechanics)
   - [Cool](#cool)
   - [Database Management](#database-management)
   - [Geospatial](#geospatial)
   - [Games](#games)
   - [Hardware](#hardware)
+  - [High Performance Computing in MATLAB](#High-Performance-Computing-in-MATLAB)
   - [Image Processing and Computer Vision](#image-processing-and-computer-vision)
-  - [Model Reduction](#model-reduction)
-  - [Computational Mechanics](#computational-mechanics)
   - [Interfacing with other languages](#interfacing-with-other-languages)
   - [Interfacing with other programs](#interfacing-with-other-programs)
   - [Learning MATLAB](#learning-matlab)
+  - [Model Reduction](#model-reduction)
   - [Making Figures](#making-figures)
   - [MATLAB-like environments](#matlab-like-environments)
   - [Miscellaneous Free Toolboxes](#miscellaneous-free-toolboxes)
@@ -32,10 +32,6 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
     - [Tips and Tricks](#tips-and-tricks)
 - [Contributing](#contributing)
 
-## High Performance Computing in MATLAB
-
-* [Parallel Computing Toolbox](https://uk.mathworks.com/products/parallel-computing.html) - Mathworks Toolbox. Provides support for various parallel programming paradigms to scale MATLAB to 1000s of CPU cores and GPUs. Also helps make maximum use of your laptop if that's the only hardware you have.
-* [MATLAB on the NVIDIA GPU Cloud](https://ngc.nvidia.com/catalog/containers/partners:matlab) - Running MATLAB on the NVIDIA GPU Cloud.
 
 ## 3rd Party Commercial Toolboxes
 *High quality commercial toolboxes from organisations other than MathWorks*
@@ -75,6 +71,11 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [Raspberry Pi Support from MATLAB](http://uk.mathworks.com/hardware-support/raspberry-pi-matlab.html) - Acquire sensor and image data from your connected Raspberry Pi.
 * [Rasperry Pi IO Support for Octave](http://github.com/octave-de/octave-rpi-gpio) - Control Rasperry Pi GPIO Port from Octave.
 * [CPU Info](https://de.mathworks.com/matlabcentral/fileexchange/33155-cpu-info) - Read various bits of information about the CPU and operating system.
+
+## High Performance Computing in MATLAB
+
+* [Parallel Computing Toolbox](https://uk.mathworks.com/products/parallel-computing.html) - Mathworks Toolbox. Provides support for various parallel programming paradigms to scale MATLAB to 1000s of CPU cores and GPUs. Also helps make maximum use of your laptop if that's the only hardware you have.
+* [MATLAB on the NVIDIA GPU Cloud](https://ngc.nvidia.com/catalog/containers/partners:matlab) - Running MATLAB on the NVIDIA GPU Cloud.
 
 ## Image Processing and Computer Vision
 
