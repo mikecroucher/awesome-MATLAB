@@ -160,7 +160,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 
 * [GNU Octave](https://www.gnu.org/software/octave/) - GNU Octave is a high-level interpreted language, primarily intended for numerical computations. It can run many MATLAB programs unmodified.
 * [Scilab](http://www.scilab.org/) - Scilab is free and open source software for numerical computation providing a powerful computing environment for engineering and scientific applications.
-* [MathScript](http://www.ni.com/labview/mathscript/) - MathScript is an interpreter for MATLAB® code for the [LabView](http://www.ni.com/labview/) programming language.
+* [MathScript](https://www.ni.com/en-gb/support/downloads/software-products/download.labview-mathscript-module.html#345625) - MathScript is an interpreter for MATLAB® code for the [LabView](http://www.ni.com/labview/) programming language.
 
 ## Miscellaneous Free Toolboxes
 *High quality free toolboxes in subject areas that don't yet have their own section*
