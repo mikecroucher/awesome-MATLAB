@@ -257,7 +257,6 @@ Where to discover new MATLAB resources.
 * [MATLAB Style Guide 2](http://sites.google.com/site/matlabstyleguidelines/)
 * [Octave and MATLAB Snippets](https://git.io/mtips) - Collection of code snippets.
 * [knkutils](https://github.com/kendrickkay/knkutils) - MATLAB utility functions written by Kendrick Kay.
-* [Alex's MATLAB Library](https://github.com/alexschlegel/matlab_lib)
 * [Advanced Numerical Linear Algebra](http://www.caam.rice.edu/~caam551/MatlabCode/matlabcode.html) - MATLAB Code
 * [Lanczos Algorithm for SVD](http://bickson.blogspot.de/2011/10/lanczos-algorithm-for-svd-singule-value.html) - MATLAB Code
 * [Jie Chen's Software](https://jie-chen-ibm.appspot.com/software.html) - Collection of companion codes (mostly MATLAB).
