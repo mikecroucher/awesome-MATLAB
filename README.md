@@ -19,6 +19,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
   - [Making Figures](#making-figures)
   - [MATLAB-like environments](#matlab-like-environments)
   - [Miscellaneous Free Toolboxes](#miscellaneous-free-toolboxes)
+  - [Statistics](#statistics)
 - [Resources](#resources)
     - [Websites](#websites)
     - [Blogs](#blogs)
@@ -171,6 +172,10 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [Matrix Computation Toolbox](http://www.maths.manchester.ac.uk/~higham/mctoolbox/) - for constructing test matrices, computing matrix factorizations, visualizing matrices, and carrying out direct search optimization.
 * [GRANSO](http://timmitchell.com/software/GRANSO/index.html) - GRadient-based Algorithm for Non-Smooth Optimization.
 * [ROSTAPACK](http://www.timmitchell.com/software/ROSTAPACK/index.html) - RObust STAbility PACKage.
+
+## Statistics
+
+* [FSDA Toolbox](http://rosa.unipr.it/fsda.html) - FSDA (Flexible Statistics and Data Analysis) extends MATLAB and the Statistics Toolbox for the robust analysis of data sets affected by different sources of heterogeneity.
 
 # Resources
 
