@@ -205,7 +205,6 @@ Where to discover new MATLAB resources.
 * [ThingSpeak](https://thingspeak.com) - An internet of things (IoT) platform that allows to collect, analyze and act upon various data sources. You can enter your own MATLAB® code to process and plot your data.
 * [Octave-Online](http://octave-online.net/) - An online Octave interpreter.
 * [Matlab FAQ on Wikia](http://matlab.wikia.com/wiki/FAQ)
-* [MATLAB category on DMOZ](https://www.dmoz.org/Science/Math/Software/MATLAB)
 * [Programming Community Curated Resources For Learning Matlab](https://hackr.io/tutorials/learn-matlab)
 * [Assorted .m-files](http://people.duke.edu/~hpgavin/m-files/) - by H.P. Gavin.
 
