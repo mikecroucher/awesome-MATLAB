@@ -5,6 +5,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 
 - [Awesome MATLAB](#awesome-)
   - [3rd Party Commercial Toolboxes](#3rd-party-commercial-toolboxes)
+  - [Artificial Intelligence and Machine Learning](#artificial-intelligence-and-machine-learning)
   - [Computational Mechanics](#computational-mechanics)
   - [Cool](#cool)
   - [Database Management](#database-management)
@@ -40,6 +41,9 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [NAG Toolbox for MATLAB](http://www.nag.co.uk/numeric/MB/start.asp) - Over 1700 functions across numerous areas of numerical mathematics. Developed by The Numerical Algorithms Group (NAG).
 * [MOSEK Optimization Tools](https://www.mosek.com) - The [MOSEK tools](https://mosek.com/resources/downloads) provide access to the powerful MOSEK optimization solvers from inside the MATLAB environment either by a classical [Toolobx](http://docs.mosek.com/7.1/tools/index.html) or by the modern object-oriented API [Fusion](http://docs.mosek.com/7.1/matlabfusion/index.html).
 * [FEATool Multiphysics](http://www.precisesimulation.com) - Finite Element FEM Simulation toolbox for Matlab and Octave featuring an easy to use GUI, integrated CAD, geometry, grid generation, solvers, and postprocessing functionality.
+
+## Artificial Intelligence and Machine Learning
+* [MATLAB Deep Learning Model Hub](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub). Discover the latest pretrained models for deep learning in MATLAB
 
 ## Computational Mechanics
 * [GIBBON](https://www.gibboncode.org/) - An open-source ([get the source here](https://github.com/gibbonCode/GIBBON)) MATLAB toolbox for computational (bio)mechanics, computational geometry, image segmentation, meshing, lattice structure creation, and finite element analysis (by linking with the open source package [FEBio](https://febio.org/) and the commercial package ABAQUS). 
