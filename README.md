@@ -52,6 +52,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 *Fun projects that make you say 'Cool!'*
 
  - [Engima](http://blogs.mathworks.com/pick/2015/10/30/enigma/) - MATLAB version of the Enigma machine.
+ - [Invisibility Cloak Using MATLAB and Simulink](https://www.mathworks.com/matlabcentral/fileexchange/103830-invisibility-cloak-using-matlab-and-simulink) - This submission contains the implementation of an Invisibility Cloak using image thresholding and segmentation.
 
 ## Database Management
 *Toolboxes for managing data*
