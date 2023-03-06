@@ -75,6 +75,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 
 ## Hardware
 
+* [Arduino Support package](https://www.mathworks.com/matlabcentral/fileexchange/47522-matlab-support-package-for-arduino-hardware) - MATLAB Support Package for Arduino Hardware
 * [CPU Info](https://de.mathworks.com/matlabcentral/fileexchange/33155-cpu-info) - Read various bits of information about the CPU and operating system.
 * [MATLAB Mobile](http://uk.mathworks.com/products/matlab-mobile/) - MATLAB on Android and iOS mobile phones and tablets.
 * [Raspberry Pi Support from MATLAB](http://uk.mathworks.com/hardware-support/raspberry-pi-matlab.html) - Acquire sensor and image data from your connected Raspberry Pi.
