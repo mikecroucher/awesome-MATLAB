@@ -127,9 +127,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [matlab kernel](https://github.com/calysto/matlab_kernel) - To run MATLAB code inside IPython / Jupyter notebooks.
 * [MATLink](http://matlink.org/) - To run MATLAB code inside Mathematica / Wolfram Language notebooks.
 * [node-matlab](https://github.com/zeybek/node-matlab) - To run MATLAB code inside NodeJS.
-* [octave kernel](https://github.com/calysto/octave_kernel) - To run Octave code inside IPython / Jupyter notebooks.
 * [Python](http://uk.mathworks.com/help/matlab/call-python-libraries.html) - How to call Python functions from within MATLAB.
-
 
 ## Interfacing with other programs
 
@@ -162,6 +160,9 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [wgPlot](https://mathworks.com/matlabcentral/fileexchange/24035-wgplot-weighted-graph-plot--a-better-version-of-gplot) - A better version of gplot.
 * [xkcdify](https://www.mathworks.com/matlabcentral/fileexchange/38499-xkcdify) - xkcd-style plots.
 
+## Using MATLAB in other environments
+
+* [Official MATLAB Kernel for Jupyter](https://blogs.mathworks.com/matlab/2023/01/30/official-mathworks-matlab-kernel-for-jupyter-released/) - Blog post describing how to install and use the official MATLAB Kernel for Jupyter
 
 ## MATLAB-like environments
 
