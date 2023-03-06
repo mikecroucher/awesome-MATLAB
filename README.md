@@ -42,6 +42,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [FEATool Multiphysics](http://www.precisesimulation.com) - Finite Element FEM Simulation toolbox for Matlab and Octave featuring an easy to use GUI, integrated CAD, geometry, grid generation, solvers, and postprocessing functionality.
 
 ## Artificial Intelligence and Machine Learning
+* [Deep Learning Toolbox](https://www.mathworks.com/products/deep-learning.html) - MATLAB's deep learning toolbox
 * [MATLAB Deep Learning Model Hub](https://github.com/matlab-deep-learning/MATLAB-Deep-Learning-Model-Hub). Discover the latest pretrained models for deep learning in MATLAB
 
 ## Computational Mechanics
