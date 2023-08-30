@@ -3,34 +3,35 @@
 A curated list of awesome MATLAB toolboxes, applications, software and resources.
 Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 
-- [Awesome MATLAB](#awesome-)
+- [Awesome MATLAB  ](#awesome-matlab--)
   - [3rd Party Commercial Toolboxes](#3rd-party-commercial-toolboxes)
   - [Artificial Intelligence and Machine Learning](#artificial-intelligence-and-machine-learning)
   - [Computational Mechanics](#computational-mechanics)
   - [Cool](#cool)
   - [Database Management](#database-management)
-  - [Geospatial](#geospatial)
   - [Games](#games)
+  - [Geospatial](#geospatial)
   - [Hardware](#hardware)
-  - [High Performance Computing in MATLAB](#High-Performance-Computing-in-MATLAB)
+  - [High Performance Computing in MATLAB](#high-performance-computing-in-matlab)
   - [Image Processing and Computer Vision](#image-processing-and-computer-vision)
+  - [Model Reduction](#model-reduction)
   - [Interfacing with other languages](#interfacing-with-other-languages)
   - [Interfacing with other programs](#interfacing-with-other-programs)
   - [Learning MATLAB](#learning-matlab)
-  - [Model Reduction](#model-reduction)
   - [Making Figures](#making-figures)
+  - [Using MATLAB in other environments](#using-matlab-in-other-environments)
   - [MATLAB-like environments](#matlab-like-environments)
   - [Miscellaneous Free Toolboxes](#miscellaneous-free-toolboxes)
   - [Optimization](#optimization)
   - [Statistics](#statistics)
 - [Resources](#resources)
-    - [Websites](#websites)
-    - [Blogs](#blogs)
-    - [Books](#books)
-    - [Reference Cards](#reference-cards)
-    - [Social Media](#social-media)
-    - [MOOCs](#moocs)
-    - [Tips and Tricks](#tips-and-tricks)
+  - [Websites](#websites)
+  - [Blogs](#blogs)
+  - [Books](#books)
+  - [Reference Cards](#reference-cards)
+  - [Social Media](#social-media)
+  - [MOOCs](#moocs)
+  - [Tips and Tricks](#tips-and-tricks)
 - [Contributing](#contributing)
 
 
@@ -72,6 +73,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 ## Geospatial
 
 * [TopoToolbox](https://topotoolbox.wordpress.com/) - TopoToolbox is a MATLAB program for the analysis of digital elevation models (DEMs). It's free and open source.
+* [m_map](https://www.eoas.ubc.ca/~rich/map.html/) - A mapping package for Matlab.  
 
 ## Hardware
 
