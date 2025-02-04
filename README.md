@@ -189,6 +189,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [Matrix Computation Toolbox](http://www.maths.manchester.ac.uk/~higham/mctoolbox/) - For constructing test matrices, computing matrix factorizations, visualizing matrices, and carrying out direct search optimization.
 * [GRANSO](http://timmitchell.com/software/GRANSO/index.html) - GRadient-based Algorithm for Non-Smooth Optimization.
 * [ROSTAPACK](http://www.timmitchell.com/software/ROSTAPACK/index.html) - RObust STAbility PACKage.
+* [MOCluGen](https://github.com/clugen/MOCluGen) - Multidimensional cluster generation in MATLAB/Octave.
 
 ## Optimization 
 
