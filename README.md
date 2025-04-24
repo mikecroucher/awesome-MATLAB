@@ -11,14 +11,16 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
   - [Database Management](#database-management)
   - [Games](#games)
   - [Geospatial](#geospatial)
+  - [GPU Computing in MATLAB](#GPU-Computing-in-MATLAB)
   - [Hardware](#hardware)
   - [High Performance Computing in MATLAB](#high-performance-computing-in-matlab)
   - [Image Processing and Computer Vision](#image-processing-and-computer-vision)
-  - [Model Reduction](#model-reduction)
   - [Interfacing with other languages](#interfacing-with-other-languages)
   - [Interfacing with other programs](#interfacing-with-other-programs)
+  - [Model Reduction](#model-reduction)
   - [Learning MATLAB](#learning-matlab)
   - [Making Figures](#making-figures)
+  - [Parallel Computing in MATLAB](Parallel-Computing-in-MATLAB)
   - [Using MATLAB in other environments](#using-matlab-in-other-environments)
   - [MATLAB-like environments](#matlab-like-environments)
   - [Miscellaneous Free Toolboxes](#miscellaneous-free-toolboxes)
@@ -80,7 +82,15 @@ Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online
 ## Geospatial
 
 * [TopoToolbox](https://topotoolbox.wordpress.com/) - TopoToolbox is a MATLAB program for the analysis of digital elevation models (DEMs). It's free and open source.
-* [m_map](https://www.eoas.ubc.ca/~rich/map.html) - A mapping package for Matlab.  
+* [m_map](https://www.eoas.ubc.ca/~rich/map.html) - A mapping package for Matlab.
+
+## GPU Computing in MATLAB
+* [Deep Learning with MATLAB on Multiple GPUs] - MATLAB supports training a single deep neural network using multiple GPUs in parallel.
+* [GPU Section of the MATLAB Blog](https://blogs.mathworks.com/matlab/category/gpu/) - Mike Croucher from MathWorks writes about GPU Programming in MATLAB
+* [GPU Computing using Parallel Computing Toolbox](https://uk.mathworks.com/help/parallel-computing/gpu-computing.html) - The relevant section of the documentation for getting started with GPU computing using NVIDIA GPUs in MATLAB.
+* [Getting Started with GPU Coder](https://uk.mathworks.com/help/gpucoder/getting-started-with-gpu-coder.html) - Generates CUDA code from MATLAB code. 
+* [MATLAB on the NVIDIA GPU Cloud](https://ngc.nvidia.com/catalog/containers/partners:matlab) - Running MATLAB on the NVIDIA GPU Cloud.
+* [NVIDIA Jetson Support from MATLAB Coder](https://uk.mathworks.com/hardware-support/nvidia-jetson.html) - MATLAB Coder support package for NVIDIA® Jetson™ and NVIDIA DRIVE™ platforms automates the deployment of MATLAB algorithm or Simulink design on embedded NVIDIA GPUs such as the Jetson platform. 
 
 ## Hardware
 
@@ -90,11 +100,6 @@ Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online
 * [Raspberry Pi Support from MATLAB](http://uk.mathworks.com/hardware-support/raspberry-pi-matlab.html) - Acquire sensor and image data from your connected Raspberry Pi.
 * [Rasperry Pi IO Support for Octave](http://github.com/octave-de/octave-rpi-gpio) - Control Rasperry Pi GPIO Port from Octave.
 
-## High Performance Computing in MATLAB
-
-* [MATLAB on the NVIDIA GPU Cloud](https://ngc.nvidia.com/catalog/containers/partners:matlab) - Running MATLAB on the NVIDIA GPU Cloud.
-* [Parallel Computing Toolbox](https://uk.mathworks.com/products/parallel-computing.html) - Mathworks Toolbox. Provides support for various parallel programming paradigms to scale MATLAB to 1000s of CPU cores and GPUs. Also helps make maximum use of your laptop if that's the only hardware you have.
-
 ## Image Processing and Computer Vision
 
 * [Computer Vision System Toolbox](http://uk.mathworks.com/products/computer-vision/) - The official computer vision toolbox from MathWorks.
@@ -103,6 +108,22 @@ Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online
 * [VLFeat](http://www.vlfeat.org/) - The VLFeat free and open source library implements popular computer vision algorithms specializing in image understanding and local features extraction and matching. It is written in C for efficiency and compatibility, with interfaces in MATLAB for ease of use, and detailed documentation throughout.
 * [MexOpenCV](https://github.com/kyamagu/mexopencv) - MATLAB MEX interface for [OpenCV](http://opencv.org), i.e. one of the leading libraries for computer vision.
 * [Zoning Aggregated Hypercolumns for Keyword Spotting](https://github.com/sfikas/zah) - An image descriptor, suitable for keyword spotting, that is computed as a function of Convolutional Neural Network intermediate layer responses.
+
+## Interfacing with other languages
+
+* [C/C++ mex routines](http://uk.mathworks.com/help/matlab/write-cc-mex-files.html) - C/C++ MEX files allow to call C/C++ functions from within MATLAB.
+* [Fortran mex routines](http://uk.mathworks.com/help/matlab/write-fortran-mex-files.html) - Fortran MEX routines allow you to call Fortran code from within MATLAB.
+* [MATLAB Engine for Python](http://uk.mathworks.com/help/matlab/matlab_external/get-started-with-matlab-engine-for-python.html) - The MATLAB Engine for Python provides a Python package named `matlab` that enables you to call MATLAB functions from within Python.
+* [matlab kernel](https://github.com/calysto/matlab_kernel) - To run MATLAB code inside IPython / Jupyter notebooks.
+* [MATLink](http://matlink.org/) - To run MATLAB code inside Mathematica / Wolfram Language notebooks.
+* [node-matlab](https://github.com/zeybek/node-matlab) - To run MATLAB code inside NodeJS.
+* [Python](http://uk.mathworks.com/help/matlab/call-python-libraries.html) - How to call Python functions from within MATLAB.
+
+## Interfacing with other programs
+
+* [MATLAB QuickLook](https://github.com/jaketmp/matlab-quicklook) - QuickLook preview generator for MAT files. This shows the contents of your MAT files in Finder. The binary is only compatible with 64 bit OS X.
+* [MATLAB-git](https://github.com/manur/MATLAB-git) - A thin wrapper to call `git` from within a MATLAB console.
+* [JSONlab](https://github.com/fangq/jsonlab) - Toolbox to encode/decode [JSON](http://www.json.org) data files from within MATLAB and Octave.
 
 ## Model Reduction
 
@@ -128,23 +149,9 @@ Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online
 * [sssMOR](https://github.com/MORLab/sssMOR) - sparse state space and Model Order Reduction toolbox.
 * [SUMO](http://sumo.intec.ugent.be/SUMO) - SUrrogate MOdelling lab.
 
+## Parallel Computing in MATLAB
 
-## Interfacing with other languages
-
-* [C/C++ mex routines](http://uk.mathworks.com/help/matlab/write-cc-mex-files.html) - C/C++ MEX files allow to call C/C++ functions from within MATLAB.
-* [Fortran mex routines](http://uk.mathworks.com/help/matlab/write-fortran-mex-files.html) - Fortran MEX routines allow you to call Fortran code from within MATLAB.
-* [MATLAB Engine for Python](http://uk.mathworks.com/help/matlab/matlab_external/get-started-with-matlab-engine-for-python.html) - The MATLAB Engine for Python provides a Python package named `matlab` that enables you to call MATLAB functions from within Python.
-* [matlab kernel](https://github.com/calysto/matlab_kernel) - To run MATLAB code inside IPython / Jupyter notebooks.
-* [MATLink](http://matlink.org/) - To run MATLAB code inside Mathematica / Wolfram Language notebooks.
-* [node-matlab](https://github.com/zeybek/node-matlab) - To run MATLAB code inside NodeJS.
-* [Python](http://uk.mathworks.com/help/matlab/call-python-libraries.html) - How to call Python functions from within MATLAB.
-
-## Interfacing with other programs
-
-* [MATLAB QuickLook](https://github.com/jaketmp/matlab-quicklook) - QuickLook preview generator for MAT files. This shows the contents of your MAT files in Finder. The binary is only compatible with 64 bit OS X.
-* [MATLAB-git](https://github.com/manur/MATLAB-git) - A thin wrapper to call `git` from within a MATLAB console.
-* [JSONlab](https://github.com/fangq/jsonlab) - Toolbox to encode/decode [JSON](http://www.json.org) data files from within MATLAB and Octave.
-
+* [Parallel Computing Toolbox](https://uk.mathworks.com/products/parallel-computing.html) - Mathworks Toolbox. Provides support for various parallel programming paradigms to scale MATLAB to 1000s of CPU cores and GPUs. Also helps make maximum use of your laptop if that's the only hardware you have.
 
 ## Learning MATLAB
 
