@@ -85,7 +85,7 @@ Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online
 * [m_map](https://www.eoas.ubc.ca/~rich/map.html) - A mapping package for Matlab.
 
 ## GPU Computing in MATLAB
-* [Deep Learning with MATLAB on Multiple GPUs] - MATLAB supports training a single deep neural network using multiple GPUs in parallel.
+* [Deep Learning with MATLAB on Multiple GPUs](https://uk.mathworks.com/help/deeplearning/ug/deep-learning-with-matlab-on-multiple-gpus.html) - MATLAB supports training a single deep neural network using multiple GPUs in parallel.
 * [GPU Section of the MATLAB Blog](https://blogs.mathworks.com/matlab/category/gpu/) - Mike Croucher from MathWorks writes about GPU Programming in MATLAB
 * [GPU Computing using Parallel Computing Toolbox](https://uk.mathworks.com/help/parallel-computing/gpu-computing.html) - The relevant section of the documentation for getting started with GPU computing using NVIDIA GPUs in MATLAB.
 * [Getting Started with GPU Coder](https://uk.mathworks.com/help/gpucoder/getting-started-with-gpu-coder.html) - Generates CUDA code from MATLAB code. 
