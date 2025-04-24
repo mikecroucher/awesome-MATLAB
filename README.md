@@ -20,7 +20,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
   - [Model Reduction](#model-reduction)
   - [Learning MATLAB](#learning-matlab)
   - [Making Figures](#making-figures)
-  - [Parallel Computing in MATLAB](Parallel-Computing-in-MATLAB)
+  - [Parallel Computing in MATLAB](#Parallel-Computing-in-MATLAB)
   - [Using MATLAB in other environments](#using-matlab-in-other-environments)
   - [MATLAB-like environments](#matlab-like-environments)
   - [Miscellaneous Free Toolboxes](#miscellaneous-free-toolboxes)
