@@ -213,6 +213,7 @@ Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online
 ## Statistics
 
 * [FSDA Toolbox](http://rosa.unipr.it/fsda.html) - FSDA (Flexible Statistics and Data Analysis) extends MATLAB and the Statistics Toolbox for the robust analysis of data sets affected by different sources of heterogeneity.
+* [Statistics and Machine Learning Toolbox](https://uk.mathworks.com/help/stats/index.html) - Statistics and Machine Learning Toolbox from MathWorks.
 
 ## Using MATLAB in other environments
 
