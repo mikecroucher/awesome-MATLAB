@@ -90,7 +90,7 @@ Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online
 * [Deep Learning with MATLAB on Multiple GPUs](https://uk.mathworks.com/help/deeplearning/ug/deep-learning-with-matlab-on-multiple-gpus.html) - MATLAB supports training a single deep neural network using multiple GPUs in parallel.
 * [GPU Section of the MATLAB Blog](https://blogs.mathworks.com/matlab/category/gpu/) - Mike Croucher from MathWorks writes about GPU Programming in MATLAB
 * [GPU Computing using Parallel Computing Toolbox](https://uk.mathworks.com/help/parallel-computing/gpu-computing.html) - The relevant section of the documentation for getting started with GPU computing using NVIDIA GPUs in MATLAB.
-* [Getting Started with GPU Coder](https://uk.mathworks.com/help/gpucoder/getting-started-with-gpu-coder.html) - Generates CUDA code from MATLAB code. 
+* [GPU Coder](https://uk.mathworks.com/help/gpucoder/getting-started-with-gpu-coder.html) - Generates CUDA code from MATLAB code. 
 * [MATLAB on the NVIDIA GPU Cloud](https://ngc.nvidia.com/catalog/containers/partners:matlab) - Running MATLAB on the NVIDIA GPU Cloud.
 * [NVIDIA Jetson Support from MATLAB Coder](https://uk.mathworks.com/hardware-support/nvidia-jetson.html) - MATLAB Coder support package for NVIDIA® Jetson™ and NVIDIA DRIVE™ platforms automates the deployment of MATLAB algorithm or Simulink design on embedded NVIDIA GPUs such as the Jetson platform. 
 
