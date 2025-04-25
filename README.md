@@ -200,7 +200,11 @@ Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online
 
 ## Optimization 
 
-* [Manopt](https://www.manopt.org/) Free toolboxes for optimization on manifolds and matrices.
+* [Optimization Onramp](https://matlabacademy.mathworks.com/details/optimization-onramp/optim) - Free interactive course from MathWorks. Learn the basics of optimization in MATLAB.
+* [Global Optimization Toolbox](https://uk.mathworks.com/help/gads/index.html) - Offical toolbox from MathWorks. Includes algorithms such as Simulated Annealing, Particle Swarm Optimizaton and Genetic Algorithms. 
+* [Manopt](https://www.manopt.org/) - Free toolboxes for optimization on manifolds and matrices.
+* [Optimization Toolbox](https://uk.mathworks.com/help/optim/index.html) - Official optimization Toolbox from MathWorks.
+* [Quadratic Unconstrained Binary Optimization (QUBO)](https://uk.mathworks.com/help/matlab/qubo.html) - An optimization formulation that's available in MATLAB via the Quantum Computing Support package
 
 ## Parallel Computing in MATLAB
 
