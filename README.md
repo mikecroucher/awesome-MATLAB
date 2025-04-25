@@ -17,8 +17,8 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
   - [Image Processing and Computer Vision](#image-processing-and-computer-vision)
   - [Interfacing with other languages](#interfacing-with-other-languages)
   - [Interfacing with other programs](#interfacing-with-other-programs)
-  - [Model Reduction](#model-reduction)
   - [Learning MATLAB](#learning-matlab)
+  - [Model Reduction](#model-reduction)
   - [Making Figures](#making-figures)
   - [Parallel Computing in MATLAB](#Parallel-Computing-in-MATLAB)
   - [Using MATLAB in other environments](#using-matlab-in-other-environments)
@@ -125,6 +125,14 @@ Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online
 * [MATLAB-git](https://github.com/manur/MATLAB-git) - A thin wrapper to call `git` from within a MATLAB console.
 * [JSONlab](https://github.com/fangq/jsonlab) - Toolbox to encode/decode [JSON](http://www.json.org) data files from within MATLAB and Octave.
 
+## Learning MATLAB
+
+* [MATLAB Onramp](hhttps://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) - Start here if you've never used MATLAB before. 2 hour interactive intro from MathWorks. Free for all.
+* [AI-assisted MATLAB Programming with ChatGPT](https://www.coursera.org/learn/matlab-programming-with-chatgpt) - A Coursera course showing how to use ChatGPT to help you program in MATLAB 
+* [Software Carpentry lessons in MATLAB](http://swcarpentry.github.io/matlab-novice-inflammation/) - Teaching basic lab skills for research computing.
+* [Control Tutorials for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home) - This site contains quite a bit control theory, some practical applications and how to implement these in MATLAB and SimuLink.
+* [Rosetta Code (MATLAB category)](http://rosettacode.org/wiki/Category:MATLAB) - Rosetta Code is a community comparing algorithms in different languages.
+
 ## Model Reduction
 
 * [drtoolbox](https://lvdmaaten.github.io/drtoolbox/) - Matlab Toolbox for Dimensionality Reduction.
@@ -152,14 +160,6 @@ Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online
 ## Parallel Computing in MATLAB
 
 * [Parallel Computing Toolbox](https://uk.mathworks.com/products/parallel-computing.html) - Mathworks Toolbox. Provides support for various parallel programming paradigms to scale MATLAB to 1000s of CPU cores and GPUs. Also helps make maximum use of your laptop if that's the only hardware you have.
-
-## Learning MATLAB
-
-* [Software Carpentry lessons in MATLAB](http://swcarpentry.github.io/matlab-novice-inflammation/) - Teaching basic lab skills for research computing.
-* [YAGTOM: Yet Another Guide TO MATLAB](http://ubcmatlabguide.github.io) - This MATLAB® tutorial starts from the basics and builds up to advanced concepts such as object-oriented programming (Note the [Speedup Tricks](https://ubcmatlabguide.github.io/html/speedup.html)).
-* [MATLAB Academy - MATLAB Onramp](https://matlabacademy.mathworks.com/) - Brief MATLAB introduction including language syntax and common workflows. Free for all. 
-* [Control Tutorials for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home) - This site contains quite a bit control theory, some practical applications and how to implement these in MATLAB and SimuLink.
-* [Rosetta Code (MATLAB category)](http://rosettacode.org/wiki/Category:MATLAB) - Rosetta Code is a community comparing algorithms in different languages.
 
 ## Making Figures
 
