@@ -116,7 +116,6 @@ Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online
 * [C/C++ mex routines](http://uk.mathworks.com/help/matlab/write-cc-mex-files.html) - C/C++ MEX files allow to call C/C++ functions from within MATLAB.
 * [Fortran mex routines](http://uk.mathworks.com/help/matlab/write-fortran-mex-files.html) - Fortran MEX routines allow you to call Fortran code from within MATLAB.
 * [MATLAB Engine for Python](http://uk.mathworks.com/help/matlab/matlab_external/get-started-with-matlab-engine-for-python.html) - The MATLAB Engine for Python provides a Python package named `matlab` that enables you to call MATLAB functions from within Python.
-* [matlab kernel](https://github.com/calysto/matlab_kernel) - To run MATLAB code inside IPython / Jupyter notebooks.
 * [MATLink](http://matlink.org/) - To run MATLAB code inside Mathematica / Wolfram Language notebooks.
 * [node-matlab](https://github.com/zeybek/node-matlab) - To run MATLAB code inside NodeJS.
 * [Python](http://uk.mathworks.com/help/matlab/call-python-libraries.html) - How to call Python functions from within MATLAB.
