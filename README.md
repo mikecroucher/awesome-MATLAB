@@ -18,14 +18,14 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
   - [Interfacing with other languages](#interfacing-with-other-languages)
   - [Interfacing with other programs](#interfacing-with-other-programs)
   - [Learning MATLAB](#learning-matlab)
-  - [Model Reduction](#model-reduction)
   - [Making Figures](#making-figures)
-  - [Parallel Computing in MATLAB](#Parallel-Computing-in-MATLAB)
-  - [Using MATLAB in other environments](#using-matlab-in-other-environments)
-  - [MATLAB-like environments](#matlab-like-environments)
   - [Miscellaneous Free Toolboxes](#miscellaneous-free-toolboxes)
+  - [MATLAB-like environments](#matlab-like-environments)
+  - [Model Reduction](#model-reduction)
   - [Optimization](#optimization)
+  - [Parallel Computing in MATLAB](#Parallel-Computing-in-MATLAB)
   - [Statistics](#statistics)
+  - [Using MATLAB in other environments](#using-matlab-in-other-environments)
 - [Resources](#resources)
   - [Websites](#websites)
   - [Blogs](#blogs)
@@ -135,6 +135,45 @@ Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online
 * [Control Tutorials for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home) - This site contains quite a bit control theory, some practical applications and how to implement these in MATLAB and SimuLink.
 * [Rosetta Code (MATLAB category)](http://rosettacode.org/wiki/Category:MATLAB) - Rosetta Code is a community comparing algorithms in different languages.
 
+## MATLAB-like environments
+
+* [GNU Octave](https://www.gnu.org/software/octave/) - GNU Octave is a high-level interpreted language, primarily intended for numerical computations. It can run many MATLAB programs unmodified.
+* [Scilab](http://www.scilab.org/) - Scilab is free and open source software for numerical computation providing a powerful computing environment for engineering and scientific applications.
+* [MathScript](https://www.ni.com/en-gb/support/downloads/software-products/download.labview-mathscript-module.html#345625) - MathScript is an interpreter for MATLAB® code for the [LabView](http://www.ni.com/labview/) programming language.
+
+## Making Figures
+
+*Third-party tools to produce publication quality figures.*
+
+* [antijet](https://git.io/antijet) - An alternative to the problematic "jet"-colormap.
+* [export_fig](https://github.com/altmany/export_fig) - produces better vector/bitmap graphics than standalone MATLAB®.
+* [gramm](https://uk.mathworks.com/matlabcentral/fileexchange/54465-gramm-complete-data-visualization-toolbox-ggplot2-r-like) - GRAMmar of graphics for Matlab.
+* [hq-matlab-figs](http://dgleich.github.io/hq-matlab-figs/) - Creating high-quality graphics in MATLAB for papers and presentations.
+* [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) - exports MATLAB® figures to TikZ code for seamless inclusion in LaTeX documents.
+* [matplotlib colormaps](https://de.mathworks.com/matlabcentral/fileexchange/62729-matplotlib-2-0-colormaps--perceptually-uniform-and-beautiful) - Perceptually uniform colormaps.
+* [plot2svg](http://www.mathworks.com/matlabcentral/fileexchange/7401-scalable-vector-graphics--svg--export-of-figures) - exports MATLAB® figures to Scalable Vector Graphics format. This is particularly useful in older MATLAB® versions that don't support `print -dsvg`.
+* [Plotly MATLAB Library](https://plot.ly/matlab/) - exports MATLAB® figures to the online plotting service [plot.ly](https://plot.ly).
+* [saveFigure](https://github.com/djoshea/matlab-save-figure) - exports MATLAB® figures to PDF, SVG, EPS and PNG with improved support for transparancy.
+* [wgPlot](https://mathworks.com/matlabcentral/fileexchange/24035-wgplot-weighted-graph-plot--a-better-version-of-gplot) - A better version of gplot.
+* [xkcdify](https://www.mathworks.com/matlabcentral/fileexchange/38499-xkcdify) - xkcd-style plots.
+
+## Miscellaneous Free Toolboxes
+*High quality free toolboxes in subject areas that don't yet have their own section*
+
+* [Chebfun](http://www.chebfun.org/) - Chebfun is an open-source package for computing with functions to about 15-digit accuracy.
+* [IFISS](http://www.maths.manchester.ac.uk/~djs/ifiss/) - IFISS is a graphical package for the interactive numerical study of incompressible flow problems which can be run under MATLAB or Octave.
+* [Wavelab](http://statweb.stanford.edu/~wavelab/Wavelab_850/index_wavelab850.html) - WaveLab is a collection of MATLAB functions related to wavelet analysis.
+* [MPITB](http://www.ugr.es/~jfernand/mpitb_eng.html) - MPI Toolbox for Matlab ([MPI Toolbox for Octave](http://www.ugr.es/~jfernand/mpitb.html)).
+* [Lightspeed](http://research.microsoft.com/en-us/um/people/minka/software/lightspeed/) - Microsoft Lightspeed Utilities Toolbox.
+* [bct](http://www.brain-connectivity-toolbox.net/) - Brain Connectivity Toolbox.
+* [OpenCL Toolbox](https://github.com/imaginairy-user/opencl-toolbox/) - OpenCL support for MATLAB.
+* [UQLab](http://www.uqlab.com/) - The Framework for Uncertainty Quantification.
+* [Octave Forge](http://octave.sourceforge.net/) - Extra packages for GNU Octave.
+* [Matrix Computation Toolbox](http://www.maths.manchester.ac.uk/~higham/mctoolbox/) - For constructing test matrices, computing matrix factorizations, visualizing matrices, and carrying out direct search optimization.
+* [GRANSO](http://timmitchell.com/software/GRANSO/index.html) - GRadient-based Algorithm for Non-Smooth Optimization.
+* [ROSTAPACK](http://www.timmitchell.com/software/ROSTAPACK/index.html) - RObust STAbility PACKage.
+* [MOCluGen](https://github.com/clugen/MOCluGen) - Multidimensional cluster generation in MATLAB/Octave.
+
 ## Model Reduction
 
 * [drtoolbox](https://lvdmaaten.github.io/drtoolbox/) - Matlab Toolbox for Dimensionality Reduction.
@@ -159,60 +198,21 @@ Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online
 * [sssMOR](https://github.com/MORLab/sssMOR) - sparse state space and Model Order Reduction toolbox.
 * [SUMO](http://sumo.intec.ugent.be/SUMO) - SUrrogate MOdelling lab.
 
-## Parallel Computing in MATLAB
-
-* [Parallel Computing Toolbox](https://uk.mathworks.com/products/parallel-computing.html) - Mathworks Toolbox. Provides support for various parallel programming paradigms to scale MATLAB to 1000s of CPU cores and GPUs. Also helps make maximum use of your laptop if that's the only hardware you have.
-
-## Making Figures
-
-*Third-party tools to produce publication quality figures.*
-
-* [antijet](https://git.io/antijet) - An alternative to the problematic "jet"-colormap.
-* [export_fig](https://github.com/altmany/export_fig) - produces better vector/bitmap graphics than standalone MATLAB®.
-* [gramm](https://uk.mathworks.com/matlabcentral/fileexchange/54465-gramm-complete-data-visualization-toolbox-ggplot2-r-like) - GRAMmar of graphics for Matlab.
-* [hq-matlab-figs](http://dgleich.github.io/hq-matlab-figs/) - Creating high-quality graphics in MATLAB for papers and presentations.
-* [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) - exports MATLAB® figures to TikZ code for seamless inclusion in LaTeX documents.
-* [matplotlib colormaps](https://de.mathworks.com/matlabcentral/fileexchange/62729-matplotlib-2-0-colormaps--perceptually-uniform-and-beautiful) - Perceptually uniform colormaps.
-* [plot2svg](http://www.mathworks.com/matlabcentral/fileexchange/7401-scalable-vector-graphics--svg--export-of-figures) - exports MATLAB® figures to Scalable Vector Graphics format. This is particularly useful in older MATLAB® versions that don't support `print -dsvg`.
-* [Plotly MATLAB Library](https://plot.ly/matlab/) - exports MATLAB® figures to the online plotting service [plot.ly](https://plot.ly).
-* [saveFigure](https://github.com/djoshea/matlab-save-figure) - exports MATLAB® figures to PDF, SVG, EPS and PNG with improved support for transparancy.
-* [wgPlot](https://mathworks.com/matlabcentral/fileexchange/24035-wgplot-weighted-graph-plot--a-better-version-of-gplot) - A better version of gplot.
-* [xkcdify](https://www.mathworks.com/matlabcentral/fileexchange/38499-xkcdify) - xkcd-style plots.
-
-## Using MATLAB in other environments
-
-* [Official MATLAB Kernel for Jupyter](https://blogs.mathworks.com/matlab/2023/01/30/official-mathworks-matlab-kernel-for-jupyter-released/) - Blog post describing how to install and use the official MATLAB Kernel for Jupyter
-
-## MATLAB-like environments
-
-* [GNU Octave](https://www.gnu.org/software/octave/) - GNU Octave is a high-level interpreted language, primarily intended for numerical computations. It can run many MATLAB programs unmodified.
-* [Scilab](http://www.scilab.org/) - Scilab is free and open source software for numerical computation providing a powerful computing environment for engineering and scientific applications.
-* [MathScript](https://www.ni.com/en-gb/support/downloads/software-products/download.labview-mathscript-module.html#345625) - MathScript is an interpreter for MATLAB® code for the [LabView](http://www.ni.com/labview/) programming language.
-
-## Miscellaneous Free Toolboxes
-*High quality free toolboxes in subject areas that don't yet have their own section*
-
-* [Chebfun](http://www.chebfun.org/) - Chebfun is an open-source package for computing with functions to about 15-digit accuracy.
-* [IFISS](http://www.maths.manchester.ac.uk/~djs/ifiss/) - IFISS is a graphical package for the interactive numerical study of incompressible flow problems which can be run under MATLAB or Octave.
-* [Wavelab](http://statweb.stanford.edu/~wavelab/Wavelab_850/index_wavelab850.html) - WaveLab is a collection of MATLAB functions related to wavelet analysis.
-* [MPITB](http://www.ugr.es/~jfernand/mpitb_eng.html) - MPI Toolbox for Matlab ([MPI Toolbox for Octave](http://www.ugr.es/~jfernand/mpitb.html)).
-* [Lightspeed](http://research.microsoft.com/en-us/um/people/minka/software/lightspeed/) - Microsoft Lightspeed Utilities Toolbox.
-* [bct](http://www.brain-connectivity-toolbox.net/) - Brain Connectivity Toolbox.
-* [OpenCL Toolbox](https://github.com/imaginairy-user/opencl-toolbox/) - OpenCL support for MATLAB.
-* [UQLab](http://www.uqlab.com/) - The Framework for Uncertainty Quantification.
-* [Octave Forge](http://octave.sourceforge.net/) - Extra packages for GNU Octave.
-* [Matrix Computation Toolbox](http://www.maths.manchester.ac.uk/~higham/mctoolbox/) - For constructing test matrices, computing matrix factorizations, visualizing matrices, and carrying out direct search optimization.
-* [GRANSO](http://timmitchell.com/software/GRANSO/index.html) - GRadient-based Algorithm for Non-Smooth Optimization.
-* [ROSTAPACK](http://www.timmitchell.com/software/ROSTAPACK/index.html) - RObust STAbility PACKage.
-* [MOCluGen](https://github.com/clugen/MOCluGen) - Multidimensional cluster generation in MATLAB/Octave.
-
 ## Optimization 
 
 * [Manopt](https://www.manopt.org/) Free toolboxes for optimization on manifolds and matrices.
 
+## Parallel Computing in MATLAB
+
+* [Parallel Computing Toolbox](https://uk.mathworks.com/products/parallel-computing.html) - Mathworks Toolbox. Provides support for various parallel programming paradigms to scale MATLAB to 1000s of CPU cores and GPUs. Also helps make maximum use of your laptop if that's the only hardware you have.
+
 ## Statistics
 
 * [FSDA Toolbox](http://rosa.unipr.it/fsda.html) - FSDA (Flexible Statistics and Data Analysis) extends MATLAB and the Statistics Toolbox for the robust analysis of data sets affected by different sources of heterogeneity.
+
+## Using MATLAB in other environments
+
+* [Official MATLAB Kernel for Jupyter](https://blogs.mathworks.com/matlab/2023/01/30/official-mathworks-matlab-kernel-for-jupyter-released/) - Blog post describing how to install and use the official MATLAB Kernel for Jupyter
 
 # Resources
 
