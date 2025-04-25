@@ -14,7 +14,7 @@ Please create a new issue or submit a pull request, we will be happy to receive 
 
 ### Submitting Pull Requests
 
-Feel free to take any open issue, just make sure that you follow the contribution guidelines.
+Feel free to take any open issue, just ensure that you follow the contribution guidelines.
 
 ### Voting and commenting
 
