@@ -45,6 +45,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
 * [FEATool Multiphysics](http://www.precisesimulation.com) - Finite Element FEM Simulation toolbox for Matlab and Octave featuring an easy to use GUI, integrated CAD, geometry, grid generation, solvers, and postprocessing functionality.
 
 ## Artificial Intelligence and Machine Learning
+* [AI Chat Playground](https://uk.mathworks.com/matlabcentral/playground/new) - Free service from MathWorks. Chat with an AI about MATLAB and run code in the browser.
 * [AI Verification: Constrained Deep Learning](https://github.com/matlab-deep-learning/constrained-deep-learning) - Constrained deep learning is an advanced approach to training deep neural networks by incorporating domain-specific constraints into the learning process. [![Open in MATLAB
 Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=matlab-deep-learning/constrained-deep-learning)
 * [Deep Learning Toolbox](https://www.mathworks.com/products/deep-learning.html) - MATLAB's official deep learning toolbox from MathWorks
