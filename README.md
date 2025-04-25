@@ -24,6 +24,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
   - [Model Reduction](#model-reduction)
   - [Optimization](#optimization)
   - [Parallel Computing in MATLAB](#Parallel-Computing-in-MATLAB)
+  - [Quantum Computing](#Quantum-Computing)
   - [Statistics](#statistics)
   - [Using MATLAB in other environments](#using-matlab-in-other-environments)
 - [Resources](#resources)
@@ -209,6 +210,12 @@ Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online
 ## Parallel Computing in MATLAB
 
 * [Parallel Computing Toolbox](https://uk.mathworks.com/products/parallel-computing.html) - Mathworks Toolbox. Provides support for various parallel programming paradigms to scale MATLAB to 1000s of CPU cores and GPUs. Also helps make maximum use of your laptop if that's the only hardware you have.
+
+## Quantum Computing
+
+* [MATLAB Support Package for Quantum Computing](https://uk.mathworks.com/matlabcentral/fileexchange/125425-matlab-support-package-for-quantum-computing) - MATLAB Support Package for Quantum Computing lets you build, simulate, and run quantum algorithms. You can use your own PC or real quantum hardware via the cloud.
+* [QCLAB MATLAB Toolbox](https://github.com/QuantumComputingLab/qclab) - QCLAB is an object-oriented MATLAB toolbox for creating, representing and simulating quantum circuits.
+* [Strangeworks SDK](https://uk.mathworks.com/matlabcentral/fileexchange/129264-strangeworks) - This allows users to submit jobs from MATLAB to a range of Quantum Hardware via the Strangeworks platform.
 
 ## Statistics
 
