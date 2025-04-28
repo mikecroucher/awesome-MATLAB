@@ -265,7 +265,7 @@ Where to discover new MATLAB resources.
 
 ## Courseware
 
-** Materials developed to help you teach various subjects. **
+*Materials developed to help you teach various subjects.*
 
 * [Computer Vision Basics](https://www.mathworks.com/matlabcentral/fileexchange/180661-computer-vision-basics) - This curriculum module contains interactive MATLAB live scripts centered on the fundamentals of image segmentation.
 * [Convolution in Digital Signal Processing](https://www.mathworks.com/matlabcentral/fileexchange/97112-convolution-in-digital-signal-processing) - This curriculum module contains interactive MATLAB live scripts and supporting data files centered around the fundamentals of convolution in digital signal processing.
