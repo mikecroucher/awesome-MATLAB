@@ -153,7 +153,7 @@ Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online
 * [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) - exports MATLAB® figures to TikZ code for seamless inclusion in LaTeX documents.
 * [matplotlib colormaps](https://de.mathworks.com/matlabcentral/fileexchange/62729-matplotlib-2-0-colormaps--perceptually-uniform-and-beautiful) - Perceptually uniform colormaps.
 * [plot2svg](http://www.mathworks.com/matlabcentral/fileexchange/7401-scalable-vector-graphics--svg--export-of-figures) - exports MATLAB® figures to Scalable Vector Graphics format. This is particularly useful in older MATLAB® versions that don't support `print -dsvg`.
-* [Plotly MATLAB Library](https://plot.ly/matlab/) - exports MATLAB® figures to the online plotting service [plot.ly](https://plot.ly).
+* [Plotly MATLAB Library](https://plot.ly/matlab/) - exports MATLAB figures to the online plotting service [plot.ly](https://plot.ly).
 * [saveFigure](https://github.com/djoshea/matlab-save-figure) - exports MATLAB® figures to PDF, SVG, EPS and PNG with improved support for transparancy.
 * [wgPlot](https://mathworks.com/matlabcentral/fileexchange/24035-wgplot-weighted-graph-plot--a-better-version-of-gplot) - A better version of gplot.
 * [xkcdify](https://www.mathworks.com/matlabcentral/fileexchange/38499-xkcdify) - xkcd-style plots.
@@ -262,8 +262,16 @@ Where to discover new MATLAB resources.
 * [Undocumented Secrets of MATLAB-Java Programming](https://www.crcpress.com/Undocumented-Secrets-of-MATLAB-Java-Programming/Altman/9781439869031#isbn) - A great guide on MATLAB® and its Java interface (e.g. for GUIs or interaction with JVM software).
 * [An Introduction to MATLAB for Behavioral Researchers](http://www.sagepub.com/books/Book239284) - Beginner book for those with no programming experience. Targeted to those in psychology/behavioural sciences and uses real experimental data in examples.
 
+## Courseware
+
+** Materials developed to help you teach various subjects. **
+
+* [Computer Vision Basics](https://www.mathworks.com/matlabcentral/fileexchange/180661-computer-vision-basics) - This curriculum module contains interactive MATLAB live scripts centered on the fundamentals of image segmentation.
+* [Convolution in Digital Signal Processing](https://www.mathworks.com/matlabcentral/fileexchange/97112-convolution-in-digital-signal-processing) - This curriculum module contains interactive MATLAB live scripts and supporting data files centered around the fundamentals of convolution in digital signal processing.
+
 ## Reference Cards
 
+* [Cheat Sheets for MATLAB and Simulink](https://www.mathworks.com/campaigns/products/cheat-sheets.html) - Use these cheat sheets as quick reference resources for MATLAB and Simulink.
 * [MATLAB Quick Reference](http://www.robots.ox.ac.uk/~dwm/Courses/1P5_2011/MatlabQuickRef1v1.pdf) - by Eric Peasley, Department of Engineering Science, University of Oxford
 
 ## Social Media
