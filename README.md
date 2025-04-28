@@ -31,6 +31,7 @@ Inspired by [awesome-R](https://github.com/qinwf/awesome-R).
   - [Websites](#websites)
   - [Blogs](#blogs)
   - [Books](#books)
+  - [Courseware](#courseware)
   - [Reference Cards](#reference-cards)
   - [Social Media](#social-media)
   - [MOOCs](#moocs)
