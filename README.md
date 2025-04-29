@@ -86,7 +86,7 @@ Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online
 
 ## Geospatial
 
-* [Mappling Toolbox](https://uk.mathworks.com/help/map/index.html) - The official Mapping Toolbox from MathWorks.
+* [Mapping Toolbox](https://uk.mathworks.com/help/map/index.html) - The official Mapping Toolbox from MathWorks.
 * [TopoToolbox](https://topotoolbox.wordpress.com/) - TopoToolbox is a MATLAB program for the analysis of digital elevation models (DEMs). It's free and open source.
 * [m_map](https://www.eoas.ubc.ca/~rich/map.html) - A mapping package for Matlab.
 
