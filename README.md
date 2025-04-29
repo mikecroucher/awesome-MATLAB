@@ -122,6 +122,7 @@ Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online
 * [MATLink](http://matlink.org/) - To run MATLAB code inside Mathematica / Wolfram Language notebooks.
 * [node-matlab](https://github.com/zeybek/node-matlab) - To run MATLAB code inside NodeJS.
 * [Python](http://uk.mathworks.com/help/matlab/call-python-libraries.html) - How to call Python functions from within MATLAB.
+* [Rcall](https://github.com/kreutz-lab/Rcall) -  The Rcall interface runs in MATLAB and provides direct access to methods and software packages implemented in R.
 
 ## Interfacing with other programs
 
