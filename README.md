@@ -134,6 +134,7 @@ Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online
 ## Learning MATLAB
 
 * [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) - Start here if you've never used MATLAB before. 2 hour interactive intro from MathWorks. Free for all.
+* [MATLAB Simulink Energy Lab](https://github.com/mohammadrezwankhan/matlab-simulink-energy-lab) - Inspectable battery, thermal, state-of-charge, and power-electronics models with repeatable validation checks.
 * [AI-assisted MATLAB Programming with ChatGPT](https://www.coursera.org/learn/matlab-programming-with-chatgpt) - A Coursera course showing how to use ChatGPT to help you program in MATLAB 
 * [Software Carpentry lessons in MATLAB](http://swcarpentry.github.io/matlab-novice-inflammation/) - Teaching basic lab skills for research computing.
 * [Control Tutorials for MATLAB and Simulink](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home) - This site contains quite a bit control theory, some practical applications and how to implement these in MATLAB and SimuLink.
