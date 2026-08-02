@@ -222,8 +222,14 @@ Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online
 
 ## Statistics
 
+* [ARTU](https://github.com/cyrilvoyant/ARTU) - Reference implementations of five statistical baselines for solar radiation time series forecasting.
+* [cyclostationary-forecasting-matlab](https://github.com/cyrilvoyant/cyclostationary-forecasting-matlab) - Training-free BLEND and CLIPER forecasting operators for periodic time series.
 * [FSDA Toolbox](http://rosa.unipr.it/fsda.html) - FSDA (Flexible Statistics and Data Analysis) extends MATLAB and the Statistics Toolbox for the robust analysis of data sets affected by different sources of heterogeneity.
+* [Make_Stationary](https://github.com/cyrilvoyant/Make_Stationary) - Deseasonalization of periodic time series using a ridge-regularized extreme learning machine.
+* [PV_ELM_pred](https://github.com/cyrilvoyant/PV_ELM_pred) - Benchmark of persistence, autoregressive and extreme learning machine models for photovoltaic power forecasting.
+* [pv-dimensionality-reduction](https://github.com/cyrilvoyant/pv-dimensionality-reduction) - Filter and wrapper diagnostics for seven dimensionality reduction methods applied to time series forecasting.
 * [Statistics and Machine Learning Toolbox](https://uk.mathworks.com/help/stats/index.html) - Statistics and Machine Learning Toolbox from MathWorks.
+* [temporal-gamma-index](https://github.com/cyrilvoyant/temporal-gamma-index) - Tolerance-based gamma index for validating gridded forecasts against measurements.
 
 ## Using MATLAB in other environments
 
