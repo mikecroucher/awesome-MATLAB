@@ -222,8 +222,14 @@ Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online
 
 ## Statistics
 
+* [ARTU](https://github.com/cyrilvoyant/ARTU) - Reference implementations of five statistical baselines for solar radiation time series forecasting.
+* [cyclostationary-forecasting-matlab](https://github.com/cyrilvoyant/cyclostationary-forecasting-matlab) - Training-free BLEND and CLIPER forecasting operators for periodic time series.
 * [FSDA Toolbox](http://rosa.unipr.it/fsda.html) - FSDA (Flexible Statistics and Data Analysis) extends MATLAB and the Statistics Toolbox for the robust analysis of data sets affected by different sources of heterogeneity.
+* [Make_Stationary](https://github.com/cyrilvoyant/Make_Stationary) - Deseasonalization of periodic time series using a ridge-regularized extreme learning machine.
+* [PV_ELM_pred](https://github.com/cyrilvoyant/PV_ELM_pred) - Benchmark of persistence, autoregressive and extreme learning machine models for photovoltaic power forecasting.
+* [pv-dimensionality-reduction](https://github.com/cyrilvoyant/pv-dimensionality-reduction) - Filter and wrapper diagnostics for seven dimensionality reduction methods applied to time series forecasting.
 * [Statistics and Machine Learning Toolbox](https://uk.mathworks.com/help/stats/index.html) - Statistics and Machine Learning Toolbox from MathWorks.
+* [temporal-gamma-index](https://github.com/cyrilvoyant/temporal-gamma-index) - Tolerance-based gamma index for validating gridded forecasts against measurements.
 
 ## Using MATLAB in other environments
 
@@ -311,21 +317,3 @@ Where to discover new MATLAB resources.
 Your contributions are always welcome.  Refer to the [contribution guidelines](https://github.com/mikecroucher/awesome-MATLAB/blob/main/Contributing.md) if you'd like to make a Pull Request.
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
-
-## Solar Forecasting & Radiotherapy Tools
-
-- [PV_ELM_pred](https://github.com/cyrilvoyant/PV_ELM_pred) - Benchmark comparing persistence, BLEND, AR-OLS, and nine ELM variants for short-term PV forecasting; NICE skill scores vs baseline. (Leiva et al., 2026) [Zenodo](https://doi.org/10.5281/zenodo.21487267)
-
-- [pv-dimensionality-reduction](https://github.com/cyrilvoyant/pv-dimensionality-reduction) - Dimensionality-reduction diagnostics for endogenous PV forecasting: seven methods (PCA, Isomap, LLE, Autoencoders) with accuracy-frugality trade-off. *SETA* 2025. [DOI](https://doi.org/10.1016/j.seta.2025.104588)
-
-- [Make_Stationary](https://github.com/cyrilvoyant/Make_Stationary) - Ridge-regularized ELM deseasonalization for renewable energy time series. Phase-based seasonal extraction, stationary residuals. (Agoundedemba et al., 2026)
-
-- [ARTU](https://github.com/cyrilvoyant/ARTU) - Statistical reference methods for solar radiation forecasting: ARTU, Persistence, Climatology, CLIPER, Exponential Smoothing. *Renewable Energy* 191 (2022). [DOI](https://doi.org/10.1016/j.renene.2022.04.065)
-
-- [cyclostationary-forecasting-matlab](https://github.com/cyrilvoyant/cyclostationary-forecasting-matlab) - Training-free analytical BLEND/CLIPER operators for periodic energy time series. [arXiv:2602.18949](https://arxiv.org/abs/2602.18949)
-
-- [temporal-gamma-index](https://github.com/cyrilvoyant/temporal-gamma-index) - 3D Gamma Index for tolerance-based spatio-temporal forecast validation. Adapts radiotherapy method to renewable energy forecasting.
-
-- [LQ-Equiv](https://github.com/cyrilvoyant/LQ-Equiv) - MATLAB GUI for linear-quadratic-linear radiobiological modeling: BED, EQD2, NTCP, cancer risk. Voyant & Julian, *Reports of Practical Oncology and Radiotherapy* (2014).
-
-- [DICOM-Transfer-Modify](https://github.com/cyrilvoyant/DICOM-Transfer-Modify) - DICOM utility: transfer between systems, format conversion, metadata modification. Radiotherapy workflow automation.
