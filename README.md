@@ -151,6 +151,7 @@ Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online
 
 * [antijet](https://git.io/antijet) - An alternative to the problematic "jet"-colormap.
 * [export_fig](https://github.com/altmany/export_fig) - produces better vector/bitmap graphics than standalone MATLAB®.
+* [gplot3](https://github.com/cmccomb/gplot3) - Plots adjacency-matrix graphs in three dimensions.
 * [gramm](https://uk.mathworks.com/matlabcentral/fileexchange/54465-gramm-complete-data-visualization-toolbox-ggplot2-r-like) - GRAMmar of graphics for Matlab.
 * [hq-matlab-figs](http://dgleich.github.io/hq-matlab-figs/) - Creating high-quality graphics in MATLAB for papers and presentations.
 * [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) - exports MATLAB® figures to TikZ code for seamless inclusion in LaTeX documents.
